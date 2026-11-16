@@ -1,0 +1,178 @@
+[
+  {
+    "id": "2609.26709",
+    "rank": 1,
+    "top": true,
+    "title": "Nonlinear Spin Polarization Enables Néel Order Switching in Centrosymmetric Altermagnets",
+    "authors": "Sunit Das , Sayan Sarkar , Amit Agarwal",
+    "subjects": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall) ; Materials Science (cond-mat.mtrl-sci)",
+    "url": "https://arxiv.org/abs/2609.26709",
+    "status": "new",
+    "score": 12.5,
+    "tags": [
+      "altermagnetism",
+      "spintronics",
+      "spin-Hall"
+    ]
+  },
+  {
+    "id": "2609.26462",
+    "rank": 2,
+    "top": true,
+    "title": "Quantum Fisher information of driven-dissipative systems from Keldysh path integrals",
+    "authors": "Malik Jirasek , Igor Lesanovsky , Viktoria Noel",
+    "subjects": "Quantum Physics (quant-ph) ; Quantum Gases (cond-mat.quant-gas); Statistical Mechanics (cond-mat.stat-mech)",
+    "url": "https://arxiv.org/abs/2609.26462",
+    "status": "new",
+    "score": 9.5,
+    "tags": [
+      "non-Hermitian/open",
+      "Floquet"
+    ]
+  },
+  {
+    "id": "2609.26032",
+    "rank": 3,
+    "top": true,
+    "title": "Hyperbolic Restricted Boltzmann Machine Neural Quantum State",
+    "authors": "H. L. Dao",
+    "subjects": "Quantum Physics (quant-ph) ; Disordered Systems and Neural Networks (cond-mat.dis-nn); Machine Learning (cs.LG)",
+    "url": "https://arxiv.org/abs/2609.26032",
+    "status": "new",
+    "score": 8.5,
+    "tags": [
+      "entanglement",
+      "PINN/NNQS"
+    ]
+  },
+  {
+    "id": "2609.25877",
+    "rank": 4,
+    "title": "Measure-zero delocalization in the complex plane: exact mobility arcs in a non-Hermitian off-diagonal quasiperiodic lattice",
+    "authors": "Fu-Xi Zhong , Yi-Cai Zhang",
+    "subjects": "Disordered Systems and Neural Networks (cond-mat.dis-nn) ; Other Condensed Matter (cond-mat.other); Quantum Gases (cond-mat.quant-gas)",
+    "url": "https://arxiv.org/abs/2609.25877",
+    "status": "new",
+    "score": 5.5,
+    "tags": [
+      "non-Hermitian/open"
+    ]
+  },
+  {
+    "id": "2609.25641",
+    "rank": 5,
+    "title": "When Quantum Meets AI: Quantum Methods for Machine Learning and Machine Learning Methods for Quantum Systems",
+    "authors": "Tak Hur",
+    "subjects": "Quantum Physics (quant-ph) ; Artificial Intelligence (cs.AI)",
+    "url": "https://arxiv.org/abs/2609.25641",
+    "status": "new",
+    "score": 9.5,
+    "tags": [
+      "PINN/NNQS",
+      "QML"
+    ]
+  },
+  {
+    "id": "2609.26544",
+    "rank": 6,
+    "title": "Neural Network Backflow with Low-Rank Multi-Determinant Updates",
+    "authors": "Tianshu Huang , Xiaowei Ou , Vidvuds Ozolins",
+    "subjects": "Strongly Correlated Electrons (cond-mat.str-el) ; Superconductivity (cond-mat.supr-con); Quantum Physics (quant-ph)",
+    "url": "https://arxiv.org/abs/2609.26544",
+    "status": "new",
+    "score": 7.5,
+    "tags": [
+      "PINN/NNQS",
+      "many-body"
+    ]
+  },
+  {
+    "id": "2609.25242",
+    "rank": 7,
+    "title": "From Effective Temperature to Non-Boltzmann State Selection in Driven-Dissipative Quantum Criticality",
+    "authors": "Tiago Jorge , Jens Paaske , Pedro Ribeiro",
+    "subjects": "Strongly Correlated Electrons (cond-mat.str-el) ; Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Statistical Mechanics (cond-mat.stat-mech); Quantum Physics (quant-ph)",
+    "url": "https://arxiv.org/abs/2609.25242",
+    "status": "new",
+    "score": 7.5,
+    "tags": [
+      "non-Hermitian/open",
+      "many-body"
+    ]
+  },
+  {
+    "id": "2609.25201",
+    "rank": 8,
+    "title": "Measurement-Induced Phase Transitions and Logical-Space Localization in Floquet Monitored Clifford Circuits",
+    "authors": "Hyunsoo Ha , David A. Huse",
+    "subjects": "Quantum Physics (quant-ph)",
+    "url": "https://arxiv.org/abs/2609.25201",
+    "status": "new",
+    "score": 7.5,
+    "tags": [
+      "entanglement",
+      "Floquet"
+    ]
+  },
+  {
+    "id": "2609.25732",
+    "rank": 9,
+    "title": "Realization of quantum spin Hall insulator superlattice with emergent multigap-like helical edge states",
+    "authors": "Hui Guo , Xianghe Han , Fang Qin , Xiaoshuai Fu , Hao Peng , Hongqin Xiao , Hengxin Tan , Chen Liu , Zihao Huang , Jiayi Wang , Qian Fang , Rui Chen , Haitao Yang , Wang Yao , Li Huang , Hai-Zhou Lu , Hui Chen , Hong-Jun Gao",
+    "subjects": "Materials Science (cond-mat.mtrl-sci)",
+    "url": "https://arxiv.org/abs/2609.25732",
+    "status": "new",
+    "score": 14.5,
+    "tags": [
+      "non-Hermitian/open",
+      "spintronics",
+      "topology",
+      "spin-Hall"
+    ]
+  },
+  {
+    "id": "2609.25193",
+    "rank": 10,
+    "title": "Probing quantum spin liquids with multiple quantum coherences",
+    "authors": "Lukas Homeier , Simon Linsel , Lode Pollet , Ana Maria Rey",
+    "subjects": "Quantum Physics (quant-ph) ; Quantum Gases (cond-mat.quant-gas); Strongly Correlated Electrons (cond-mat.str-el); Atomic Physics (physics.atom-ph)",
+    "url": "https://arxiv.org/abs/2609.25193",
+    "status": "new",
+    "score": 8.5,
+    "tags": [
+      "entanglement",
+      "topology",
+      "many-body"
+    ]
+  },
+  {
+    "id": "2609.25919",
+    "rank": 11,
+    "title": "Time-reversal-odd Transport in Odd-Parity Magnets",
+    "authors": "Ling Bai , Si Li , Libor Šmejkal , Yugui Yao , Wanxiang Feng",
+    "subjects": "Materials Science (cond-mat.mtrl-sci)",
+    "url": "https://arxiv.org/abs/2609.25919",
+    "status": "new",
+    "score": 6.5,
+    "tags": [
+      "spintronics",
+      "spin-Hall"
+    ]
+  },
+  {
+    "id": "2507.14710",
+    "rank": 12,
+    "cross": true,
+    "title": "Thermally-driven reorientation of the Néel vector in altermagnetic MnTe",
+    "authors": "Thomas J. Hicken (1), Klára Uhlířová (2), Helena Reichlová (3), Ondrej Caha (4), Vincent C. Morano (1), Oliver Amin (5), Alfred Dal Din (5), J. Hugo Dil (6 and 7), Marek Duchan (4), Dominik Kriegner (3), Hubertus Luetkens (1), Zeno Maesen (1), Jan Martinek (2), Zaher Salman (1), Peter Wadley (5), Ok",
+    "subjects": "Materials Science (cond-mat.mtrl-sci) ; Strongly Correlated Electrons (cond-mat.str-el)",
+    "url": "https://arxiv.org/abs/2507.14710",
+    "status": "cross",
+    "score": 11.5,
+    "tags": [
+      "altermagnetism",
+      "spin-Hall",
+      "many-body"
+    ]
+  }
+]

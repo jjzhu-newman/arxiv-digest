@@ -1,0 +1,314 @@
+{
+  "date": "2026-10-15",
+  "user_tz": "America/Los_Angeles",
+  "arxiv_listing_date": "Thursday, 15 October 2026",
+  "arxiv_listing_dates": [
+    "Thursday, 15 October 2026"
+  ],
+  "listing_status": "announced",
+  "categories": [
+    "cond-mat",
+    "quant-ph",
+    "hep-th",
+    "math-ph",
+    "cs.LG",
+    "stat.ML"
+  ],
+  "new_counts": {
+    "cond-mat": 84,
+    "quant-ph": 56,
+    "hep-th": 25,
+    "math-ph": 11,
+    "cs.LG": 0,
+    "stat.ML": 27
+  },
+  "holiday_note": null,
+  "dedup_excluded_ids": [
+    "2610.16609",
+    "2610.16854",
+    "2610.18441",
+    "2610.16659",
+    "2610.17328",
+    "2610.18175",
+    "2610.14668",
+    "2610.15387",
+    "2610.15470",
+    "2610.17156",
+    "2610.17030",
+    "2610.17452"
+  ],
+  "zotero_checked": false,
+  "zotero_reason": "DESKTOP-00O6NSD offline (connected=false)",
+  "selected_count": 11,
+  "top_picks": [
+    "2610.20383",
+    "2610.18967",
+    "2610.19017"
+  ],
+  "picks": [
+    {
+      "id": "2610.20383",
+      "title": "Influence of the Néel vector on the bulk electronic structure of MnTe measured from the $(1 \\bar1 00)$ surface",
+      "authors": "D.A. Usanov · A.B. Hellenes · S. Hahn · M. Leandersson 等",
+      "subjects": "Strongly Correlated Electrons (cond-mat.str-el)",
+      "subject_short": "cond-mat.str-el",
+      "url": "https://arxiv.org/abs/2610.20383",
+      "status": "new",
+      "score": 16.5,
+      "tags": [
+        "altermagnetism",
+        "spintronics",
+        "PINN/NNQS",
+        "many-body"
+      ],
+      "cats": [
+        "cond-mat"
+      ],
+      "top_pick": true,
+      "why_zh": "α-MnTe (1̅100) 解理 ARPES：补偿磁对称面显著压低表面效应，直接看到 Néel 矢量依赖的 d 波能带劈裂——altermagnetism 实验标志物。",
+      "summary_zh": "交错磁给出无净磁化的动量依赖自旋劈裂。作者对体相 α-MnTe 沿 (1̅100) 面解理做 ARPES：该取向在表面保留补偿磁对称，大幅削弱表面效应与 kz 展宽，三维体能带清晰度明显提升。Γ–K–M 节点面内由交错磁序与自旋轨道驱动的 d 波劈裂与理论一致；价带顶靠近 A 点，相应空穴口袋主导输运。空间分辨测量显示 Γ–K 与 A–L 色散随表面 Néel 矢量钉扎而系统变化。工作给出面敏感地解析 MnTe 体交错磁电子结构的路径，并为 Néel 矢量依赖能带劈裂提供直接光谱证据。",
+      "in_zotero": null,
+      "zotero_note": "桌面 DESKTOP-00O6NSD 未在线，本次未做 Zotero 核对。",
+      "abstract": "Altermagnetism gives rise to momentum-dependent spin splitting without net magnetization. Here, we use angle-resolved photoemission spectroscopy (ARPES) to investigate bulk $\\alpha$-MnTe single crystals cleaved along the $(1\\bar{1}00)$ plane - an orientation that preserves the compensated magnetic symmetry at the surface and substantially reduces surface effects and $k_z$ broadening. We resolve the three-dimensional bulk band structure with markedly enhanced spectral clarity. The $d$-wave band splitting, driven by the altermagnetic order and spin-orbit coupling in the $\\mathbf{\\Gamma}-\\mathbf{K}-\\mathbf{M}$ nodal plane, shows a perfect match to theoretical predictions. We further establish that the valence-band maximum occurs near the $\\mathbf{A}$ point, identifying the corresponding hole pockets as the states governing the transport properties. Spatially resolved measurements reveal systematic variations of the band dispersion along $\\mathbf{\\Gamma}-\\mathbf{K}$ and $\\mathbf{A}-\\mathbf{L}$, associated with different pinning of the Néel vector at the surface. Our results establish a surface-sensitive route to resolving the bulk altermagnetic electronic structure of MnTe and provide direct spectroscopic evidence for Néel-vector-dependent band splitting."
+    },
+    {
+      "id": "2610.18967",
+      "title": "Non-Abelian quantum Hall states at strong Landau level mixing: finding anyons with first-principles AI",
+      "authors": "Pierre-Antoine Graham · Ahmed Abouelkomsan · Liang Fu",
+      "subjects": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall) ; Strongly Correlated Electrons (cond-mat.str-el); Artificial Intelligence (cs.AI)",
+      "subject_short": "cond-mat.mes-hall",
+      "url": "https://arxiv.org/abs/2610.18967",
+      "status": "new",
+      "score": 8.5,
+      "tags": [
+        "entanglement",
+        "topology",
+        "many-body"
+      ],
+      "cats": [
+        "cond-mat"
+      ],
+      "top_pick": true,
+      "why_zh": "动量分辨神经网络变分波函数从微观哈密顿量无先验地读出 ν=3/2 非阿贝尔量子霍尔态（Ising 型，√2 量子维）——NNQS × 任意子。",
+      "summary_zh": "偶分母分数量子霍尔中非阿贝尔任意子是拓扑量子计算的基石，但强朗道能级混合下哪一种拓扑序真被实现，长期缺乏完整非微扰解。作者在自旋极化 ν=3/2 首次把全部电子与全部朗道能级纳入计算，发展仅由微观哈密顿量优化的动量分辨神经网络变分波函数，直接触及拓扑简并基态。无需期望结果先验，网络发现简并流形，纠缠给出量子维 √2（Ising 型非阿贝尔标志）；与尝试波函数重叠进一步表明朗道能级混合偏好 anti-Pfaffian。展示神经网络波函数可在强混合、实验相关体制下从第一性原理发现并刻画非阿贝尔任意子。",
+      "in_zotero": null,
+      "zotero_note": "桌面 DESKTOP-00O6NSD 未在线，本次未做 Zotero 核对。",
+      "abstract": "Non-Abelian anyons, strange particles forming the basis of fault-tolerant topological quantum computing, are predicted to emerge in fractional quantum Hall states at even-denominator filling factors. Identifying which topological order is realized has proven to be a challenging problem that requires an accurate, non-perturbative treatment of realistic Landau level mixing, which has so far been missing from theoretical studies. Here we present the first complete solution of non-Abelian quantum Hall problem that includes all electrons and all Landau levels, for spin-polarized electrons at filling factor $\\nu = 3/2$. We develop a momentum-resolved neural-network variational wave function, optimized solely on the microscopic Hamiltonian, which gives direct access to the topologically degenerate ground states. Without any physics input about the expected outcome, it discovers a degenerate ground-state manifold whose entanglement reveals anyons with quantum dimension $\\sqrt{2}$, the hallmark of Ising-type non-Abelian order. By directly computing the overlap with trial wave functions, we further show that Landau level mixing favors the anti-Pfaffian over other candidate states. Our results demonstrate the power of neural-network wave functions in finding and characterizing non-Abelian anyons from first principles, in regimes of strong Landau level mixing, relevant to many recent experiments."
+    },
+    {
+      "id": "2610.19017",
+      "title": "Topological superconductivity in layered d-wave altermagnetic metals",
+      "authors": "Yijie Mo · Zhongbo Yan",
+      "subjects": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall) ; Materials Science (cond-mat.mtrl-sci); Superconductivity (cond-mat.supr-con)",
+      "subject_short": "cond-mat.mes-hall",
+      "url": "https://arxiv.org/abs/2610.19017",
+      "status": "new",
+      "score": 12.5,
+      "tags": [
+        "altermagnetism",
+        "spintronics",
+        "topology"
+      ],
+      "cats": [
+        "cond-mat"
+      ],
+      "top_pick": true,
+      "why_zh": "层状 d 波交错磁金属叠加奇宇称螺旋 p 波配对：镜面 Chern 与层对称给出螺旋 Majorana 边态及高阶角态——altermagnetism × 拓扑超导。",
+      "summary_zh": "考察多层 d 波交错磁金属上的奇宇称螺旋 p 波配对。最小双层中层间隧穿重构自旋劈裂费米面，形成两个有效化学势不同的层杂化扇区。无 Rashba 时，涌现镜面对称与子系统手征对称稳定不同数目的螺旋 Majorana 边模对及反向传播对，由镜面 Chern 数与高对称线绕数联合刻画。Rashba 与交错磁交换场共同打开螺旋对能隙，在一定参数区留下另一对反向传播边模无能隙，给出孤立或二重 Majorana 角模的二阶拓扑相，以及边模与角模共存的混合阶相。层对称阐明物理起源，并可推广到任意 N 层，在各扇区均进入非平凡二阶时出现 N 重角模。",
+      "in_zotero": null,
+      "zotero_note": "桌面 DESKTOP-00O6NSD 未在线，本次未做 Zotero 核对。",
+      "abstract": "We investigate multilayer d-wave altermagnetic metals with odd-parity helical p-wave pairing. In the minimal bilayer system, interlayer tunneling reconstructs the spin-split Fermi surfaces and generates two layer-hybridized sectors with distinct effective chemical potentials. Without Rashba spin-orbit coupling (RSOC), the emergent mirror symmetry and subsystem chiral symmetry stabilize phases with different numbers of helical Majorana edge-mode pairs and additional counterpropagating pairs, jointly characterized by the mirror Chern number and the winding numbers defined along high-symmetry lines. The combination of RSOC and the altermagnetic exchange field gaps out the helical Majorana pairs while, in a certain parameter regime, leaving another pair of counterpropagating Majorana edge modes gapless, giving rise to second-order topological phases with isolated or twofold Majorana corner modes, as well as a hybrid-order phase in which gapless Majorana edge modes coexist with Majorana corner modes. We identify a layer symmetry that elucidates the physical origin of these phases. For an arbitrary N-layer system, such a symmetry naturally arises from the interlayer-coupling matrix, allowing N-fold Majorana corner modes to emerge when all layer-hybridized sectors enter the nontrivial second-order regime. Our results establish the interplay among the layer degree of freedom, odd-parity pairing, and Fermi-surface configurations as a controllable route to engineering topological superconductivity in layered altermagnetic systems."
+    },
+    {
+      "id": "2610.19923",
+      "title": "Majorana Edge Modes Reshape Kibble-Zurek Scaling in Kitaev Honeycomb Ribbons",
+      "authors": "Hyesung Choi · Antonio Mandarino · Mahn-Soo Choi",
+      "subjects": "Quantum Physics (quant-ph) ; Strongly Correlated Electrons (cond-mat.str-el)",
+      "subject_short": "cond-mat.str-el",
+      "url": "https://arxiv.org/abs/2610.19923",
+      "status": "new",
+      "score": 13.5,
+      "tags": [
+        "entanglement",
+        "PINN/NNQS",
+        "topology",
+        "many-body"
+      ],
+      "cats": [
+        "cond-mat",
+        "quant-ph"
+      ],
+      "top_pick": false,
+      "why_zh": "Kitaev 蜂窝条带线性淬火：锯齿/扶手椅边界 Majorana 边模如何改写 Kibble–Zurek 缺陷标度与纠缠——拓扑 × 非平衡。",
+      "summary_zh": "可编程量子模拟器进展推动对拓扑物态非平衡动力学的精确基准。作者对 Kitaev 蜂窝模型以时间 τ 线性斜坡驱动键耦合 Jz 穿过临界区，比较锯齿/扶手椅条带与全周期管。激发产生由 N2/√τ（条带宽度对 KZ 长度）控制几何依赖有限尺寸交叉：周期管服从临界线 KZ 标度；锯齿条带在 Majorana 边模形成的有限宽代数能隙地板下指数压制缺陷，占据由反演宇称钉扎；扶手椅支持瞬态边模与宽度宇称依赖的缺陷平台。淬火纠缠熵与费米对数负度继承同一几何结构，负度进一步区分 KZ 区相干型纠缠与边模平台的占据型纠缠。",
+      "in_zotero": null,
+      "zotero_note": "桌面 DESKTOP-00O6NSD 未在线，本次未做 Zotero 核对。",
+      "abstract": "Recent progress in programmable quantum simulators motivates exact benchmarks for nonequilibrium dynamics in topological quantum matter. We study the Kitaev honeycomb model driven through its critical regions by a linear ramp of the bond coupling $J_z$ over a ramp time $\\tau$, comparing zigzag and armchair ribbons with fully periodic tubes. The production of excitations exhibits a geometry-dependent finite-size crossover controlled by $N_2/\\sqrt{\\tau}$, the ratio of the ribbon width to the Kibble--Zurek length. Periodic tubes obey the expected critical-line Kibble--Zurek scaling and serve as the boundary-free benchmark. Zigzag ribbons follow the same scaling until defect production is exponentially suppressed by a finite-width algebraic gap floor associated with the formation of Majorana edge modes, whose occupation is pinned by inversion parity. Armchair ribbons instead support transient Majorana edge modes with exponentially small gaps, producing width-parity-dependent defect plateaus: exactly one defect per unit length for odd widths and an approximate, transient plateau near one half for even widths. The quench-generated entanglement entropy and fermionic logarithmic negativity inherit the same geometry-dependent structure, and the negativity further distinguishes the coherence-borne entanglement of the Kibble--Zurek regime from the population-borne entanglement of the edge-mode plateaus. These results identify boundary Majorana modes as the mechanism controlling departures from ideal Kibble--Zurek dynamics and provide geometry-resolved benchmarks for programmable simulations of topological matter."
+    },
+    {
+      "id": "2610.18965",
+      "title": "Measurement-induced criticality for non-Abelian anyons: The monitored golden chain",
+      "authors": "Zhaohui Zhi · Bo Han · Romain Vasseur · Andreas W. W. Ludwig 等",
+      "subjects": "Strongly Correlated Electrons (cond-mat.str-el) ; Disordered Systems and Neural Networks (cond-mat.dis-nn); Statistical Mechanics (cond-mat.stat-mech); Quantum Physics (quant-ph)",
+      "subject_short": "cond-mat.str-el",
+      "url": "https://arxiv.org/abs/2610.18965",
+      "status": "new",
+      "score": 10.5,
+      "tags": [
+        "entanglement",
+        "topology",
+        "tensor-net",
+        "many-body"
+      ],
+      "cats": [
+        "cond-mat",
+        "quant-ph"
+      ],
+      "top_pick": false,
+      "why_zh": "非阿贝尔任意子链的测量诱导临界：监控“金链”给出非幺正 CFT 与可学习拓扑荷——受监控动力学 × 拓扑对称。",
+      "summary_zh": "偏好单一融合道的非阿贝尔任意子链具有由拓扑对称保护的最小模型 CFT 临界基态。作者考察其纯测量对应：局域非对易融合荷测量作用于 L 位任意子链，构成由非幺正 CFT 控制的非阿贝尔学习问题。把监控动力学映到随机张量网络，数值得到 1/L 标度 Lyapunov 间隙、弦长对数纠缠，以及测量记录 Shannon 熵中的有效中心荷。守恒拓扑荷以 z=1 锐化，可在 O(L) 时间尺度被解码器学习。因拓扑对称是 SU(2)_k 任意子论的非可逆对称，监控金链（k=3）成为 toric code（k=2）弱自对偶临界点的非阿贝尔推广，并开启 k≥3 一族。",
+      "in_zotero": null,
+      "zotero_note": "桌面 DESKTOP-00O6NSD 未在线，本次未做 Zotero 核对。",
+      "abstract": "Non-Abelian anyon chains whose interactions favor a single fusion channel host quantum critical ground states described by minimal-model conformal field theories (CFTs) protected by a topological symmetry. We show that their measurement-only counterpart, where non-commuting fusion charge measurements act locally on the anyons of a chain of $L$ sites, provides a fundamental example of a non-unitary CFT controlling a non-Abelian learning problem. Mapping the monitored dynamics to a random tensor network, we numerically find $1/L$ scaling Lyapunov gaps, logarithmic entanglement scaling with the chord length, and an effective central charge in the Shannon entropy of the measurement record. The conserved topological charge sharpens with dynamical exponent $z= 1$ and is learnable by a decoder on an $O(L)$ time scale. As the topological symmetry is a non-invertible symmetry of the $SU(2)_k$ anyon theories, we establish the monitored golden chain $(k=3)$ as a non-Abelian generalization of the weakly (Kramers-Wannier) self-dual quantum critical point of the toric code $(k=2)$, and the first of a family for $k\\geq 3$."
+    },
+    {
+      "id": "2610.19793",
+      "title": "Orientation-Dependent Universality of Spin-Transport Fluctuations in Two-Dimensional Altermagnets",
+      "authors": "Yihan Zhang · Zheng Qin · Donghui Xu · Junjie Zeng 等",
+      "subjects": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+      "subject_short": "cond-mat.mes-hall",
+      "url": "https://arxiv.org/abs/2610.19793",
+      "status": "new",
+      "score": 9.5,
+      "tags": [
+        "altermagnetism",
+        "spintronics"
+      ],
+      "cats": [
+        "cond-mat"
+      ],
+      "top_pick": false,
+      "why_zh": "二维 d 波交错磁无自旋轨道时，取向旋转改变纵向自旋电导与自旋霍尔涨落幅度及无序不敏感平台——altermagnetism × 普适涨落。",
+      "summary_zh": "普适电导涨落通常按对称类组织，但晶体各向异性给自旋输运额外结构。作者在无自旋轨道的无序二维 d 波交错磁中展示取向依赖的普适自旋输运涨落：旋转交错磁取向改变纵向自旋电导与横向自旋霍尔电导涨落，而各守恒自旋扇区仍属 AI 类。取向同时控制涨落幅度与无序不敏感平台的发展；取向趋近 45° 时平台更平坦、对交错磁强度更不敏感，代表幅度约 0.60e/(4π)（纵向）与 0.40e/(4π)（自旋霍尔）。纵向涨落与干净带费米速度张量各向异性强相关。工作把各向异性敏感普适涨落推广到守恒自旋的交错磁输运，并确立晶体取向为固定对称类内的控制参量。",
+      "in_zotero": null,
+      "zotero_note": "桌面 DESKTOP-00O6NSD 未在线，本次未做 Zotero 核对。",
+      "abstract": "Universal conductance fluctuations are conventionally organized by symmetry class, but crystalline anisotropy introduces additional structure in spin transport. Here we demonstrate orientation-dependent universal spin-transport fluctuations in disordered two-dimensional $d$-wave altermagnets without spin-orbit coupling. Rotating the altermagnetic orientation changes both longitudinal spin-conductance and transverse spin-Hall conductance fluctuations, while each conserved-spin sector remains in class AI. Altermagnetic orientation controls both the fluctuation amplitudes and the development of disorder-insensitive plateaus. These plateaus become flatter and less sensitive to the altermagnetic strength over the studied parameter ranges as the orientation approaches $45^\\circ$, with representative fluctuation amplitudes of approximately $0.60e/(4\\pi)$ for the longitudinal spin conductance and $0.40\\,e/(4\\pi)$ for the spin-Hall conductance. The longitudinal fluctuation amplitude correlates strongly with anisotropy of the clean-band Fermi-velocity tensor. Spin-sector covariances explain how the conserved channels combine into total fluctuations. Our results extend anisotropy-sensitive universal-fluctuation physics to conserved-spin altermagnetic transport and establish crystalline orientation as a control parameter within a fixed symmetry class."
+    },
+    {
+      "id": "2610.20016",
+      "title": "Metric-Changing Quasi-Hermitian Quenches: Normalized Loschmidt Amplitude and Complex-Time Zeros",
+      "authors": "Xu-Yang Hou · Jia-Chen Tang · Hao Guo",
+      "subjects": "Quantum Physics (quant-ph)",
+      "subject_short": "quant-ph",
+      "url": "https://arxiv.org/abs/2610.20016",
+      "status": "new",
+      "score": 5.5,
+      "tags": [
+        "non-Hermitian/open"
+      ],
+      "cats": [
+        "quant-ph"
+      ],
+      "top_pick": false,
+      "why_zh": "准厄米混态淬火中初末哈密顿量度规不同：归一化 Loschmidt 振幅与复时间分支奇异性无法被全局相似变换消去——非厄米 × DQPT。",
+      "summary_zh": "准厄米混态淬火中初末哈密顿量一般具有不同正定度规，故末后演化在初始物理空间并非准幺正。以制备/测量空间为参照，作者用度规相容纯化导出归一化混态 Loschmidt 振幅；双正交迹表示含由初始度规下演化纯化范数给出的归一化因子，该因子对比较不同物理希尔伯特空间的态至关重要并直接编码度规失配。证明归一化函数在实时间轴严格为正，故实时临界性仅来自动力学重叠的相消干涉；复时间中归一化零点产生异于 Fisher 零点的分支奇异性。对一般二能级系统给出 Fisher/归一化零点解析式，并分析例外点标度与温度、准厄米性依赖的 DQPT 临界时间。与度规静止淬火不同，此处度规失配给出无法被全局相似变换消去的真正非厄米动力学。",
+      "in_zotero": null,
+      "zotero_note": "桌面 DESKTOP-00O6NSD 未在线，本次未做 Zotero 核对。",
+      "abstract": "In quasi-Hermitian mixed-state quenches, the initial and final Hamiltonians generally possess different positive-definite metrics, so post-quench evolution is not quasi-unitary in the initial physical space. Choosing the preparation/measurement space as reference, we derive from first principles a normalized mixed-state Loschmidt amplitude using metric-compatible purifications. The resulting biorthogonal trace representation contains a normalization factor given by the norm of the evolved purification in the initial metric; this factor is essential for comparing states from different physical Hilbert spaces and directly encodes the metric mismatch. We prove that this normalization function is strictly positive on the real-time axis, so real-time criticality arises solely from destructive interference in the dynamical overlap. In complex time, zeros of the normalization factor generate branch singularities distinct from Fisher zeros. For a general two-level system, we derive analytic expressions for the Fisher and normalization zeros and analyze exceptional-point scaling together with the temperature- and quasi-Hermiticity-dependent DQPT critical times in two solvable quench protocols. In contrast to metric-stationary quenches, where non-Hermitian effects may be absorbed into an equivalent Hermitian description, the metric mismatch here produces genuine non-Hermitian dynamics: a time-dependent normalization factor and complex-time branch structure that cannot be removed by any global similarity transformation."
+    },
+    {
+      "id": "2610.19261",
+      "title": "Beyond the lemon: Spectra of random Lindblad operators with a Hamiltonian component",
+      "authors": "Mykhailo Hontarenko · Wojciech Tarnowski · Sergey Denisov · Karol Życzkowski",
+      "subjects": "Statistical Mechanics (cond-mat.stat-mech) ; Mathematical Physics (math-ph); Quantum Physics (quant-ph)",
+      "subject_short": "cond-mat.stat-mech",
+      "url": "https://arxiv.org/abs/2610.19261",
+      "status": "new",
+      "score": 5.5,
+      "tags": [
+        "non-Hermitian/open"
+      ],
+      "cats": [
+        "cond-mat",
+        "quant-ph",
+        "math-ph"
+      ],
+      "top_pick": false,
+      "why_zh": "带哈密顿分量的随机 Lindblad：算子值自由概率刻画谱边界与哈密顿“挤压”——开放系统随机矩阵 × Liouvillian 谱。",
+      "summary_zh": "Lindblad 算子是连续时间量子马尔可夫演化的生成元；如何定义并刻画随机 Lindbladian 近年受关注。纯耗散随机 Lindbladian 已用自由概率与非厄米随机矩阵揭示特征柠檬形谱支撑。本文聚焦含哈密顿分量的随机 Lindbladian，分析三个复杂度递增的系综以说明耗散与哈密顿动力学的联合效应。前两系综可用标准概率与自由概率精确处理；独立随机哈密顿与耗散分量的通例需结合算子值自由概率与序贯噪声平均的新框架，保留 Lindblad 算子的张量积结构并导出谱边界一般方程。作者刻画哈密顿诱导的谱挤压，并说明谱支撑如何随相对哈密顿强度与耗散分量秩而变化。",
+      "in_zotero": null,
+      "zotero_note": "桌面 DESKTOP-00O6NSD 未在线，本次未做 Zotero 核对。",
+      "abstract": "Generators of continuous-time quantum Markovian evolution, known as Lindblad operators, play a key role in the theory of open quantum systems. The question of how to define and characterize random Lindblad operators has attracted considerable attention in recent years. Purely dissipative random Lindbladians have been extensively studied using toolboxes of free probability and non-Hermitian random matrix theories, which helped, among other results, to uncover a characteristic lemon-like spectral support. In this work, we focus on random Lindbladians with a Hamiltonian component. We analyze three ensembles of increasing complexity, designed to illustrate the joint effects of dissipative and Hamiltonian dynamics. While the first two ensembles allow for an exact analytic treatment with standard probabilistic and free-probability methods, the generic case of independently random Hamiltonian and dissipative components requires a novel framework that combines operator-valued free probability with sequential noise averaging. For this ensemble, our approach preserves the underlying tensor-product structure of the Lindblad operator and derives a general equation for the spectral boundary. We characterize the effect of Hamiltonian-induced spectral squeezing and explain how the spectral support changes with the relative Hamiltonian strength and the rank of the dissipative component."
+    },
+    {
+      "id": "2610.18983",
+      "title": "Instability of Markov chains under infinitesimal coherent dissipation",
+      "authors": "Amir-Reza Negari · Yijian Zou · Timothy H. Hsieh",
+      "subjects": "Quantum Physics (quant-ph) ; Statistical Mechanics (cond-mat.stat-mech); Strongly Correlated Electrons (cond-mat.str-el)",
+      "subject_short": "cond-mat.stat-mech",
+      "url": "https://arxiv.org/abs/2610.18983",
+      "status": "new",
+      "score": 7.5,
+      "tags": [
+        "non-Hermitian/open",
+        "many-body"
+      ],
+      "cats": [
+        "cond-mat",
+        "quant-ph"
+      ],
+      "top_pick": false,
+      "why_zh": "任意短的严格局域 Lindblad 即可从积态造出无限 Markov 长度；长程条件关联态仍可由亚线性深度线路可逆连回积态——开放系统 × 量子马尔可夫。",
+      "summary_zh": "局域 Lindblad 演化下条件互信息及其 Markov 长度增长不受 Lieb–Robinson 界限制，但 Markov 长度能多快增长此前不清。作者证明任意短的严格局域 Lindblad 即可从积态生成无限 Markov 长度；并构造迅速收敛到条件互信息代数衰减稳态的严格局域 Lindbladian。尽管有长程条件关联，所构造态仍可由亚线性深度线路局域可逆地连回积态。因此无限 Markov 长度既不意味慢弛豫，也不（在适当定义下）阻碍相稳定性。",
+      "in_zotero": null,
+      "zotero_note": "桌面 DESKTOP-00O6NSD 未在线，本次未做 Zotero 核对。",
+      "abstract": "Under local Lindbladian evolution, the growth of conditional mutual information and its associated Markov length scale is not limited by Lieb-Robinson bounds, yet it has been unclear how quickly the Markov length can increase. We show that an arbitrarily short, strictly local Lindbladian can generate infinite Markov length from a product state. We also construct strictly local Lindbladians that converge rapidly to steady states with algebraically decaying conditional mutual information. Despite their long-range conditional correlations, the states we construct are local reversibly connected to a product state by sublinear depth circuits. Thus infinite Markov length does not imply slow relaxation nor obstruct phase stability when suitably defined."
+    },
+    {
+      "id": "2610.19061",
+      "title": "Cooperative Boundary Switching of Mesoscopic Real Spectra in a Non-Hermitian Chain Family",
+      "authors": "Chengxi Li · Hao Zhu · Tie-Fu Zhang · Wanzi Sun 等",
+      "subjects": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+      "subject_short": "cond-mat.mes-hall",
+      "url": "https://arxiv.org/abs/2610.19061",
+      "status": "new",
+      "score": 5.5,
+      "tags": [
+        "non-Hermitian/open"
+      ],
+      "cats": [
+        "cond-mat"
+      ],
+      "top_pick": false,
+      "why_zh": "非厄米链族在固定体临界下，单端实势维持局域实谱布居（∝√N），两端实势可消除——非厄米边界控制 × 实谱。",
+      "summary_zh": "在固定体临界下，每个固定非奇异实单端势在一类开放解析非厄米链族中保持不断增长的局域实本征值布居；两端实势的开区域则可消除该布居。边界振幅判据确定最少受控端数。布居随链长 N 以 √N 增长，但其归一化谱权重趋于零且局域极限带不变。对代表链的四个零失谐设定，独立被动厄米双链把该区分转化为固定局域端口、共同耦合扫描下的分离共振；绝对反射反差与稳定裕度均按 N⁻¹ 标度。边界振幅因而给出极限带与热力学谱密度所不指定的最小控制要求。",
+      "in_zotero": null,
+      "zotero_note": "桌面 DESKTOP-00O6NSD 未在线，本次未做 Zotero 核对。",
+      "abstract": "At fixed bulk criticality, every fixed nonsingular real single-end potential preserves a growing local population of real eigenvalues in an open analytic family of non-Hermitian chains. An open region of two-end real potentials removes this population. A boundary-amplitude criterion fixes the minimum number of controlled ends. The population grows as $\\sqrt N$, where $N$ is chain length, although its normalized spectral weight vanishes and the local limiting bands remain unchanged. For a representative chain's four zero-detuning settings, an independent passive Hermitian double chain converts this distinction into separated resonances at one fixed local port under a common coupling scan at fixed probe carrier. Its absolute reflection contrast and stability margin both scale as $N^{-1}$, with explicit sufficient resource budgets. Boundary amplitudes thus fix a minimum control requirement that limiting bands and thermodynamic spectral density do not specify."
+    },
+    {
+      "id": "2610.19770",
+      "title": "Beyond Kitaev exchange: $Γ'$-driven magnetism in Ag$_3$LiRh$_2$O$_6$",
+      "authors": "Efrain Insuasti Pazmino · Shi Feng · Ramesh Dhakal · Ioannis Rousochatzakis 等",
+      "subjects": "Strongly Correlated Electrons (cond-mat.str-el) ; Materials Science (cond-mat.mtrl-sci)",
+      "subject_short": "cond-mat.str-el",
+      "url": "https://arxiv.org/abs/2610.19770",
+      "status": "new",
+      "score": 8.5,
+      "tags": [
+        "spintronics",
+        "topology",
+        "many-body"
+      ],
+      "cats": [
+        "cond-mat"
+      ],
+      "top_pick": false,
+      "why_zh": "蜂窝铑酸盐 Ag₃LiRh₂O₆ 中 Γ₁' 仅次于铁磁 Kitaev K₁：解释 94 K 高磁有序温及其压致下降，并预言非常规磁子拓扑——Kitaev 磁体 × 自旋各向异性。",
+      "summary_zh": "Kitaev 磁体中键依赖自旋各向异性相互作用可通向量子自旋液体，但以 Kitaev 交换为主导的材料稀少，扩展 Kitaev 模型的广阔参数空间实验上大多未探。作者结合 DFT、团簇多体、自旋波与 DMRG，表明新发现蜂窝铑酸盐 Ag₃LiRh₂O₆ 的非对角交换 Γ₁' 幅度仅次于铁磁 Kitaev K₁。K₁+Γ₁' 组合解释常压下异常高的 94 K 磁有序温度及其在静水压下随体系由面内铁磁向 zigzag 演化而迅速下降。自旋波进一步预言 Γ₁' 导致的非常规磁子能带拓扑。大三角晶场劈裂增强 Γ₁'，开辟扩展 Kitaev 模型的新有趣区间。",
+      "in_zotero": null,
+      "zotero_note": "桌面 DESKTOP-00O6NSD 未在线，本次未做 Zotero 核对。",
+      "abstract": "In Kitaev magnets, frustration arises from bond-dependent spin anisotropic interactions, which can potentially realize sought-after quantum spin liquid phases. However, material realizations with dominating Kitaev exchange are scarce and the broad parameter space of extended Kitaev models remains largely unexplored experimentally. Here, we use density-functional theory, cluster many-body, spin-wave, and density-matrix renormalization calculations to show that the recently discovered honeycomb rhodate Ag$_3$LiRh$_2$O$_6$ hosts an off-diagonal exchange $\\Gamma_1'$ that is second in magnitude only to the ferromagnetic Kitaev exchange $K_1$. This combination of $K_1$ and $\\Gamma_1'$ explains key experimental observations, an unusually high magnetic ordering temperature of 94 K at ambient pressure and its rapid decrease under hydrostatic pressure as Ag$_3$LiRh$_2$O$_6$ evolves from ferromagnetic toward zigzag order within the honeycomb planes. Our spin-wave calculations further predict an unusual topology of the magnon bands arising from the $\\Gamma_1'$ term in the spin Hamiltonian of the honeycomb layer. We show that the large trigonal splitting of $t_{2g}$ states enhances $\\Gamma_1'$, the hitherto underappreciated term in Kitaev magnets, and opens the way to new interesting regimes of the extended Kitaev model."
+    }
+  ]
+}

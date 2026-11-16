@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-13",
+  "arxiv_listing_date": null,
+  "listing_status": "not_yet_announced",
+  "reason_zh": "2026-10-12（周一）为 arXiv 假期（Indigenous Peoples' Day / Columbus Day），周一晚间公告顺延；周二新投稿预计美东 20:00（美西约 17:00）才上线。当前 /list/*/new 仍为周一 10/12 清单，与昨日摘要相同。",
+  "next_announcement_et": "2026-10-13 20:00 EDT",
+  "next_announcement_pt": "2026-10-13 17:00 PDT",
+  "categories_scanned": [
+    "cond-mat",
+    "quant-ph",
+    "hep-th",
+    "math-ph",
+    "cs.LG",
+    "stat.ML"
+  ],
+  "new_counts": {
+    "cond-mat": 71,
+    "quant-ph": 63,
+    "hep-th": 31,
+    "math-ph": 6,
+    "cs.LG": 146,
+    "stat.ML": 23,
+    "note": "counts reflect still-showing Mon 10/12 listings; not Tue 10/13"
+  },
+  "zotero_checked": false,
+  "zotero_note": "skipped — no Tuesday picks to check",
+  "in_library": [],
+  "top_picks": [],
+  "selected_count": 0,
+  "picks": [],
+  "prior_digest": "/workspace/arxiv-digest/2026-10-12/report.md"
+}

@@ -1,0 +1,335 @@
+{
+  "date": "2026-10-14",
+  "user_tz": "America/Los_Angeles",
+  "arxiv_listing_date": "Wednesday, 14 October 2026",
+  "arxiv_listing_dates": [
+    "Wednesday, 14 October 2026"
+  ],
+  "listing_status": "announced",
+  "categories": [
+    "cond-mat",
+    "quant-ph",
+    "hep-th",
+    "math-ph",
+    "cs.LG",
+    "stat.ML"
+  ],
+  "new_counts": {
+    "cond-mat": 260,
+    "quant-ph": 170,
+    "hep-th": 50,
+    "math-ph": 24,
+    "cs.LG": 502,
+    "stat.ML": 51
+  },
+  "holiday_note": "Post Indigenous Peoples' Day (Mon 10/12) catch-up: 10/13 digest saw not_yet_announced (still Mon 12 Oct batch). Today /new shows Wed 14 Oct with unusually large new counts; excluded 12 picks from 2026-10-12 final_picks.json.",
+  "dedup_excluded_ids": [
+    "2610.12546",
+    "2610.12551",
+    "2610.12607",
+    "2610.12791",
+    "2610.12900",
+    "2610.12985",
+    "2610.13153",
+    "2610.13444",
+    "2610.13584",
+    "2610.13622",
+    "2610.13754",
+    "2610.13784"
+  ],
+  "zotero_checked": false,
+  "zotero_reason": "DESKTOP-00O6NSD offline (connected=false)",
+  "selected_count": 12,
+  "top_picks": [
+    "2610.16609",
+    "2610.16854",
+    "2610.18441"
+  ],
+  "picks": [
+    {
+      "id": "2610.16609",
+      "title": "Emergent quantum algebras in dissipative time crystals",
+      "authors": "Joseph Tindall",
+      "subjects": "Quantum Physics (quant-ph)",
+      "subject_short": "quant-ph",
+      "url": "https://arxiv.org/abs/2610.16609",
+      "status": "new",
+      "score": 12.5,
+      "tags": [
+        "non-Hermitian/open",
+        "entanglement",
+        "Floquet"
+      ],
+      "cats": [
+        "quant-ph"
+      ],
+      "top_pick": true,
+      "why_zh": "Lindblad 下耗散时间晶体的渐近量子代数：集体自旋极限中非衰减振荡模的构造与淬火纠缠——开放系统 × Floquet/时间晶体。",
+      "summary_zh": "强动力学对称为 Lindblad 方程中的持续振荡提供代数描述；有限维、满秩稳态时，这类对称是 Liouvillian 谱出现非衰减振荡模的充要条件。作者对集体自旋给出渐近对应：单自旋 S 处于磁场并经线性跳跃算符耗散时，给出场与耗散耦合使非衰减振荡在 S→∞ 出现的精确条件，并写出可作用于稳态以构造这些模的闭式“对称”算符（虚本征值，O(1/S) 修正）。第二个涌现守恒量补全代数，其慢弛豫决定量子噪声如何选定稳态。推广到共享公共库的一对相互作用自旋后，该量子代数使淬火过程中的纠缠可解析触及。",
+      "in_zotero": null,
+      "zotero_note": "桌面 DESKTOP-00O6NSD 未在线，本次未做 Zotero 核对。",
+      "abstract": "Strong dynamical symmetries provide an algebraic description of persistent oscillations in open quantum systems governed by the Lindblad equation. For finite-dimensional systems with a full-rank stationary state, such symmetries are necessary and sufficient for non-decaying oscillatory modes to appear in the Liouvillian's spectrum. These modes can be directly constructed by acting on stationary states with the identified symmetry operators. Here we establish an asymptotic counterpart of this algebra for collective spins. Taking a single spin $S$ in a magnetic field, subject to dissipation through linear jump operators, we identify the exact conditions on the field and dissipative couplings under which non-decaying oscillatory modes emerge as $S \\rightarrow \\infty$. We then write down a simple, closed form for the corresponding `symmetry' operator which can be applied to the steady state to construct these modes, which are eigenvectors of the Liouvillian, with imaginary eigenvalues, up to $O(1/S)$ corrections. A second operator, an emergent conserved quantity, completes the algebra, and its slow relaxation determines how quantum noise selects the stationary state. The construction can be directly extended to a pair of interacting spins sharing a common reservoir, with the resulting quantum algebra making the entanglement during a quench analytically accessible."
+    },
+    {
+      "id": "2610.16854",
+      "title": "Geodesic steering for rapid dissipative entanglement distribution",
+      "authors": "Keshav Venkataraman, Pablo Martinez-Azcona, Marko Ljubotina, Adrian Parra-Rodriguez 等",
+      "subjects": "Quantum Physics (quant-ph)",
+      "subject_short": "quant-ph",
+      "url": "https://arxiv.org/abs/2610.16854",
+      "status": "new",
+      "score": 10.5,
+      "tags": [
+        "non-Hermitian/open",
+        "entanglement",
+        "many-body"
+      ],
+      "cats": [
+        "quant-ph"
+      ],
+      "top_pick": true,
+      "why_zh": "用测地线式最优控制沿瞬时稳态轨迹加速耗散制备，把近最大纠缠态的制备时间压低数个量级——开放系统态工程 × 纠缠分发。",
+      "summary_zh": "作者提出加速复杂高纠缠多体态耗散制备的最优控制：类似孤立系统最优转向，控制脉冲引导开放系统沿瞬时稳态轨迹演化，同时最小化非绝热泄漏。许多情形下控制参量可解析导出，无需数值求解完整多体主方程。应用于耦合公共波导或分布式压缩库的比特系统制备双/多方纠缠：相对淬火后的裸弛豫，近最大纠缠态制备时间可缩短数个量级，使耗散纠缠分发与高保真量子信息处理时间尺度兼容，并更广地说明泄漏最小化可加速库工程。",
+      "in_zotero": null,
+      "zotero_note": "桌面 DESKTOP-00O6NSD 未在线，本次未做 Zotero 核对。",
+      "abstract": "We describe an optimal-control strategy designed to accelerate the dissipative preparation of complex, highly entangled quantum many-body states. Analogous to optimal steering of isolated quantum systems, our scheme identifies control pulses that guide the evolution of open quantum systems along trajectories of instantaneous steady states while minimizing leakage resulting from non-adiabatic transitions. In many cases of interest, these control parameters can be derived analytically and without the need for computationally expensive numerical simulations of the full many-body master equation. We apply this technique for the preparation of bi- and multipartite entangled states in qubit systems coupled to a common photonic waveguide or a distributed squeezed reservoir. In both scenarios, our optimal-control strategy significantly outperforms the bare relaxation dynamics after a quench, reducing preparation times of near-maximally entangled states by orders of magnitude. This drastic speedup makes dissipative entanglement distribution protocols compatible with high-fidelity quantum information processing applications and illustrates more broadly the potential of leakage minimization for accelerating reservoir-engineering schemes."
+    },
+    {
+      "id": "2610.18441",
+      "title": "Altermagnetic Ground States on the Ammann--Beenker Tiling",
+      "authors": "SeungBeom Hong, YunHo Kim, Moon Jip Park, GiBaik Sim",
+      "subjects": "Strongly Correlated Electrons (cond-mat.str-el) ; Disordered Systems and Neural Networks (cond-mat.dis-nn); Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+      "subject_short": "cond-mat.str-el",
+      "url": "https://arxiv.org/abs/2610.18441",
+      "status": "new",
+      "score": 8.5,
+      "tags": [
+        "altermagnetism",
+        "many-body"
+      ],
+      "cats": [
+        "cond-mat"
+      ],
+      "top_pick": true,
+      "why_zh": "准晶 Ammann–Beenker 铺砌上经典 Heisenberg 模型的精确交错磁基态，并以 g 波对称自旋分辨输运确证——altermagnetism 推广到非周期系统。",
+      "summary_zh": "作者利用母四维超立方格子的宇称结构，在 Ammann–Beenker 准晶铺砌上求得经典 Heisenberg 模型的精确交错磁基态：共面序由自旋群对称 [C_{2x}∥C_{8z}] 刻画。无平移对称时动量空间自旋劈裂不再直接可得，于是把自旋耦合到巡游电子，展示具有 g 波对称的自旋分辨输运，从而在非周期系统中确认交错磁本质。工作给出准晶中交错磁序的几何路径，把精确磁基态与自旋分辨输运签名连接起来。",
+      "in_zotero": null,
+      "zotero_note": "桌面 DESKTOP-00O6NSD 未在线，本次未做 Zotero 核对。",
+      "abstract": "We identify exact altermagnetic ground states of a classical Heisenberg model on a quasicrystal. Considering the Ammann--Beenker tiling as an example, we determine the ground states by exploiting the parity structure of its parent four-dimensional hypercubic lattice. The ground state hosts coplanar altermagnetic order characterized by the preserved spin-group symmetry $[C_{2x}\\parallel C_{8z}]$. Without translational symmetry, the momentum-space spin splitting that usually identifies altermagnets is not directly accessible. We instead couple the spins to itinerant electrons and show spin-resolved transport with $g$-wave symmetry, confirming the altermagnetic nature in a nonperiodic system. Our results establish a geometric route to altermagnetic order in quasicrystals, connecting exact magnetic ground states to their spin-resolved transport signatures."
+    },
+    {
+      "id": "2610.16659",
+      "title": "Nontrivial topological properties from the cooperation of static perturbations and Floquet fields in type-II semi-Dirac semimetals",
+      "authors": "Wen-Hao Bian, Jing Wang",
+      "subjects": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall) ; Strongly Correlated Electrons (cond-mat.str-el)",
+      "subject_short": "cond-mat.mes-hall",
+      "url": "https://arxiv.org/abs/2610.16659",
+      "status": "new",
+      "score": 12.5,
+      "tags": [
+        "Floquet",
+        "topology",
+        "spin-Hall",
+        "many-body"
+      ],
+      "cats": [
+        "cond-mat"
+      ],
+      "top_pick": false,
+      "why_zh": "静质量与双频正交偏振 Floquet 光协同，在 II 型半 Dirac 半金属中打开可调控 Chern 相与 Berry 曲率偶极——Floquet × 拓扑输运。",
+      "summary_zh": "对 II 型半 Dirac 半金属分别考察静对称破缺、双频正交偏振光（TFOPL）Floquet 驱动及其混合。静质量 m_z 打开体能隙并进入 Chern 绝缘体（C=±2 sgn(m_z)）；TFOPL 单独只移动 Dirac 点、不开满隙，但产生沿 x 的有限 Berry 曲率偶极。混合情形能隙关闭判据变为三次，可出现多重光可调能隙关闭点与一系列拓扑相变；BCD 在能隙关闭流形附近双峰增强并可整体反号。AHC/ATHC 的量子化平台标志 Chern 相，ANC 作为费米面探针可识别全局拓扑不变量未变时的光致能隙。",
+      "in_zotero": null,
+      "zotero_note": "桌面 DESKTOP-00O6NSD 未在线，本次未做 Zotero 核对。",
+      "abstract": "In this work, we present a comprehensive theoretical study for the topological and anomalous transport properties of type-II SDSMs under three scenarios, i.e., static symmetry-breaking perturbations, periodic Floquet driving by two-frequency orthogonally polarized light (TFOPL), and their cooperative effects in the hybrid scenario. We first show that a static mass $m_z$ opens a bulk gap and drives the system into a Chern insulator with Chern number $C^{\\rm per}=\\pm 2\\,{\\rm sgn}(m_z)$. In comparison, TFOPL alone only shifts the positions of Dirac points and cannot open a full gap. Nevertheless, it produces a Berry curvature odd in the $x$-direction, yielding a finite Berry curvature dipole (BCD) along $x$ proportional to the sine of the initial phase, while the $y$-component vanishes. The hybrid scenario, by contrast, exhibits a remarkably rich phenomenology. Specifically, its gap-closure criterion becomes cubic and thus admits up to three real roots when the effective parameter along the $x$-direction is negative, thereby producing multiple light-tunable gap-closing points and a series of topological phase transitions. In particular, the BCD exhibits a double-peak structure with strong enhancement near gap-closing manifolds and synchronized sign reversal of the full vector under external tuning. We further analyze the anomalous Hall conductivity (AHC), anomalous Nernst conductivity (ANC), and anomalous thermal Hall conductivity (ATHC). The AHC and ATHC exhibit quantized plateaus that serve as signatures of Chern-insulator phases, while the ANC, being a Fermi-surface probe, provides complementary local information and can identify light-induced gaps even when global topological invariants remain unchanged. Taken together, these results offer useful insights into the topological properties of 2D type-II SDSMs and related systems."
+    },
+    {
+      "id": "2610.17328",
+      "title": "Krylov Complexity and Quantum Many-body Scars in Non-Hermitian Kinetically Constrained Models",
+      "authors": "Arkaprava Sil, Rudraksh Kaushik, Souvik Kundu, Prasant Mallik 等",
+      "subjects": "Quantum Physics (quant-ph) ; Strongly Correlated Electrons (cond-mat.str-el)",
+      "subject_short": "quant-ph",
+      "url": "https://arxiv.org/abs/2610.17328",
+      "status": "new",
+      "score": 10.5,
+      "tags": [
+        "non-Hermitian/open",
+        "entanglement",
+        "many-body"
+      ],
+      "cats": [
+        "cond-mat",
+        "quant-ph"
+      ],
+      "top_pick": false,
+      "why_zh": "非厄米 PXP/PPXPP 动力学约束模型中左右本征态系综的 Krylov 复杂度与 scar 结构分叉——非厄米 × 多体 scar。",
+      "summary_zh": "热化破缺在厄米动力学约束模型中已有大量研究，非厄米情形左右本征态系综不等价。作者考察非厄米推广的 PXP 与 PPXPP：随非厄米性增强，右系综 Krylov 复杂度保持周期渐长的持续振荡，左系综逐渐饱和；Arnoldi 系数的拱形轮廓在两系综中被不同地改写。非厄米 PXP 中右系综保留特征 scar，左系综则出现与真空大重叠、纠缠异常低的额外非 scar 本征态。结论强调刻画非厄米动力学约束系统时必须分开处理左右系综。",
+      "in_zotero": null,
+      "zotero_note": "桌面 DESKTOP-00O6NSD 未在线，本次未做 Zotero 核对。",
+      "abstract": "Thermalization in closed quantum systems and its breakdown are central to understanding the emergence of statistical behavior in isolated many-body systems. Kinetic constraints can hinder thermalization by restricting the allowed dynamics and giving rise to non-ergodic behavior. While various aspects of ergodicity breaking in kinetically constrained models have been extensively studied in Hermitian systems, their behavior in non-Hermitian kinetically constrained models remains less explored. In particular, the inequivalence of left and right eigenstate ensembles in non-Hermitian systems raises the question of whether they exhibit qualitatively different dynamical and eigenstate properties. In this work, we study non-Hermitian generalizations of the paradigmatic PXP and PPXPP models, focusing on their Krylov complexity, eigenstate structure, and dynamics. By exploiting the Arnoldi's algorithm, we find distinct behavior of Krylov complexity in the left and right eigenstate ensembles as non-Hermiticity is increased: in the right ensemble, it exhibits persistent oscillations with an increasing period, while in the left ensemble, it gradually saturates. The characteristic arch-shaped profile of the Arnoldi coefficients is also modified differently in the two ensembles, with a Hermitian-like arch re-emerging in the left ensemble at large non Hermiticity. Additionally, in the non-Hermitian PXP model, the right ensemble retains the characteristic scar structure, while the left ensemble develops additional non-scar eigenstates with anomalously low entanglement and large overlap with the vacuum state. These findings reveal that non-Hermiticity can affect Krylov dynamics and eigenstate structure differently in the left and right ensembles, demonstrating the need to treat them separately when characterizing non-Hermitian kinetically constrained systems."
+    },
+    {
+      "id": "2610.18175",
+      "title": "Non-Hermitian Statistical Geometry",
+      "authors": "Xi Hu, Yan-Qiong Ma, Su-Peng Kou",
+      "subjects": "Strongly Correlated Electrons (cond-mat.str-el) ; Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+      "subject_short": "cond-mat.str-el",
+      "url": "https://arxiv.org/abs/2610.18175",
+      "status": "new",
+      "score": 10.5,
+      "tags": [
+        "non-Hermitian/open",
+        "topology",
+        "many-body"
+      ],
+      "cats": [
+        "cond-mat"
+      ],
+      "top_pick": false,
+      "why_zh": "放松厄米性后，二维粒子交换的编织/融合数据软化为谱与相对几何自由度更大的复空间——非厄米统计几何 × 拓扑。",
+      "summary_zh": "二维粒子交换超越玻色–费米二分，在分数量子霍尔、拓扑量子计算与强关联物态中居核心；常规拓扑相把微观交换几何压缩为刚性编织与融合数据。作者发展非厄米统计几何：放松厄米性后，交换数据软化为更大的谱与相对几何自由度复空间。对两个相邻编织生成元，单一射影参数即可连续插值统计相与相对几何；由此讨论非厄米设定下任意子交换、谱简并与几何相位的相互制约，为开放/增益损耗系统中的统计拓扑提供几何语言。",
+      "in_zotero": null,
+      "zotero_note": "桌面 DESKTOP-00O6NSD 未在线，本次未做 Zotero 核对。",
+      "abstract": "Particle exchange in two dimensions gives rise to quantum statistics beyond the boson-fermion dichotomy, with central roles in fractional quantum Hall physics, topological quantum computation, and strongly correlated quantum matter. In conventional topological phases, microscopic exchange geometry is compressed into rigid braid and fusion data. We develop a theory of non-Hermitian statistical geometry in which relaxing Hermiticity softens these exchange data into a larger complex space of spectral and relative-geometric degrees of freedom. For two adjacent braid generators, a single projective exchange spectrum is insufficient: their relative eigenline geometry supplies an additional gauge-invariant modulus. On the generic irreducible two-channel branch, braid consistency locks these coordinates through an exact spectrum-geometry relation. Using Riesz projectors and Kato transport, we realize this geometry in a five-arm Kitaev-Majorana network and test spectral and relative-geometric responses in an independent two-dimensional four-vortex Kitaev model. Finite-time dynamics tests the exchange operation, microscopic fusion sewing tests its composition across fusion descriptions, and matched-spectrum controls isolate the role of relative geometry. Nonzero projective Kato curvature shows that braid-consistent, fusion-coherent exchange can depend on the control path. Non-Hermiticity thus exposes exchange geometry, braid consistency re-locks it, fusion coherence further constrains it, and projective flatness determines when geometric exchange becomes intrinsically topological."
+    },
+    {
+      "id": "2610.14668",
+      "title": "Crossed Electric Spin Generation in Multilayers",
+      "authors": "Xukun Feng, Wei Du, Jin Cao, Qian Niu 等",
+      "subjects": "Materials Science (cond-mat.mtrl-sci) ; Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+      "subject_short": "cond-mat.mtrl-sci",
+      "url": "https://arxiv.org/abs/2610.14668",
+      "status": "new",
+      "score": 9.5,
+      "tags": [
+        "altermagnetism",
+        "topology"
+      ],
+      "cats": [
+        "cond-mat"
+      ],
+      "top_pick": false,
+      "why_zh": "多层中交叉电场自旋产生：杂化 Berry 曲率给出全电自旋操控，并在铁磁 Fe3GeTe2 与交错磁 V2Te2O 中预言可观信号——altermagnetism × 自旋轨道。",
+      "summary_zh": "提出多层结构中的交叉电场自旋产生效应：结合面内场与栅极场操控自旋，并揭示准二维体系特有的杂化 Berry 曲率几何（自旋–层–轨道耦合）。结合第一性原理，预言二维铁磁 Fe3GeTe2 与交错磁 V2Te2O 中有可观自旋产生，为二维材料全电自旋操控开辟 Berry 曲率新路径。",
+      "in_zotero": null,
+      "zotero_note": "桌面 DESKTOP-00O6NSD 未在线，本次未做 Zotero 核对。",
+      "abstract": "We propose a crossed electric spin generation effect in multilayer structures. This effect combines the advantages of in-plane and gate electric fields for manipulating spin, and unveils a nice quantum geometric structure in terms of the underlying hybrid Berry curvatures that are unique to quasi-2D systems and manifest inherent spin-layer-orbital coupling. Combining our theory with first-principles calculations, we predict sizable spin generation in 2D ferromagnetic Fe3GeTe2 and altermagnetic V2Te2O. Our theory opens a new Berry-curvature route for all-electric spin manipulation in 2D materials"
+    },
+    {
+      "id": "2610.15387",
+      "title": "Matrix-product-state GPLHR for non-Hermitian many-body eigenproblems",
+      "authors": "Xingyao Wu, Zhangyu Yang, Yanbin Chen, Yu Wang 等",
+      "subjects": "Strongly Correlated Electrons (cond-mat.str-el)",
+      "subject_short": "cond-mat.str-el",
+      "url": "https://arxiv.org/abs/2610.15387",
+      "status": "new",
+      "score": 9.5,
+      "tags": [
+        "non-Hermitian/open",
+        "tensor-net",
+        "many-body"
+      ],
+      "cats": [
+        "cond-mat"
+      ],
+      "top_pick": false,
+      "why_zh": "把 GPLHR 嵌进 MPS，高效求非厄米多体算符在复平面指定移位附近的多个右本征态——非厄米多体 × 张量网络。",
+      "summary_zh": "非厄米多体算符的多本征态对激发谱、谱性质与开放系统弛豫动力学很重要，但本征向量一般非正交且维数指数增长。作者在 MPS 框架下表述广义预条件局部谐波残差（GPLHR），高效计算本征值落在复平面指定移位附近的多个目标右本征态，并用逐次随机压缩加速算符作用。在超关联/复 Hubbard 链、相互作用非厄米 SSH 链与 Liouvillian 模型上验证，显示可扩展到相互作用与开放量子系统中的靶向谱计算。",
+      "in_zotero": null,
+      "zotero_note": "桌面 DESKTOP-00O6NSD 未在线，本次未做 Zotero 核对。",
+      "abstract": "Computing multiple eigenstates of non-Hermitian many-body operators plays an important role in investigating excitation spectra, spectral properties, and relaxation dynamics in interacting and open quantum systems. However, this task is challenging because the eigenvectors are generally nonorthogonal and the Hilbert space dimension grows exponentially with system size. Here, we formulate the generalized preconditioned locally harmonic residual (GPLHR) method in a matrix product state (MPS) framework to efficiently compute multiple targeted right eigenstates whose eigenvalues lie near a specified shift in the complex plane. Successive randomized compression (SRC) is employed to accelerate operator applications. We test the method on transcorrelated and complex Hubbard chains, an interacting non-Hermitian Su-Schrieffer-Heeger (SSH) chain, and a Liouvillian model. The results demonstrate that GPLHR combined with MPS provides an efficient and accurate approach for computing multiple eigenstates of non-Hermitian many-body operators."
+    },
+    {
+      "id": "2610.15470",
+      "title": "Non-Hermitian Two-Kink Control of Corner States in Twisted Chern Bilayers",
+      "authors": "Xiao-Ming Zhao, Su-Peng Kou",
+      "subjects": "Other Condensed Matter (cond-mat.other)",
+      "subject_short": "cond-mat.other",
+      "url": "https://arxiv.org/abs/2610.15470",
+      "status": "new",
+      "score": 8.5,
+      "tags": [
+        "non-Hermitian/open",
+        "topology"
+      ],
+      "cats": [
+        "cond-mat"
+      ],
+      "top_pick": false,
+      "why_zh": "非厄米层间质量相位扭折与虚动量扭折分工，实现对扭转 Chern 双层角态的谱/面内/层自由度分离操控——非厄米 × 拓扑角态。",
+      "summary_zh": "角态通常由边界质量缺陷锚定，空间与内部自由度受限。作者聚焦相反 Chern 数绝缘体组装的扭转双层：非厄米层间质量携带的质量相位扭折与独立的虚动量扭折，分别控制质量缺陷角态的谱、面内包络与层极化。质量相位扭折产生母角极并固定能量与本征衰减，定向层间隧穿编码层极化；虚动量织构则重塑闭合边界包络并在角之间重分配右态权重。扭转 Qi–Wu–Zhang 双层与 30° 扭转 Haldane 十二边形验证了该分工，包括凹边界上的有限能母态。",
+      "in_zotero": null,
+      "zotero_note": "桌面 DESKTOP-00O6NSD 未在线，本次未做 Zotero 核对。",
+      "abstract": "Corner states are bound by boundary-mass defects, but this geometric anchoring restricts their spatial and internal control. Focusing on twisted bilayers assembled from Chern insulators with opposite Chern numbers, we show that a mass-phase kink carried by a non-Hermitian interlayer mass and an independent imaginary-momentum kink separate the spectral, in-plane, and interlayer control of mass-defect corner states. The mass-phase kink creates the parent corner pole and fixes its energy and intrinsic decay, while directed interlayer tunneling encodes its layer polarization. The imaginary-momentum texture instead reshapes the closed-boundary envelope and redistributes stationary right-state weight between corners. A twisted Qi--Wu--Zhang bilayer verifies this division on arbitrary, including concave, boundaries. A $30^\\circ$ twisted Haldane dodecagon realizes twelve finite-energy parent states whose in-gap spectral manifold persists while boundary patterns redistribute its normalized right-subspace weight toward six, three, two, or one target corners. The two kinks therefore cooperate or compete while keeping spectral ancestry, spatial weight, and layer character distinct, thereby establishing a unified framework for controlling mass-defect corner states across disparate boundary geometries and mass textures."
+    },
+    {
+      "id": "2610.17156",
+      "title": "Programmable Floquet Response for Quantum Sensing",
+      "authors": "Dionisio Cendoya, Kang Xu, Lisandro Buljubasich, Carlos A. Meriles",
+      "subjects": "Quantum Physics (quant-ph)",
+      "subject_short": "quant-ph",
+      "url": "https://arxiv.org/abs/2610.17156",
+      "status": "new",
+      "score": 8.5,
+      "tags": [
+        "Floquet",
+        "sensing"
+      ],
+      "cats": [
+        "quant-ph"
+      ],
+      "top_pick": false,
+      "why_zh": "用可编程 Floquet 锁定把传感信息编进驱动布居弛豫而非相位积累，做直流与频率选择交流传感——Floquet × 量子传感。",
+      "summary_zh": "常规量子传感依赖相位积累，因而受相干时间束缚。作者提出基于周期驱动两能级系统中可编程 Floquet 锁定的替代范式：周期控制生成有效 Floquet 锁定场，其取向与幅度依赖全局失谐，信息编入驱动布居弛豫动力学而非积分相位。通过在不同 Floquet 锁定流形间受控转移，外扰可映射为驱动序列可编程的工程弛豫响应。数值演示了直流与频率选择交流传感，并显示响应的时间编码可在相干受限设定下提升精度。",
+      "in_zotero": null,
+      "zotero_note": "桌面 DESKTOP-00O6NSD 未在线，本次未做 Zotero 核对。",
+      "abstract": "Quantum sensing is typically based on phase accumulation and is therefore fundamentally tied to the coherence time of the sensing system. Here we introduce an alternative sensing paradigm based on programmable Floquet locking in periodically driven two-level systems. We show that periodic control generates an effective Floquet locking field whose orientation and amplitude depend on global offset, allowing information to be encoded in the driven population relaxation dynamics, not in the integrated phase. By controlling transfer between distinct Floquet locking manifolds, external perturbations can be mapped onto engineered relaxation responses whose characteristics are programmable through the driving sequence. We numerically demonstrate this approach for both DC and frequency-selective AC sensing, and show that temporal encoding of the response can provide enhanced precision in the presence of slow instrumental fluctuations. These results illustrate the potential of programmable Floquet responses and open the way to exploring new sensing strategies in driven quantum systems."
+    },
+    {
+      "id": "2610.17030",
+      "title": "Honeycomb Crystal in a Mass-Asymmetric Electron-Hole Bilayer",
+      "authors": "Shengdu Chai, Wangqian Miao, Yuqiang Li, Lei Wang 等",
+      "subjects": "Strongly Correlated Electrons (cond-mat.str-el) ; Materials Science (cond-mat.mtrl-sci); Machine Learning (cs.LG); Computational Physics (physics.comp-ph)",
+      "subject_short": "cond-mat.str-el",
+      "url": "https://arxiv.org/abs/2610.17030",
+      "status": "new",
+      "score": 7.5,
+      "tags": [
+        "PINN/NNQS",
+        "many-body"
+      ],
+      "cats": [
+        "cond-mat",
+        "cs.LG"
+      ],
+      "top_pick": false,
+      "why_zh": "质量强不对称电子–空穴双层中，实空间神经网络 VMC 发现蜂窝电子–空穴晶体并给出异质结平台——NNQS × 强关联。",
+      "summary_zh": "均匀中和背景下的二维电子气低温形成三角 Wigner 晶体；质量强不对称电子–空穴双层中，局域重空穴提供非均匀正背景，使电子晶体可在高两个量级的密度稳定。作者用 Born–Oppenheimer 极限下固定空穴的实空间神经网络变分蒙特卡罗发现：升密度可驱动三角电子–空穴晶体到蜂窝晶体，最终熔化为与蜂窝/三角空穴格子共存的巡游电子。相对三角序，蜂窝序在电子动能与电子–空穴吸引增益压过更高层内库仑排斥时出现；蜂窝空穴格子还支持顺磁/反铁磁/条纹自旋态。并提议 BLG/hBN/WS2–WSe2 异质结作为实验可行平台（n∼10^11 cm^-2）。",
+      "in_zotero": null,
+      "zotero_note": "桌面 DESKTOP-00O6NSD 未在线，本次未做 Zotero 核对。",
+      "abstract": "A two-dimensional electron gas in a uniform neutralizing background forms a triangular Wigner crystal at low density. In a strongly mass-asymmetric electron-hole bilayer, localized heavy holes instead provide a nonuniform positive background that supports an electron crystal at densities two orders of magnitude higher than for a homogeneous electron gas in the same material. Here we show that correlated mobile electrons can overturn the preference for triangular order, stabilizing a honeycomb electron-hole crystal. Using the powerful real-space neural-network variational Monte Carlo in the Born-Oppenheimer limit with fixed holes, we find that increasing the density drives a transition from a triangular electron-hole crystal to a honeycomb crystal, which eventually melts into itinerant electrons coexisting with the honeycomb or the triangular hole lattice at fixed interlayer separation. Relative to triangular order, honeycomb order emerges when gains in electronic kinetic energy and electron-hole attraction outweigh its higher intralayer Coulomb repulsion, a threshold never reached in the rigid point-dipole model. Moreover, the honeycomb hole lattice supports paramagnetic, antiferromagnetic, and stripe-ordered spin states. Complex polarization indicates a metal-insulator transition, while the states on the honeycomb hole lattice are consistent with a stripe-ordered Dirac semimetal and paramagnetic or antiferromagnetic Mott insulators via mapping to the half-filled Hubbard model. We further propose a BLG/hBN/WS$_2$-WSe$_2$ heterostructure as a platform for the predicted honeycomb crystal, at an experimentally feasible density $n\\sim10^{11}~\\text{cm}^{-2}$."
+    },
+    {
+      "id": "2610.17452",
+      "title": "Crystal growth, magnetic, and transport properties of the candidate altermagnet Cr$_{1/4}$NbS$_{2}$",
+      "authors": "Nashra Pistawala, Martin R. Lees, Geetha Balakrishnan, Daniel A. Mayoh",
+      "subjects": "Materials Science (cond-mat.mtrl-sci) ; Strongly Correlated Electrons (cond-mat.str-el)",
+      "subject_short": "cond-mat.mtrl-sci",
+      "url": "https://arxiv.org/abs/2610.17452",
+      "status": "new",
+      "score": 8.5,
+      "tags": [
+        "altermagnetism",
+        "many-body"
+      ],
+      "cats": [
+        "cond-mat"
+      ],
+      "top_pick": false,
+      "why_zh": "候选交错磁 Cr1/4NbS2 高质量单晶生长及结构/热/磁/输运表征，Néel 点约 141 K——altermagnetism 实验候选。",
+      "summary_zh": "交错磁候选实验确认仍然稀少。Cr1/4NbS2 早被理论提出为有希望的交错磁，但此前缺单晶实验。作者成功生长高质量单晶，给出结构、热、磁与输运性质：单晶 XRD 确认六角对称（P6_3/mmc，交错磁判据之一）；电阻率与比热明确反铁磁 Néel 温度 T_N∼141 K；磁输运显示磁阻与霍尔响应中的非平凡特征。为该候选材料的后续光谱与自旋劈裂探测提供单晶基础。",
+      "in_zotero": null,
+      "zotero_note": "桌面 DESKTOP-00O6NSD 未在线，本次未做 Zotero 核对。",
+      "abstract": "Altermagnetism is a rapidly emerging paradigm in condensed matter magnetism, yet the number of experimentally confirmed altermagnetic candidates remains remarkably limited. Cr$_{1/4}$NbS$_2$ has long been theoretically proposed as a promising altermagnet, but there are no reports on experimental investigation of single crystals. Here, we report the successful growth of high-quality single crystals of Cr$_{1/4}$NbS$_2$ and present its structural, thermal, magnetic, and transport properties. Single-crystal X-ray diffraction provides detailed crystallographic information and confirms the hexagonal crystal symmetry ($P6_3/mmc$), one of the criteria for altermagnetic behavior. Resistivity and heat capacity measurements unambiguously identify an antiferromagnetic Néel temperature of $T_N \\sim 141$ K. Magnetotransport measurements reveal non-trivial features in the magnetoresistance and Hall response, indicative of quantum diffusive transport phenomena. Cr$_{1/4}$NbS$_2$, synthesized here for the first time in single-crystalline form, therefore serves as an experimental platform for probing the rich spectrum of phenomena predicted for altermagnetic materials."
+    }
+  ]
+}

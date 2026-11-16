@@ -1,0 +1,321 @@
+[
+  {
+    "id": "2609.28680",
+    "rank": 1,
+    "top_pick": true,
+    "title": "Altermagnetic Kondo Logic via Floquet Symmetry Conversion",
+    "authors": "Haojie Shen , Xinchen Zhou , Baigeng Wang , Rui Wang",
+    "authors_short": "Haojie Shen , Xinchen Zhou , Baigeng Wang , Rui Wang",
+    "subjects": "Strongly Correlated Electrons (cond-mat.str-el)",
+    "subjects_short": "cond-mat.str-el",
+    "url": "https://arxiv.org/abs/2609.28680",
+    "status": "new",
+    "score": 12.5,
+    "tags": [
+      "altermagnetism",
+      "Floquet",
+      "many-body"
+    ],
+    "why_zh": "Floquet 对称性转换把交错磁动量依赖自旋劈裂做成局域可探测的 Kondo 通道，并引出对称控 Kondo 逻辑——altermagnetism × Floquet 的直接交叉。",
+    "bullets_zh": [
+      "交错磁中动量依赖自旋劈裂在局域杂质谱上对称抵消，常规单杂质 Kondo 共振对 altermagnetic form factor 近乎“盲”。",
+      "面内交流场实现 Floquet 对称性转换，把隐藏的交错磁自旋劈裂转为局域可探测的自旋依赖杂化通道，并被 Kondo 关联放大成新型交错磁 Kondo 效应。",
+      "Kondo 劈裂随场取向非平凡变化，继承宿主晶体 form factor，可作交错磁自旋劈裂的 Kondo 层析；场控响应自然通向对称控 Kondo 逻辑门。"
+    ],
+    "cats": [
+      "cond-mat"
+    ],
+    "abstract": "A common belief in Kondo physics is that a magnetic impurity can act as an efficient probe of key properties of its host bath. In altermagnets, however, this intuition fails in a symmetry-enforced way: the momentum-dependent spin splitting cancels in the local impurity spectrum, making a conventional single-impurity Kondo resonance essentially blind to the altermagnetic form factor. Here, we overcome this constraint by introducing Floquet symmetry conversion. We show that an in-plane AC field converts the hidden altermagnetic spin splitting into a locally detectable spin-dependent hybridization channel, which is further amplified by Kondo correlations into a novel altermagnetic Kondo effect. Remarkably, the Kondo splitting exhibits a nontrivial dependence on the field orientation and inherits the same crystalline form factor as the altermagnetic host, thereby serving as Kondo tomography of altermagnetic spin splitting. This field-controlled response further provides a natural route to symmetry-controlled Kondo logic gates. Our results establish a field-controllable altermagnetic Kondo effect, linking symmetry-resolved impurity spectroscopy to Kondo logic functionality.",
+    "in_zotero": false
+  },
+  {
+    "id": "2609.29082",
+    "rank": 2,
+    "top_pick": true,
+    "title": "Nonequilibrium Dirac condensate in bosonic Kitaev chain",
+    "authors": "Kazuki Yamamoto , Youichi Yanase",
+    "authors_short": "Kazuki Yamamoto , Youichi Yanase",
+    "subjects": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall) ; Quantum Gases (cond-mat.quant-gas)",
+    "subjects_short": "cond-mat.mes-hall / cond-mat.quant-gas",
+    "url": "https://arxiv.org/abs/2609.29082",
+    "status": "new",
+    "score": 10.5,
+    "tags": [
+      "non-Hermitian/open",
+      "topology",
+      "many-body"
+    ],
+    "why_zh": "玻色 Kitaev 链上非平衡 BEC 的 Bogoliubov 激发映射为非厄米 Dirac 哈密顿量，并出现例外 Majorana 玻色子——非厄米拓扑 × Kitaev。",
+    "bullets_zh": [
+      "平均场下配对强度超过临界后出现玻色超流，序参量在偶/奇格点取交替相位，自发产生子晶格序。",
+      "子晶格自由度映为赝自旋后，元激发由非厄米 Dirac 哈密顿量描述：边界附近有重入玻色 Andreev 束缚态。",
+      "临界点处出现例外 Majorana 玻色子的宏观简并，把非平衡凝聚与非厄米例外谱结构绑在同一平台。"
+    ],
+    "cats": [
+      "cond-mat"
+    ],
+    "abstract": "We explore a nonequilibrium Bose-Einstein condensate (BEC) in a bosonic Kitaev chain. Within a mean-field framework, we show that bosonic superfluid order develops once the pairing strength exceeds a critical threshold. The condensate order parameter adopts an alternating phase between even and odd sites, giving rise to a spontaneous sublattice ordering. By mapping the emergent sublattice degrees of freedom onto a pseudospin, the elementary Bogoliubov excitation is described by a non-Hermitian Dirac Hamiltonian, displaying two prominent features: a re-entrant bosonic Andreev bound state localized around boundaries, and a macroscopic degeneracy of exceptional Majorana bosons at the critical point.",
+    "in_zotero": false
+  },
+  {
+    "id": "2609.29337",
+    "rank": 3,
+    "top_pick": true,
+    "title": "Nonorthogonal variational quantum simulation for quantum chemistry",
+    "authors": "Zongkang Zhang , Jiajun Ren , Xiao Yuan",
+    "authors_short": "Zongkang Zhang , Jiajun Ren , Xiao Yuan",
+    "subjects": "Quantum Physics (quant-ph)",
+    "subjects_short": "quant-ph",
+    "url": "https://arxiv.org/abs/2609.29337",
+    "status": "new",
+    "score": 14.5,
+    "tags": [
+      "entanglement",
+      "PINN/NNQS",
+      "QML",
+      "many-body"
+    ],
+    "why_zh": "非正交变分量子模拟（NOVQS）用参数化量子态线性组合做实/虚时演化，对标张量网与神经量子态在动力学上的纠缠增长瓶颈——NNQS/QML 动力学线。",
+    "bullets_zh": [
+      "张量网与神经量子态在基态很成功，但纠缠增长限制动力学；近端硬件又不支持大规模 Trotter。",
+      "NOVQS 把演化态写成多个参数化量子态的线性组合，设计面向二量化电子结构哈密顿量的浅层硬件友好 ansatz，并给出参数运动方程中矩阵/矢量的省资源测量协议。",
+      "含误差分析与资源估计；氢链等数值表明可在固定浅层线路尺寸下推进实/虚时量子化学动力学。"
+    ],
+    "cats": [
+      "quant-ph"
+    ],
+    "abstract": "Dynamical simulation of quantum many-body systems is a central task in quantum chemistry and requires efficient wavefunction representations. Although tensor-network and neural-network quantum states have achieved considerable success in ground-state calculations, entanglement growth hinders their application to quantum dynamics. Quantum computing may offer a route to quantum advantage, but algorithms such as Trotterization generally require fault-tolerant quantum computers, whereas near-term hardware supports only limited circuit sizes. Variational quantum simulation (VQS) instead represents the evolving state with a single shallow, fixed-size parameterized quantum circuit (PQC). Here, we introduce nonorthogonal variational quantum simulation (NOVQS), which applies linear combinations of parameterized quantum states to real- and imaginary-time evolutions. We design a shallow, hardware-friendly ansatz tailored to second-quantized electronic-structure Hamiltonians, together with resource-efficient protocols for measuring the matrices and vectors in the parameter equations of motion. Error analysis and resource estimation are also provided. Numerical simulations of hydrogen chains and the nitrogen molecule demonstrate that a collection of shallow, or even single-layer, PQCs can match or outperform a much deeper PQC in VQS. In particular, we identify a trade-off between circuit number and depth. NOVQS therefore provides a flexible route to enhancing wavefunction expressivity under circuit-depth constraints, making it a promising framework for quantum dynamics simulations on near-term quantum processors.",
+    "in_zotero": false
+  },
+  {
+    "id": "2609.29190",
+    "rank": 4,
+    "top_pick": false,
+    "title": "Antisymmetric breathing in altermagnetic skyrmions",
+    "authors": "Yunxi Jiang , Chen Xuan , Xi Chen , Zhikai Wang , Qinfeng Zhu , Hao Yu",
+    "authors_short": "Yunxi Jiang , Chen Xuan , Xi Chen , Zhikai Wang , Qinfeng Zhu 等",
+    "subjects": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+    "subjects_short": "cond-mat.mes-hall",
+    "url": "https://arxiv.org/abs/2609.29190",
+    "status": "new",
+    "score": 9.5,
+    "tags": [
+      "altermagnetism",
+      "spintronics"
+    ],
+    "why_zh": "d 波交错磁中 skyrmion 双子晶格椭圆织构的反对称呼吸模，把 altermagnetism 与拓扑自旋织构动力学接起来。",
+    "bullets_zh": [
+      "d 波交错磁 skyrmion 由长轴正交的两个椭圆子晶格织构组成；有效半径 R_η=√(a_η b_η) 刻画各子晶格尺度。",
+      "垂直磁场使一子晶格膨胀、另一收缩，产生半径差与净磁矩；单轴应变型交换调制在零场也可诱导半径差。",
+      "因强弱交换方向在双子晶格上互换，同向交换变化使半径此消彼长，支撑反对称呼吸动力学，有别于常规铁磁 skyrmion。"
+    ],
+    "cats": [
+      "cond-mat"
+    ],
+    "abstract": "A skyrmion in an altermagnet with \\(d\\) wave symmetry consists of two elliptical sublattice textures with perpendicular long axes. For each sublattice component $\\eta=A,B$, we define an effective skyrmion radius $R_\\eta=\\sqrt{a_\\eta b_\\eta}$, where $a_\\eta$ and $b_\\eta$ are the distances from the skyrmion center to its boundary along $y$ and $x$, respectively. For the anisotropic exchange parameters studied, the equilibrium radius at zero field is smaller than in a reference with parallel sublattice textures and otherwise identical parameters. A magnetic field perpendicular to the film expands one sublattice skyrmion and contracts the other, generating a radius difference $\\dR=R_A-R_B$ and a net magnetic moment. The exchange modulation used to represent uniaxial strain also produces a nonzero radius difference at zero field. Because the strong and weak exchange directions are interchanged between the two sublattices, a common directional change of the exchange couplings increases one radius and decreases the other. Unlike the magnetic coupling, this mechanism vanishes when the two sublattice exchange tensors become identical. The radius difference also supports an antisymmetric breathing mode. After a short field pulse, it oscillates in quadrature with the uniform helicity, the common rotation of the wall magnetization within the film plane, at \\(49.5\\,\\mathrm{GHz}\\) for the reference parameters.",
+    "in_zotero": false
+  },
+  {
+    "id": "2609.29215",
+    "rank": 5,
+    "top_pick": false,
+    "title": "Eigenoperator Entanglement Statistics in Local Lindbladians",
+    "authors": "Ze-Kai Hong , Xu Feng , Zhi-Cheng Yang",
+    "authors_short": "Ze-Kai Hong , Xu Feng , Zhi-Cheng Yang",
+    "subjects": "Statistical Mechanics (cond-mat.stat-mech) ; Quantum Physics (quant-ph)",
+    "subjects_short": "cond-mat.stat-mech / quant-ph",
+    "url": "https://arxiv.org/abs/2609.29215",
+    "status": "new",
+    "score": 8.5,
+    "tags": [
+      "non-Hermitian/open",
+      "entanglement"
+    ],
+    "why_zh": "局域 Lindbladian 本征算符的算符纠缠统计：开放系统混沌是否伴随 Haar 典型本征算符——Liouvillian × 纠缠诊断。",
+    "bullets_zh": [
+      "用 KL 散度检验近最大纠缠 Liouvillian 本征算符是否贴近 Haar；Ginibre 与 AI† 高斯系综可用随机矩阵描述。",
+      "纯耗散随机 Lindbladian 中，跳跃算符局域性剧烈改变统计：非局域仍接近 Haar，局域则随尺寸偏离随机矩阵。",
+      "与哈密顿系统不同，局域 Lindbladian 最高纠缠本征算符未必落在态密度最大区，因复本征谱呈团簇结构；并给出 σ-clipping 抽取高纠缠分布的方案。"
+    ],
+    "cats": [
+      "cond-mat",
+      "quant-ph"
+    ],
+    "abstract": "Random matrix spectral statistics are widely used to diagnose quantum chaos in open systems, but whether chaotic eigenvalue correlations are accompanied by Haar-typical eigenoperators remains unclear. We study the operator-entanglement statistics of Liouvillian eigenoperators with near-maximal entanglement, analogous to states near the middle of the spectrum in Hamiltonian systems. Using the Kullback-Leibler divergence, we show that Haar-random statistics accurately describe both the Ginibre and class-AI$^\\dagger$ Gaussian ensembles. For purely dissipative random Lindbladians, we find that locality of the jump operators drastically alters the eigenoperator-entanglement statistics. Nonlocal Lindbladians remain relatively close to Haar-random behavior, whereas local Lindbladians deviate increasingly from random-matrix statistics with system size. Moreover, unlike in Hamiltonian systems, the most highly entangled eigenoperators of local Lindbladians do not generally lie in the region of largest density of states, owing to the clustered structure of the complex eigenspectrum. We introduce an iterative $\\sigma$-clipping scheme to extract the high-entanglement distribution without preselecting a spectral window, and find that it is Gaussian for nonlocal Lindbladians but log-normal for local ones. Remarkably, the same log-normal distribution, with no additional fitting, also describes dissipative mixed-field Ising chains belonging to distinct non-Hermitian symmetry classes. Our results therefore point to a universal eigenoperator-entanglement distribution for local Lindbladians that is not captured by generic non-Hermitian random-matrix ensembles.",
+    "in_zotero": false
+  },
+  {
+    "id": "2609.29137",
+    "rank": 6,
+    "top_pick": false,
+    "title": "Amplified Memory and Finite-Time Regularity in Driven Non-Hermitian Systems",
+    "authors": "H. Yavartanoo , R. Jafari , Alireza Akbari",
+    "authors_short": "H. Yavartanoo , R. Jafari , Alireza Akbari",
+    "subjects": "Statistical Mechanics (cond-mat.stat-mech) ; High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)",
+    "subjects_short": "cond-mat.stat-mech / hep-th / quant-ph",
+    "url": "https://arxiv.org/abs/2609.29137",
+    "status": "new",
+    "score": 7.5,
+    "tags": [
+      "non-Hermitian/open",
+      "many-body"
+    ],
+    "why_zh": "驱动非厄米费米子（失衡配对 Kitaev 链）中破缺谱区与例外点对有限时记忆放大与关联正则性的不同角色。",
+    "bullets_zh": [
+      "用 Nambu 双正交关联矩阵追踪有限时驱动；瞬态穿过破缺谱区会放大制备记忆，即便终点回到实谱仍残留。",
+      "扣除负失衡带来的静态非正谱基线后，超额由累积虚能作用量严格控制，并贯穿整个后斜坡时间窗。",
+      "例外点物理不同：有限时传播子与子系统关联在例外终点附近仍完全正则，尽管准粒子能隙呈方根闭合。"
+    ],
+    "cats": [
+      "cond-mat",
+      "quant-ph",
+      "hep-th"
+    ],
+    "abstract": "We study the roles of broken spectra and exceptional points in finite-time driven non-Hermitian fermionic dynamics. We compute the Nambu biorthogonal correlation matrix for this purpose. The imbalanced-pairing Kitaev chain serves as our concrete realization. Transient passage through a broken-spectrum region amplifies preparation memory. The effect survives when the final Hamiltonian returns to a real-spectrum regime. Negative imbalance forces spectral nonpositivity in the static endpoint state. We isolate the genuine drive history by subtracting out this baseline, leaving an excess that is strictly controlled by the accumulated imaginary-energy action and persists over the entire post-ramp time window. A connected longitudinal correlation mirrors this physics. Its slow-ramp growth tracks the corresponding doubled action. Unstable sectors instead continue amplifying post-ramp if the drive halts inside the broken-spectrum region. Exceptional points yield distinct physics. The finite-time propagator and subsystem correlation matrix remain entirely regular near an exceptional endpoint, even as the quasiparticle gap exhibits its characteristic square-root closing. This finite-time regularity reflects the analyticity of the matrix evolution in the endpoint parameter; a diagonalizable endpoint is strictly not required. A diverging long-time crossover eventually reveals the exceptional scale. We halt the drive exactly at the exceptional point to find that the correlation projector and the connected longitudinal correlation share an identical ballisti front. The subsystem saturation length establishes a distinct but comparable spatial scale. Memory and exceptional-endpoint scalings show no divergence across the tested negative-imbalance range. Memory scaling is fixed by the drive and remains insensitive to the specific choice of real-spectrum final endpoint.",
+    "in_zotero": false
+  },
+  {
+    "id": "2609.28631",
+    "rank": 7,
+    "top_pick": false,
+    "title": "Universal Counterdiabatic Quantum Sensing",
+    "authors": "Stewart Morawetz , Anatoli Polkovnikov",
+    "authors_short": "Stewart Morawetz , Anatoli Polkovnikov",
+    "subjects": "Quantum Physics (quant-ph)",
+    "subjects_short": "quant-ph",
+    "url": "https://arxiv.org/abs/2609.28631",
+    "status": "new",
+    "score": 7.5,
+    "tags": [
+      "entanglement",
+      "sensing"
+    ],
+    "why_zh": "把灵敏度放在纠缠态制备过程本身，用普适反绝热驱动加速绝热制备，冲击标准量子极限——量子传感新路线。",
+    "bullets_zh": [
+      "传统做法先制备脆弱纠缠再传感；本文主张传感增益来自制备纠缠态的过程本身。",
+      "用对微观参数不确定更稳健的普适反绝热（universal counterdiabatic）加速绝热制备，相对常规 shortcut-to-adiabaticity 更抗失配。",
+      "在玩具 Lipkin–Meshkov–Glick 模型上展示可超越标准量子极限的灵敏度。"
+    ],
+    "cats": [
+      "quant-ph"
+    ],
+    "abstract": "One of the primary applications of quantum mechanics is leveraging coherence to make incredibly sensitive measurements. One way to push the boundary of this sensitivity even further is to initially prepare a system in an entangled state, though the fragility of these states limits their usefulness. In this work, we propose a new approach by which sensitivity comes during the preparation of an entangled state, rather than first preparing the state and then using it for sensing. An adiabatic state preparation process is then accelerated by universal counterdiabatic driving, which is more robust to uncertainty in microscopic parameters than standard shortcuts to adiabaticity. Using a toy Lipkin-Meshkov-Glick model, we show that this approach can also lead to sensitivity beyond the Standard Quantum Limit.",
+    "in_zotero": false
+  },
+  {
+    "id": "2609.29244",
+    "rank": 8,
+    "top_pick": false,
+    "title": "Superconducting spin valve as a sensitive probe of spin-orbit coupling anisotropy",
+    "authors": "Pablo Tuero , Andreas Costa , Maria Varela , Yuan Lu , Jaroslav Fabian , Farkhad G. Aliev",
+    "authors_short": "Pablo Tuero , Andreas Costa , Maria Varela , Yuan Lu , Jaroslav Fabian 等",
+    "subjects": "Superconductivity (cond-mat.supr-con)",
+    "subjects_short": "cond-mat.supr-con",
+    "url": "https://arxiv.org/abs/2609.29244",
+    "status": "new",
+    "score": 9.5,
+    "tags": [
+      "spintronics",
+      "entanglement",
+      "topology"
+    ],
+    "why_zh": "外延超导自旋阀面内低偏电导各向异性，实验拆分 Rashba / Dresselhaus SOC——自旋轨道 × 超导自旋电子学探针。",
+    "bullets_zh": [
+      "Rashba（结构反演破缺）与 Dresselhaus（体反演破缺）SOC 共同决定二维/拓扑体系中的自旋相干与操控，需可靠拆分。",
+      "在 Fe/MgO/V/MgO/Fe/Co 外延结中测温度与磁场依赖的面内低偏电导各向异性，并用区分 R-SOC / D-SOC 的理论模型解读。",
+      "实验–理论对比给出 D-SOC 约占总量 5%，归因于高分辨表征所见的界面周期失配缺陷，可作为 SOC 各向异性的灵敏探针。"
+    ],
+    "cats": [
+      "cond-mat"
+    ],
+    "abstract": "Spin-orbit coupling (SOC) plays a central role in modern condensed matter physics and is crucial for the development of spin-based devices and quantum technologies. In particular, the interplay between Rashba SOC (R-SOC), arising from structural inversion asymmetry, and Dresselhaus SOC (D-SOC), due to bulk inversion asymmetry, significantly influences spin coherence and manipulation in two-dimensional and topological systems. Disentangling these SOC components is essential for spintronics, superconducting spintronics, or topological superconductivity. In this study, we experimentally investigate in-plane low-bias conductance anisotropy in epitaxial Fe/MgO/V/MgO/Fe/Co junctions under varying temperature and magnetic field conditions. By applying a theoretical model that accounts for distinct R-SOC and D-SOC contributions, we interpret the observed anisotropy as a reliable method to disentangle these effects. Comparison between experiment and theory reveals a 5 % contribution of D-SOC to total SOC, attributed to periodic interfacial lattice mismatch defects confirmed by high-resolution scanning transmission electron microscopy (STEM). Our findings offer a practical approach to isolate interfacial SOC components in superconducting spintronic systems with implications for engineering in spintronic and quantum devices, and provide further evidence of superconducting spin-triplet pairing in Fe/MgO/V-based superconductor/ferromagnet heterostructures.",
+    "in_zotero": false
+  },
+  {
+    "id": "2609.30142",
+    "rank": 9,
+    "top_pick": false,
+    "title": "Disorder-induced quantum Fisher information in topological quantum systems",
+    "authors": "Advay Burte , Keshav Das Agarwal , Leela Ganesh Chandra Lakkaraju , Aditi Sen De",
+    "authors_short": "Advay Burte , Keshav Das Agarwal , Leela Ganesh Chandra Lakkaraju , Aditi Sen De",
+    "subjects": "Quantum Physics (quant-ph) ; Disordered Systems and Neural Networks (cond-mat.dis-nn); Strongly Correlated Electrons (cond-mat.str-el)",
+    "subjects_short": "quant-ph / cond-mat.dis-nn / cond-mat.str-el",
+    "url": "https://arxiv.org/abs/2609.30142",
+    "status": "new",
+    "score": 8.5,
+    "tags": [
+      "entanglement",
+      "topology",
+      "many-body"
+    ],
+    "why_zh": "Kitaev toric code 本征态对无序不敏感，但非本征基探针动力学可把无序变成量子 Fisher 信息资源——拓扑 × 量子计量。",
+    "bullets_zh": [
+      "toric code 星/面算符对易，基态流形与耦合强度无关，弱局域微扰下拓扑序稳健；这是本征态性质而非动力学性质。",
+      "用初态可分探针在含无序 toric code 哈密顿量下幺正编码，估计三类破拓扑微扰（Castelnovo–Chamon 形变、近邻 Ising、水平边磁场）。",
+      "淬灭平均 QFI 在合适微扰强度与编码时间下可超过有序对照，把“本征不敏感、动力学敏感”做成计量优势。"
+    ],
+    "cats": [
+      "cond-mat",
+      "quant-ph"
+    ],
+    "abstract": "The topological order of the Kitaev toric code is insensitive to disorder in its couplings since all star and plaquette operators commute; consequently, the stabilizer ground-state manifold is independent of the individual coupling strengths, and the phase remains stable against weak local perturbations. This insensitivity, however, is a property of the eigenstates and not of the dynamics they generate, and we show that the disorder sensitivity of a probe prepared outside that eigenbasis can be a metrological resource. In particular, we investigate the estimation of the strength of three topological-order-breaking perturbations, the nonlinear Castelnovo-Chamon deformation, nearest-neighbor Ising interactions, and a magnetic field along horizontal edges, encoded on an initially separable probe through unitary evolution under the disordered toric code Hamiltonian. We demonstrate that the quenched average quantum Fisher information (QFI), a figure of merit for metrological precision, exceeds that of its ordered counterpart in suitable regimes of perturbation strength and encoding time. For the ordered case, we further identify optimal product probes, for which the quadratic and cubic terms of the short-time expansion vanish identically, leaving a transient quartic scaling of QFI. Interestingly, this window persists as long as the multipartite entanglement generated by the encoding continues to increase, and it survives under local dephasing, bit-flip, and amplitude damping noise acting independently on each site, with the non-unital channel being the least detrimental.",
+    "in_zotero": false
+  },
+  {
+    "id": "2609.28994",
+    "rank": 10,
+    "top_pick": false,
+    "title": "Exact solution of a boundary-driven transverse-field Ising model with hidden time-reversal symmetry",
+    "authors": "Xudong Liu , Shu Chen",
+    "authors_short": "Xudong Liu , Shu Chen",
+    "subjects": "Quantum Physics (quant-ph)",
+    "subjects_short": "quant-ph",
+    "url": "https://arxiv.org/abs/2609.28994",
+    "status": "new",
+    "score": 7.5,
+    "tags": [
+      "non-Hermitian/open",
+      "many-body"
+    ],
+    "why_zh": "单边耗散驱动的横场 Ising 因隐藏时间反演对称可精确构造 NESS（矩阵积形式）——可解开放多体平台。",
+    "bullets_zh": [
+      "一类仅在单边界耗散的边界驱动 TFI 具有隐藏时间反演对称，从而可精确构造非平衡稳态。",
+      "解取矩阵积表示并定义非平衡配分函数，可高效算稳态观测量；z 磁化与两点关联刻画微观结构。",
+      "耗散边界局域场主导整条链的空间组织：典型为边界局域磁化与指数衰减关联；弱驱动极限下调边界场可使 NESS 重组为离域结构。"
+    ],
+    "cats": [
+      "quant-ph"
+    ],
+    "abstract": "The dissipative transverse-field Ising (TFI) model provides a paradigmatic setting for nonequilibrium quantum many-body physics. We show that a class of boundary-driven TFI models subject to dissipation at only one boundary possesses hidden time-reversal symmetry, which enables an exact construction of their nonequilibrium steady states. The solution admits a matrix-product representation and defines a nonequilibrium partition function from which steady-state observables can be evaluated efficiently. We use the exact solution to characterize the microscopic structure of the steady state through its z-magnetization and two-point correlations. A striking feature is that the local field at the dissipative boundary governs the spatial organization of the steady state throughout the chain. The steady state typically exhibits boundary-localized magnetization profiles and exponentially decaying correlations, whose characteristic length scales are set by the dissipative boundary. In the weak-driving limit, suitably tuned boundary fields can reorganize the NESS into a delocalized single-interface structure, giving rise to long-range correlations that decay linearly with distance.",
+    "in_zotero": false
+  },
+  {
+    "id": "2609.30225",
+    "rank": 11,
+    "top_pick": false,
+    "title": "Variational Multi-Gaussian Quantum Trajectories",
+    "authors": "Zejian Li , Jacopo Tosca",
+    "authors_short": "Zejian Li , Jacopo Tosca",
+    "subjects": "Quantum Physics (quant-ph) ; Statistical Mechanics (cond-mat.stat-mech)",
+    "subjects_short": "quant-ph / cond-mat.stat-mech",
+    "url": "https://arxiv.org/abs/2609.30225",
+    "status": "new",
+    "score": 7.5,
+    "tags": [
+      "non-Hermitian/open",
+      "many-body"
+    ],
+    "why_zh": "变分多高斯量子轨迹把 TDVP 推广到量子态扩散/主方程轨迹，模拟相互作用玻色开放动力学——开放系统 × 变分方法。",
+    "bullets_zh": [
+      "波函数 ansatz 为相干叠加的多个高斯波包，可解析组装变分运动方程，捕捉轨迹动力学与超越半经典的 Lindblad 演化。",
+      "在 Bose–Hubbard 二聚体上系统基准，并推广到一维与二维扩展 Bose–Hubbard 晶格。",
+      "二维晶格出现对称破缺相变，而一维链中缺席，展示方法对开放多体相图的分辨力。"
+    ],
+    "cats": [
+      "cond-mat",
+      "quant-ph"
+    ],
+    "abstract": "We propose a variational framework for the efficient simulation of stochastic quantum dynamics in interacting bosonic systems. Our method generalizes the time-dependent variational principle to accommodate quantum state diffusion processes and is tailored for describing quantum trajectories unraveled from a master equation. We adopt a wavefunction ansatz composed of a coherent superposition of Gaussian wavepackets, which allows the fully analytical assembly of the variational equations of motion while capturing both the quantum trajectory dynamics and the Lindblad evolution beyond semiclassical approximations. The method is carefully benchmarked on a Bose-Hubbard dimer, and applied to extended Bose-Hubbard lattices in both 1D and 2D. In particular, we show the emergence of a symmetry-breaking phase transition in 2D lattices, which is absent in 1D chains.",
+    "in_zotero": false
+  }
+]

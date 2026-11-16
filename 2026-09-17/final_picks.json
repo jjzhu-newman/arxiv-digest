@@ -1,0 +1,250 @@
+[
+  {
+    "id": "2609.18398",
+    "title": "Altermagnetic Magnons in Dipolar Nanomagnet Arrays",
+    "authors": [
+      "Rhea Hoyer",
+      "Ephraim Spindler",
+      "Lukas Körber",
+      "Tobias Wagner",
+      "Mathias Weiler",
+      "Alexander Mook"
+    ],
+    "abstract": "Altermagnetism is conventionally understood in a spin-conserving framework, where symmetry-enforced momentum-dependent spin splitting emerges in collinear magnets with vanishing net magnetization. Here, we show that its defining signatures persist in nanomagnet arrays coupled exclusively by dipolar interactions, despite the intrinsic breaking of spin conservation. Using a macrospin theory of dipolar-coupled ferromagnetic nanoislands, corroborated by micromagnetic simulations, we demonstrate that arrays engineered with altermagnetic symmetries exhibit spin-split magnon bands whose eigenstates can partially remain strongly spin polarized. The resulting spin expectation value displays the characteristic $d$-wave pattern throughout the Brillouin zone, establishing a mesoscopic realization of altermagnetic magnons beyond the conventional spin-conserving paradigm. As a consequence, spin-wave propagation becomes strongly direction dependent, providing a highly tunable platform for anisotropic magnon transport and synthetic altermagnetic functionality.",
+    "subjects": [
+      "cond-mat.mes-hall"
+    ],
+    "announce": "new",
+    "source_file": "list_cond-mat.html",
+    "authors_short": "Rhea Hoyer, Ephraim Spindler 等 6 人"
+  },
+  {
+    "id": "2609.18867",
+    "title": "Liouvillian exceptional points in the emergence of quantum synchronization",
+    "authors": [
+      "Carlos Ortega Taberner",
+      "Rosalind E. Cotton",
+      "Paul R. Eastham"
+    ],
+    "abstract": "The coupling between self-sustained oscillators, such as lasers or polariton condensates, leads to different steady-states in different regimes. Weak coupling allows the oscillators to behave independently, with different frequencies and uncorrelated phases, while stronger coupling can produce synchronization. In classical or semiclassical theories transitions between these steady-states correspond to changes in the topology of the phase space attractors and occur at generalized exceptional points. We investigate the corresponding changes in a quantum theory of coupled lasers or condensates. We show how the different steady-state regimes of the classical limit give rise to distinct forms for the spectra and eigenmatrices of the slow modes of the Liouvillian. By following the spectral flow between the different regimes we show that the synchronization transition is controlled by cascades of exceptional points in these slow modes, protected by a generalized PT symmetry. Our results show how singularities of the quantum Liouvillian control the different dynamical regimes, and give rise to experimental signatures of the synchronization transition which remain well-defined in the few-particle regime dominated by quantum effects.",
+    "subjects": [
+      "quant-ph",
+      "cond-mat.mes-hall",
+      "physics.optics"
+    ],
+    "announce": "new",
+    "source_file": "list_quant-ph.html",
+    "authors_short": "Carlos Ortega Taberner, Rosalind E. Cotton, Paul R. Eastham"
+  },
+  {
+    "id": "2609.17724",
+    "title": "Fixed Points, Floquet Entanglement Asymmetry, and Quantum Mpemba Effects",
+    "authors": [
+      "Jayashish Das",
+      "Filiberto Ares",
+      "Arnab Kundu"
+    ],
+    "abstract": "We investigate the dynamics of entanglement asymmetry in periodically driven two-dimensional conformal field theories with a global U$(1)$ symmetry, using a dynamical-system description based on iterated conformal maps, in particular Möbius maps. Starting from a symmetry-breaking excited state prepared by a local operator insertion, we show that a broad range of nonequilibrium phenomena, including local symmetry restoration, the quantum Mpemba effect, and its inverse, admit a simple geometric description in terms of the invariant data of the conformal map. We explicitly demonstrate this using Möbius maps, for which the invariant structure is described by the conjugacy classes. In particular, the dynamics of entanglement asymmetry is determined by the relative positions of the state-preparing operator insertion, the subsystem, and the fixed points, yielding distinct patterns of growth, decay, oscillation, and saturation. We further argue that this geometric picture extends to general holomorphic maps, establishing the conformal-map dynamics as a natural framework for organizing the phenomenology of entanglement asymmetry in periodically driven two-dimensional conformal field theories.",
+    "subjects": [
+      "hep-th",
+      "cond-mat.stat-mech",
+      "quant-ph"
+    ],
+    "announce": "cross",
+    "source_file": "list_quant-ph.html",
+    "authors_short": "Jayashish Das, Filiberto Ares, Arnab Kundu"
+  },
+  {
+    "id": "2609.18464",
+    "title": "Lindbladian quantum chaos beyond classical strange attractors",
+    "authors": [
+      "Ángel L. Corps",
+      "Armando Relaño"
+    ],
+    "abstract": "We investigate the connection between classical and quantum chaos in a dissipative system of two coupled collective spins. Although the classical dynamics possesses a stable fixed-point attractor, we find pronounced signatures of chaos in the transient dynamics preceding relaxation. In the quantum model, such transient chaos is accompanied by a transition to random-matrix statistics in the relevant part of the Liouvillian spectrum and by a qualitative increase in the number of Liouvillian modes contributing to expectation values of physical observables. The transition occurs before the bifurcation at which the stable fixed point disappears and a chaotic attractor emerges. Our results show that Liouvillian quantum chaos can be associated with transient classical chaos, rather than requiring a chaotic asymptotic attractor, and provide a refinement of the Grobe-Haake-Sommers conjecture.",
+    "subjects": [
+      "quant-ph",
+      "cond-mat.stat-mech"
+    ],
+    "announce": "new",
+    "source_file": "list_quant-ph.html",
+    "authors_short": "Ángel L. Corps, Armando Relaño"
+  },
+  {
+    "id": "2609.18841",
+    "title": "A first introduction to Matrix Product State algorithms for the integration of Lindblad equation",
+    "authors": [
+      "Christophe Chatelain"
+    ],
+    "abstract": "In this introductory review, we present and compare four algorithms for the numerical integration of the Lindblad equation for one-dimensional quantum lattice systems. All four methods are based on Matrix Product State representations and can be viewed as extensions of the Time-Evolving Block Decimation (TEBD) algorithm to open quantum systems. Two approaches directly integrate the vectorized Lindblad equation, one of them explicitly enforcing the positivity of the density matrix. The other two rely on stochastic unravelings of the Lindblad equation, namely the quantum trajectory and quantum state diffusion approaches. We discuss the principles, numerical implementation, accuracy, and computational efficiency of the different methods, and benchmark them against an exactly solvable free fermion model.",
+    "subjects": [
+      "cond-mat.stat-mech",
+      "quant-ph"
+    ],
+    "announce": "cross",
+    "source_file": "list_quant-ph.html",
+    "authors_short": "Christophe Chatelain"
+  },
+  {
+    "id": "2609.17638",
+    "title": "Lecture notes on Physics Informed Neural Networks, Neural Operators, and their applications",
+    "authors": [
+      "Alessandro Bombini"
+    ],
+    "abstract": "This is the set of lecture notes for the PhD course \\href{ this https URL }{\\textit{Physics Informed Neural Network}, held at the University of Bozen/Bolzano} in the academic year 2025/2026. The goal of the course was to introduce the concept of Physics Informed Deep Neural Networks (PINN) and Neural Operators (NOs), discuss their implementation from scratch in PyTorch and using advanced ad-hoc developed open-source libraries such as NVIDia PhysicsNeMo to address real-world problems in various fields (engineering, physics, petroleum reservoir). We discuss recent topics such as Mixture-of-Models, Fourier Neural Operators, Physics-Informed Kolmogorov-Arnold Networks (PIKANs) and Fourier Neural Operators.",
+    "subjects": [
+      "physics.comp-ph"
+    ],
+    "announce": "new",
+    "source_file": "list_cs.LG.html",
+    "authors_short": "Alessandro Bombini"
+  },
+  {
+    "id": "2609.17841",
+    "title": "Hybrid coupling with numerics-informed neural networks and the overlapping Schwarz alternating method",
+    "authors": [
+      "George Chumbipuma",
+      "Irina Tezaur",
+      "Alejandro Diaz",
+      "Beatrice Riviere"
+    ],
+    "abstract": "We develop a hybrid modeling framework for coupling pre-trained numerics-informed neural networks (NINNs) with classical full order models (FOMs) using the overlapping Schwarz alternating method. We consider the two-dimensional advection-diffusion equation in the advection-dominated, Peclet-number 10^6 regime. We first demonstrate that, unlike the corresponding physics-informed neural network (PINN), a monolithic NINN can be accurately trained on our model problem without domain decomposition. We then employ overlapping multiplicative Schwarz as a deployment mechanism for coupling a pre-trained, subdomain-local NINN with a neighboring FOM, with the NINN weights held fixed throughout the Schwarz iteration. We consider two training approaches for the subdomain-local NINNs: a top-down approach, in which boundary data are obtained from a coupled Schwarz solve on the full domain with a FOM on each subdomain (FOM-FOM Schwarz), and a bottom-up approach, in which boundary traces are generated synthetically on the NINN subdomain without requiring any full-domain solves. The resulting hybrid NINN-FOM solutions agree closely with the corresponding FOM-FOM Schwarz solutions, with the top-down and bottom-up training approaches yielding comparable accuracy.",
+    "subjects": [
+      "math-ph"
+    ],
+    "announce": "new",
+    "source_file": "list_cs.LG.html",
+    "authors_short": "George Chumbipuma, Irina Tezaur 等 4 人"
+  },
+  {
+    "id": "2609.17991",
+    "title": "Fourier Analysis of Parametrized Interactive Quantum Classifiers",
+    "authors": [
+      "Fábio Novaes",
+      "Fernando M. de Paula Neto",
+      "João V. M. Cardoso"
+    ],
+    "abstract": "Interactive Quantum Classifiers (IQCs) constitute a family of quantum machine learning models inspired by open quantum systems, in which the interaction between a target qubit and an environment is described by a Hamiltonian. Previous works introduced alternative Hamiltonian parameterizations and showed empirically that they can improve classification performance, but the role of these parameters in the resulting classifier remains poorly understood. In this work, we derive a closed-form expression for the reduced quantum channel generated by a parametrized IQC with a single target qubit. The analytical solution explicitly reveals how the Hamiltonian parameters control the constant, sine, and cosine components of the classifier output, establishing a Fourier interpretation of the induced feature map. This analysis motivates a generalized family of Hamiltonian encodings, including matrix-parameterized environmental Hamiltonians whose Fourier components depend on linear combinations of input features, thereby enabling non-separable Fourier structures. Numerical experiments on synthetic and real-world datasets show that the proposed models can improve classification performance on several nonlinear benchmarks. The generalized matrix encoding achieves the strongest aggregate performance in the evaluated benchmark, while a simpler four-parameter extension often attains comparable performance with substantially fewer trainable parameters. We additionally characterize the generated state ensembles using the standard fidelity-based expressibility measure, finding that global expressibility does not directly predict classification performance. Our results provide an analytical characterization of parametrized Hamiltonians in Interactive Quantum Classifiers and establish Fourier analysis as a useful framework for understanding and designing open-system-inspired quantum learning models.",
+    "subjects": [
+      "quant-ph"
+    ],
+    "announce": "new",
+    "source_file": "list_quant-ph.html",
+    "authors_short": "Fábio Novaes, Fernando M. de Paula Neto, João V. M. Cardoso"
+  },
+  {
+    "id": "2609.18655",
+    "title": "Learning to Program Adaptive Non-Local Observables for Machine Learning",
+    "authors": [
+      "Yu-Ting Lee",
+      "Samuel Yen-Chi Chen",
+      "Huan-Hsin Tseng"
+    ],
+    "abstract": "Quantum neural networks (QNNs) are typically built from variational quantum circuits (VQCs), which are limited by local measurements. Adaptive non-local observables (ANO) address this by jointly optimizing circuit parameters and multi-qubit measurements. However, existing ANO-based VQCs learn only a single static observable that remains invariant across all inputs. We propose QFWP-ANO, a novel architecture which employs a classical hypernetwork to dynamically program VQC parameters and/or non-local observables conditioned on each input. On multivariate time-series forecasting across four ETT datasets, QFWP-ANO achieves the lowest MSE in 16 of 20 settings and second-lowest in the remaining four, surpassing ANO-based and other strong baselines. On reinforcement learning tasks, QFWP-ANO consistently surpasses ANO-VQCs. Our results establish input-conditioned ANO as an effective approach for enhancing QNNs.",
+    "subjects": [
+      "quant-ph"
+    ],
+    "announce": "cross",
+    "source_file": "list_quant-ph.html",
+    "authors_short": "Yu-Ting Lee, Samuel Yen-Chi Chen, Huan-Hsin Tseng"
+  },
+  {
+    "id": "2609.19092",
+    "title": "Continuous variable distributed quantum sensing in integrated photonics",
+    "authors": [
+      "Bethany Puzio",
+      "Oliver M. Green",
+      "Joel F. Tasker",
+      "Jonathan Frazer",
+      "Tamzin Ellis",
+      "Benjamin D. J. Sayers",
+      "Rachel N. Clark",
+      "Alex S. Clark",
+      "Giacomo Ferranti",
+      "Jonathan C. F. Matthews"
+    ],
+    "abstract": "Distributed quantum sensing is an emerging application of quantum networking, where entangled probe states are employed to sense combinations of delocalized parameters with enhanced precision relative to using separable states. Squeezed states of light are a prime resource for experimental demonstrations of entanglement-enhanced sensing, because they can be generated and entangled deterministically. Existing distributed quantum sensing experiments have been fundamentally limited in scalability due to their bulk-optic architectures. Meanwhile, integrated photonics provides a scalable and compact platform for quantum sensors. Here we demonstrate entanglement-enhanced sensing of linear functions of four phase shifts in an integrated photonic circuit. We find an entanglement-enhanced precision of 0.199(16) dB below the shot noise limit compared to 0.041(18) dB for separable states. A four-mode entangled state is generated on-chip with entanglement verification and phase sensing also performed on-chip with an array of four integrated homodyne detectors.",
+    "subjects": [
+      "quant-ph"
+    ],
+    "announce": "new",
+    "source_file": "list_quant-ph.html",
+    "authors_short": "Bethany Puzio, Oliver M. Green 等 10 人"
+  },
+  {
+    "id": "2609.18447",
+    "title": "A Programmable Rydberg Quantum Bus for Nonlocal Connectivity",
+    "authors": [
+      "X. Jin",
+      "F. Yang",
+      "Weibin Li",
+      "X. Q. Shao"
+    ],
+    "abstract": "Scalable quantum networks require processing nodes with flexible internal connectivity, yet neutral-atom architectures remain constrained by the strong spatial dependence of native Rydberg interactions. Here we show that a Rydberg atom chain can act as a coherent quantum bus, converting a locally connected one-dimensional architecture into an effectively nonlocal interaction network. Virtual excitations in the dispersive regime mediate controllable interactions between spatially separated data units, which we derive analytically using a Green's-function continued-fraction method. The resulting mechanism is not restricted to single-excitation dynamics and supports several distinct functionalities, including Floquet-engineered chiral transport, remote entanglement of mechanical oscillators, and destructive interference for selectively suppressing unwanted dipole exchange. Simulations incorporating full long-range Rydberg interactions, atomic position fluctuations, and finite Rydberg-state lifetimes show that the mediated dynamics remain robust under experimentally relevant conditions. These results establish Rydberg chains as programmable coherent mediators for extending the internal connectivity of neutral-atom quantum nodes toward quasi-all-to-all coupling, providing a hardware-level route toward scalable and reconfigurable quantum-network architectures.",
+    "subjects": [
+      "quant-ph"
+    ],
+    "announce": "new",
+    "source_file": "list_quant-ph.html",
+    "authors_short": "X. Jin, F. Yang 等 4 人"
+  },
+  {
+    "id": "2609.18138",
+    "title": "Landscape geometry of Majorana zero modes in inhomogeneous superconductors",
+    "authors": [
+      "Guo-Jian Qiao",
+      "Zhi-Lei Zhang",
+      "Kang Xu",
+      "C. P. Sun"
+    ],
+    "abstract": "Spatial inhomogeneity breaks translational symmetry and prevents conventional Bloch-band topological invariants from directly answering a practical question: do Majorana zero modes survive in a given inhomogeneous superconducting device? In this Letter, we develop a real-space landscape approach to address this question. Rather than solving the zero-energy equation as a boundary-value problem, we treat the spatial coordinate as an evolution parameter and recast the equation as a first-order dynamical system. A Majorana zero mode is then identified with a stable trajectory that satisfies the physical boundary condition and approaches the origin at large distance. We show that the landscape geometry fixes the dimensions of the stable and unstable subspaces, while the intersection of the stable subspace with the physical boundary subspace determines the number of Majorana zero modes. In the homogeneous limit, the topological phase transition is manifested as a geometric transition of the landscape. Applied to one-dimensional spinless $p$-wave superconductors and nanowire--superconductor systems, the approach yields sufficient bounds on both the amplitude and spatial gradient of the inhomogeneity, providing quantitative criteria for the design of Majorana devices.",
+    "subjects": [
+      "cond-mat.mes-hall"
+    ],
+    "announce": "new",
+    "source_file": "list_cond-mat.html",
+    "authors_short": "Guo-Jian Qiao, Zhi-Lei Zhang 等 4 人"
+  },
+  {
+    "id": "2609.18008",
+    "title": "High-performance orbital-torque magnetic memory on the 300-mm platform",
+    "authors": [
+      "Dinggui Zeng",
+      "Yang Gao",
+      "Jinyu Duan",
+      "Lei Zhao",
+      "Yuhao An",
+      "Xing He",
+      "Jintao Ke",
+      "Yonglong Ga",
+      "Shasha Wang",
+      "Zhenghui Ji",
+      "Muyuan Chen",
+      "Hengan Zhou",
+      "Xuejie Xie",
+      "Enlong Liu",
+      "Junlu Gong",
+      "Qijun Guo",
+      "Yihui Sun",
+      "Zejie Zheng",
+      "Weiming He",
+      "Xiaolei Yang",
+      "Fantao Meng",
+      "Yaohua Wang",
+      "Hongxin Yang",
+      "Delin Zhang",
+      "Yong Jiang",
+      "Wanjun Jiang",
+      "Shikun He"
+    ],
+    "abstract": "Contemporary memory technologies are increasingly constrained by the fundamental trilemma of storage capacity, access latency, and power consumption. Among the emerging technologies, spin-orbit torque magnetic random-access memory (SOT-MRAM) shows promise to circumvent these challenges, owing to its fast switching dynamics and high endurance. However, the application of SOT-MRAM is hindered by the relatively low write and read efficiencies, resulting in a large bitcell area and an insufficient sensing margin. Meanwhile, the involvement of an ultrathin spin-source channel, typically within a few nanometers, imposes technological challenges for mass production. Here, we resolve these issues on a 300-mm wafer platform by exploiting the emerging orbital degree of freedom and the resultant orbital torque (OT) from the relatively thick Ti/W bilayer. In particular, OT memory nanodevices exhibit a giant tunnel magnetoresistance (TMR) of 182%, nanosecond-scale response, 1012 endurance, together with an enhanced switching efficiency (E_b/I_c), which consequently enables an ultra-low write energy of less than 0.1 pJ/bit. Our findings demonstrate that orbital angular momentum can be implemented for building energy-efficient MRAM devices, offering a practical pathway towards low-latency memory that is demanded for high-performance computing and AI applications.",
+    "subjects": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.mes-hall",
+      "physics.app-ph"
+    ],
+    "announce": "new",
+    "source_file": "list_cond-mat.html",
+    "authors_short": "Dinggui Zeng, Yang Gao 等 27 人"
+  }
+]

@@ -1,0 +1,210 @@
+{
+  "date": "2026-11-06",
+  "user_tz": "America/Los_Angeles",
+  "arxiv_listing_date": "Friday, 6 November 2026",
+  "listing_status": "announced",
+  "categories": [
+    "cond-mat",
+    "quant-ph",
+    "hep-th",
+    "math-ph",
+    "cs.LG",
+    "stat.ML"
+  ],
+  "new_counts": {
+    "cond-mat": 82,
+    "quant-ph": 75,
+    "hep-th": 30,
+    "math-ph": 8,
+    "cs.LG": 145,
+    "stat.ML": 10
+  },
+  "selected_count": 11,
+  "top_picks": [
+    "2611.07645",
+    "2611.08447",
+    "2611.07038"
+  ],
+  "zotero": {
+    "live_available": false,
+    "machine": "DESKTOP-00O6NSD",
+    "cache_file": "zotero_arxiv_ids.txt",
+    "cache_count": 187,
+    "cache_vintage_note": "~10/30 vintage; copied from 2026-11-05",
+    "shortlist_exact_id_overlaps": []
+  },
+  "dedup": {
+    "prior_ids_count": 358,
+    "prior_ids_file": "prior_ids.txt"
+  },
+  "picks": [
+    {
+      "id": "2611.07645",
+      "title": "Majorana corner modes and tunable braiding in an altermagnet-superconductor heterostructure",
+      "authors": "Yingli Gao · Kai Zhang · Ling-Zheng Meng 等",
+      "url": "https://arxiv.org/abs/2611.07645",
+      "subjects": "cond-mat.supr-con",
+      "status": "new",
+      "score": 9.5,
+      "tags": [
+        "altermagnetism",
+        "topology"
+      ],
+      "why_zh": "零净外磁场下以交错磁–超导蜂窝异质结承载 Majorana 角模，并给出可通过交错磁各向异性与化学势调谐的全套 Clifford 门——交错磁 × 拓扑超导 × Majorana 编织。",
+      "summary_zh": "实现与操控 Majorana 角模通常依赖 Zeeman 场，却会压制超导配对。作者提出蜂窝晶格交错磁–超导异质结方案：相对以往方晶格研究，交错磁在蜂窝不等价边给出不同的有效低能边缘质量；在低能边缘理论框架下给出 bearded 与 zigzag 端接下角模出现的条件，并显式构造通过调谐交错磁各向异性与化学势实现的完整 Clifford 门集。工作为零净外场下的 Majorana 角模平台与编织操控提供交错磁路径。"
+    },
+    {
+      "id": "2611.08447",
+      "title": "Dynamical effects induced by synthetic SU(1,1) gauge fields",
+      "authors": "Chenwei Lv",
+      "url": "https://arxiv.org/abs/2611.08447",
+      "subjects": "cond-mat.quant-gas",
+      "status": "new",
+      "score": 13.5,
+      "tags": [
+        "non-Hermitian/open",
+        "entanglement",
+        "topology",
+        "many-body"
+      ],
+      "why_zh": "非紧致 SU(1,1) 规范场驱动非阿贝尔非紧致 Bloch 振荡与不稳定放大，并决定玻色 Kitaev 模型的体/超体纠缠标度——开放系统 × 非紧致规范 × 纠缠控制。",
+      "summary_zh": "非紧致规范场与开放系统中粒子/能量交换尤为相关。作者研究 SU(1,1) 规范场诱导的波包与纠缠动力学：波包经历非阿贝尔非紧致 Bloch 振荡，辅助一维量子问题的谱决定稳定振荡与不稳定放大的转捩；不稳定绝热区波包探测 SU(1,1) 拓扑缺陷，放大仅由闵氏空间双曲立体角决定。把该规范场穿入玻色紧束缚模型得到玻色 Kitaev 模型，其体或超体纠缠标度由规范场稳定性支配；并提议在自旋or 凝聚体中实验实现。工作为纠缠控制、选择性放大与能量转移工程提供几何框架。"
+    },
+    {
+      "id": "2611.07038",
+      "title": "Topological Transitions of Evanescent Waves",
+      "authors": "Ignacio Pavez · Tom Sheppard · Yoonseok Hwang 等",
+      "url": "https://arxiv.org/abs/2611.07038",
+      "subjects": "cond-mat.mes-hall",
+      "status": "new",
+      "score": 8.5,
+      "tags": [
+        "non-Hermitian/open",
+        "topology"
+      ],
+      "why_zh": "厄米紧束缚隙内倏逝模呈现非厄米色散，隙内例外点成对成核并由 Z₂ 指标诊断——非厄米色散 × 例外点拓扑 × 束缚态尾部形态。",
+      "summary_zh": "隙内衰减/增长的倏逝解虽来自厄米哈密顿，却携带复波矢而呈非厄米色散。作者用一维转移矩阵表明：除带边常规例外点外，无自旋时间反演保护下可在隙内出现另一类例外点；调参可驱动拓扑转捩，使隙内例外点成对成核，并由纯虚动量支交叉介导。每个隙内能量可赋 Z₂ 指标，隙内例外点为其畴壁。束缚态尾部在“带边–最近例外点”之间为纯指数，在一对隙内例外点之间则变为振荡（波矢异于带边动量）。结果以连续/紧束缚模型与各向异性光子晶体说明。"
+    },
+    {
+      "id": "2611.07030",
+      "title": "Agnostic and efficient detection of $\\mathbb{Z}_2$ symmetry-protected topological phases in projected entangled-pair states",
+      "authors": "Alexandre Chaduteau · Hao Chen · Juraj Hasik 等",
+      "url": "https://arxiv.org/abs/2611.07030",
+      "subjects": "cond-mat.str-el",
+      "status": "new",
+      "score": 10.5,
+      "tags": [
+        "entanglement",
+        "topology",
+        "tensor-net",
+        "many-body"
+      ],
+      "why_zh": "在无限 PEPS 上给出对虚空间对称表示无关、无需有限尺寸标度的二维 Z₂ SPT 高效探测，并直接提取 cocycle——拓扑序探测 × 张量网络 × 纠缠。",
+      "summary_zh": "SPT 无法用局域序参量探测；二维实用检测以往受限于有限尺寸或需已知 PEPS 虚对称形式。作者发展基于无限 PEPS 基态表示的不可知、高效方法，探测相互作用二维 Z₂ SPT：对 PEPS 张量虚空间对称表示无关，且不依赖键维；直接在热力学极限工作而无需有限尺寸标度。数值上可映射偏离不动点波函数的相界，并从 PEPS 张量显式提取 SPT 标签的 cocycle 数据。"
+    },
+    {
+      "id": "2611.08129",
+      "title": "Accelerating Quantum-Classical Auxiliary-Field Quantum Monte Carlo with Shadow-Trained Neural Quantum States",
+      "authors": "Justin Provazza · Oliver Knitter · Joshua Goings 等",
+      "url": "https://arxiv.org/abs/2611.08129",
+      "subjects": "quant-ph",
+      "status": "new",
+      "score": 5.5,
+      "tags": [
+        "PINN/NNQS"
+      ],
+      "why_zh": "把 matchgate shadow 蒸馏为对称约束、噪声感知的自回归 transformer 神经量子态，作 AFQMC 试探态以绕过反复 shadow 求和——NNQS × 量子–经典混合蒙特卡罗。",
+      "summary_zh": "QC-AFQMC 用量子设备制备的试探态提升经典 AFQMC，但先进实现以 matchgate shadow 表示试探态，使每次重叠与局域能需对大量快照平均，成为经典瓶颈。作者将 shadow 数据蒸馏为对称约束、噪声感知的自回归 transformer NQS；用作试探态后可直接计算重叠、力偏置与局域能而无需反复对 shadow 求和。在镍催化氧化加成反应上，噪声感知设计在统计不确定度内恢复理想 upCCD–AFQMC 势垒与反应能，而同批 shadow 的标准 QC-AFQMC 因硬件噪声给出定性错误结果；shadow 仅用于训练，估计经典代价相对此前实现下降约 99%。"
+    },
+    {
+      "id": "2611.07456",
+      "title": "Probing Non-Abelian Topology through Quench Dynamics",
+      "authors": "Zhenming Zhang · Tianyu Li · Wei Yi",
+      "url": "https://arxiv.org/abs/2611.07456",
+      "subjects": "cond-mat.mes-hall",
+      "status": "new",
+      "score": 6.5,
+      "tags": [
+        "spintronics",
+        "topology"
+      ],
+      "why_zh": "用能带投影从淬火动力学中的动态 skyrmion 提取隙分辨动态陈数，以重建多带非阿贝尔拓扑荷与开边界边态——淬火动力学 × 非阿贝尔拓扑。",
+      "summary_zh": "淬火动力学已广泛用于探测阿贝尔能带拓扑或节点 Euler 类，但对多带非阿贝尔拓扑绝缘体（本征态交织几何要求非对易拓扑荷）知之甚少。作者提出非阿贝尔拓扑绝缘体的淬火协议：经能带投影从准动量–时间流形上的动态 skyrmion 提取隙分辨拓扑；这些 skyrmion 由一系列隙分辨动态陈数刻画，可重建淬火后哈密顿的完整非阿贝尔拓扑（含全局非阿贝尔拓扑荷与开边界边态图案）。方案可用光子或冷原子实现。"
+    },
+    {
+      "id": "2611.07401",
+      "title": "Higher-order topological quantum battery",
+      "authors": "Motohiko Ezawa",
+      "url": "https://arxiv.org/abs/2611.07401",
+      "subjects": "quant-ph",
+      "status": "new",
+      "score": 8.5,
+      "tags": [
+        "non-Hermitian/open",
+        "topology"
+      ],
+      "why_zh": "呼吸 Kagome 光子晶体上的二阶拓扑量子电池在全格点损耗与输出端选择性非线性增益的非厄米设定下，以量子化 ergotropy 指示拓扑相——高阶拓扑 × 非厄米 × 量子电池。",
+      "summary_zh": "作者提出耦合于呼吸 Kagome 光子晶体的二阶拓扑量子电池：所有格点有光学损耗，输出端引入选择性非线性增益。在该现实非厄米条件下，ergotropy 与充电功率均显现清晰拓扑相变；拓扑相可实现完美功提取，ergotropy 最大值量子化并作为良好的拓扑相指示。三角形几何把能量相干分配到两个量子电池，镜对称保护的相位同步导致集体储能。"
+    },
+    {
+      "id": "2611.07021",
+      "title": "Single-shot ground-state preparation via strongly coupled baths",
+      "authors": "Liang-Hong Mo · Jerome Lloyd · Yuxuan Zhang 等",
+      "url": "https://arxiv.org/abs/2611.07021",
+      "subjects": "quant-ph",
+      "status": "new",
+      "score": 7.5,
+      "tags": [
+        "non-Hermitian/open",
+        "many-body"
+      ],
+      "why_zh": "在强系统–浴耦合下构造单冷却周期即可准确制备基态/热态的耗散协议，并以 Möbius–Ingham 控制优化误差–时间权衡——开放系统冷却 × 多体制备。",
+      "summary_zh": "多数耗散冷却依赖弱耦合而缓慢。作者在强耦合下构造冷却协议，甚至单周期即可准确制备：结合动态斜坡辅助能级与时变耦合，优化冷却误差与物理时间。对一类自由费米子把动力学精确化为两能级散射，基态冷却成为最大化共振激发转移并抑制非绝热加热的控制问题；提出的 Möbius–Ingham 协议在无能隙谱达最优误差标度，在有能隙谱对主导加热误差近指数抑制。基准中该协议处于稳态误差–冷却时间 Pareto 前沿，并在相互作用 Ising、t–V 链与二维费米–Hubbard 上验证；还推广到单周期制备自由费米子 Gibbs 态。"
+    },
+    {
+      "id": "2611.08475",
+      "title": "Direct transition from a fractional Chern insulator to a topological superconductor",
+      "authors": "Taige Wang",
+      "url": "https://arxiv.org/abs/2611.08475",
+      "subjects": "cond-mat.str-el",
+      "status": "new",
+      "score": 5.5,
+      "tags": [
+        "topology",
+        "many-body"
+      ],
+      "why_zh": "在 ν=1/3 排斥相互作用陈带中给出 Laughlin FCI 到 c₋=3/2 拓扑超导的直接连续转变数值证据，并以涡旋增殖理论解释——分数陈绝缘体 × 拓扑超导 × anyon。",
+      "summary_zh": "作者发现带宽增大可驱动 Laughlin FCI 直接连续过渡到 c₋=3/2 拓扑超导；临界点电子关联长度在偏离参考费米面的动量处发散。发展广义超导涡旋增殖理论：磁平移把涡旋组织为六谷，平移保持的增殖需额外规范场；该理论再现临界谱的动量结构并捕获发散关联。掺杂偏离共度填充时给出超导穹顶。结果与无弱耦合费米面不稳定性下拓扑超导的 anyon 起源相一致。"
+    },
+    {
+      "id": "2611.07353",
+      "title": "Observable-Based Learning of Effective Entanglement Hamiltonians",
+      "authors": "Siyi Yang · Yuzhi Liu · Yi-Ming Ding 等",
+      "url": "https://arxiv.org/abs/2611.07353",
+      "subjects": "cond-mat.str-el",
+      "status": "new",
+      "score": 5.5,
+      "tags": [
+        "entanglement",
+        "many-body"
+      ],
+      "why_zh": "用量子蒙特卡罗响应估计建立可观测量匹配框架，学习超出 LBW 预设空间剖面的有效纠缠哈密顿——纠缠哈密顿 × 可观测量学习 × 高维多体。",
+      "summary_zh": "相互作用多体的纠缠哈密顿（EH）除少数可解析情形外难以确定。作者发展可观测量匹配学习有效 EH 的框架（以 QMC 响应估计示范）：先用等时关联标定晶格 Bisognano–Wichmann（LBW）整体前置因子，再在不假定空间依赖形式下学习超出其剖面的空间分辨耦合。仅以局域关联训练，所学 EH 可复现一维 von Neumann/二阶 Rényi 与二维二阶 Rényi 熵基准；在 (2+1)D O(3) Wilson–Fisher 点强键切割的特殊表面临界性上，自由形式学习优于标定 LBW，并揭示空间非均匀耦合重整化，还给出该设定下 von Neumann 熵的负次领修正——而直接计算此类 (2+1)D 相互作用系统的 von Neumann 熵对常规数值方法仍具挑战。"
+    },
+    {
+      "id": "2611.07434",
+      "title": "Prediction of antimagnon-polarons with intrinsic momentum-space level attraction",
+      "authors": "Chongzhou Wang · Zhengda Jing · Weichao Yu",
+      "url": "https://arxiv.org/abs/2611.07434",
+      "subjects": "cond-mat.mes-hall",
+      "status": "new",
+      "score": 8.5,
+      "tags": [
+        "non-Hermitian/open",
+        "spintronics"
+      ],
+      "why_zh": "自旋轨道矩稳定的反磁子与声子形成动量空间固有能级吸引的反磁子–极化子，无需外部耗散浴——自旋电子学 × 能级吸引 × 相干声发射。",
+      "summary_zh": "传播型磁子–声子/光子杂化准粒子通常呈动量空间能级排斥；能级吸引以往需反相位通道且限于耗散浴介导的零维系统。作者预言连续磁弹介质中的反磁子–极化子：自旋轨道矩（SOT）稳定的反磁子以相反手性进动，直接反转磁弹耦合而无需外部环境，从而固有地给出动量空间能级吸引，并伴 0/π 锁相的同时增长。微磁模拟表明 SOT 控制的增益–阻尼平衡驱动集体不稳定性，最终实现连续可调、直流泵浦的单频声子激光，为相干声发射提供新路径。"
+    }
+  ]
+}

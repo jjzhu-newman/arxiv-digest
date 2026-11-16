@@ -1,0 +1,246 @@
+[
+  {
+    "id": "2609.21086",
+    "title": "Autonomous stabilization of many-body entanglement with Floquet Hamiltonians and weak measurement",
+    "authors": "Charlotte Franke , Dorian A. Gangloff",
+    "subjects": "Quantum Physics (quant-ph)",
+    "abstract": "Reaching a technological advantage with large quantum systems requires safeguarding their many-body entanglement. Dissipation typically acts to decohere a quantum system via random projective noise but, when judiciously engineered together with coherent interactions, it can funnel the system towards a target entangled state. The native interactions and dissipative channels available to most systems are, however, difficult to combine effectively. Here we propose interleaving Floquet Hamiltonian engineering, which allows the construction of non-native coherent interactions, with weak measurement, which enables a tuneable dissipative channel, to enable programmable and autonomous stabilization of many-body entanglement. We show this analytically and numerically for the central-spin system of a semiconductor quantum dot, for which we construct spin-squeezed and Schrödinger-cat states that are stabilized against realistic levels of dephasing. Our approach is applicable to any system compatible with periodic drives and tuneable measurement strength and could enable novel approaches to practical error correction.",
+    "kind": "new",
+    "url": "https://arxiv.org/abs/2609.21086",
+    "cat_file": "quant-ph",
+    "cats": [
+      "quant-ph"
+    ],
+    "tier": 1
+  },
+  {
+    "id": "2609.22030",
+    "title": "Symmetry Classification of Multipolar Orders in Crystals: Theory, Property Tensors and Automated Analysis with MagSymMultipoles",
+    "authors": "Maxime Braun , Quintin N. Meier",
+    "subjects": "Materials Science (cond-mat.mtrl-sci)",
+    "abstract": "Many structural and magnetic phases and properties of crystalline materials can be related to the ordering of electric and magnetic multipoles. Examples include ferroelectricity, linear magnetoelectricity, and altermagnetism. Determining the symmetry-allowed multipoles in a crystal is therefore useful for characterizing its ordered phases and physical properties. Here, we present a unified Cartesian framework for decomposing moment tensors of arbitrary rank into ordinary, toroidal, and poloidal multipoles, and for determining, from crystallographic and magnetic symmetry, their ferroic, antiferroic, and noncollinear arrangements within the crystal. We further establish the direct symmetry relationship between multipolar order and the allowed components of associated physical-property tensors in both relativistic and non-relativistic settings. We implement this methodology in MagSymMultipoles ( this https URL ), an interactive web application for calculating and visualizing symmetry-adapted electric and magnetic multipoles. The application uses magnetic symmetries both with and without spin-orbit coupling to derive the allowed multipoles as well as the underlying Cartesian moment tensors, making it easy to explore the connection between a given multipolar order and the corresponding physical response tensors. We demonstrate the approach for ferroelectric BaTiO3, antiferroelectric PbZrO3, magnetoelectric Cr2O3, and the altermagnets MnF2, MnTe, and Mn3IrSi. These examples demonstrate how our method allows us to obtain an intuitive picture linking the multipolar order of a material directly to its physical properties, thereby facilitating the interpretation of theoretical and experimental results.",
+    "kind": "new",
+    "url": "https://arxiv.org/abs/2609.22030",
+    "cat_file": "cond-mat",
+    "cats": [
+      "cond-mat"
+    ],
+    "tier": 1
+  },
+  {
+    "id": "2609.22079",
+    "title": "Universal Eigenvector Statistics of Non-Hermitian Random Matrices",
+    "authors": "Ze Chen , Zhenyu Xiao , Shinsei Ryu",
+    "subjects": "Statistical Mechanics (cond-mat.stat-mech) ; Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Physics (quant-ph)",
+    "abstract": "Eigenvector overlaps quantify nonorthogonality and govern the response and dynamics of non-Hermitian systems. We extend the universality of non-Hermitian random matrices to the statistics of these overlaps. We obtain analytical expressions for eigenvector overlaps in the spectral bulk and near the origin, covering ten symmetry classes in the limit of large matrix size. Using fermionic replica nonlinear $\\sigma$ models, we relate these overlaps to Hermitian level statistics, symmetry class by symmetry class and topological sector by topological sector. Numerical calculations in various physical models support the universality of the normalized overlaps in the regimes studied. Our work establishes a duality between Hermitian level statistics and non-Hermitian eigenvector overlaps.",
+    "kind": "new",
+    "url": "https://arxiv.org/abs/2609.22079",
+    "cat_file": "cond-mat",
+    "cats": [
+      "cond-mat",
+      "quant-ph"
+    ],
+    "tier": 1
+  },
+  {
+    "id": "2609.21586",
+    "title": "Floquet-spin-orbit compensation and flat- and quadratic-band contact in the $α$-$T_3$ lattice",
+    "authors": "Imtiaz Khan , Muzamil Shah , Reza Asgari , Gao Xianlong",
+    "subjects": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall) ; Strongly Correlated Electrons (cond-mat.str-el); Quantum Physics (quant-ph)",
+    "abstract": "We investigate Floquet--spin-orbit compensation in the three-band $\\alpha$-$T_3$ system, which interpolates between graphene at $\\alpha=0$ and the dice lattice at $\\alpha=1$. By tuning the interplay between an off-resonant circularly polarized optical field and intrinsic spin--orbit coupling, we identify three distinct pairwise band-degeneracy conditions in the quasienergy spectrum: (i) valley--spin degeneracy, (ii) spin--band degeneracy, and (iii) flat--dispersive band degeneracy. The flat band is not an artifact of a two-band reduction but rather an exact property of the continuum Hamiltonian at this compensation point, where the complete three-band Hamiltonian supports a momentum-independent dark state. A winding-two low-energy Hamiltonian and a finite-momentum Berry-curvature maximum, whose radius scales as the square root of the detuning, emerge from detuning this contact. We further show that the intrinsic transverse thermoelectric response encodes these spectrum patterns. The flat- and quadratic-band degeneracy can be predicted for $0<\\alpha<1/2$ because the two response scales linked to the linear contacts have a monotonic ratio independent of the common spin--orbit energy scale. This allows an inverse determination of $\\alpha$ and of the common spectral scale. The analytical results are confirmed by full three-band Kubo calculations, which also define the regime in which this inverse characterization is still observable. These results connect an experimentally accessible, Berry-curvature-sensitive thermoelectric response to tunable Floquet--spin--orbit band geometry.",
+    "kind": "new",
+    "url": "https://arxiv.org/abs/2609.21586",
+    "cat_file": "cond-mat",
+    "cats": [
+      "cond-mat",
+      "quant-ph"
+    ],
+    "tier": 1
+  },
+  {
+    "id": "2609.21418",
+    "title": "Ultimate Information Rate for Quantum Sensing under Multilevel Relaxation",
+    "authors": "Changhun Oh , Seok Hyung Lie , Youngrong Lim",
+    "subjects": "Quantum Physics (quant-ph)",
+    "abstract": "We determine the ultimate information rate of a relaxing multilevel quantum sensor under unrestricted adaptive control and construct an explicit strategy that attains it. We consider sensing a weak field that couples the ground state to several excited states that decay back to the ground state, a setting that reduces to amplitude-damping sensing for a single excited state. We show that the ultimate information rate is exactly the mean population lifetime of the bright state coupled to the ground state by the signal. Although the sensing dynamics generally involve several decay modes, an explicit rank-one protocol that monitors the ground--bright coherence using fresh meters and classical feedback attains this rate while keeping its finite-time information deficit bounded by a constant. For independently relaxing identical sensors, independent local monitoring attains the sum of their individual optimal rates, so intersensor entanglement and joint quantum error correction cannot increase the asymptotic rate. Consequently, the free population-decay curve provides an operational measure of the optimal sensing performance under arbitrary adaptive control.",
+    "kind": "new",
+    "url": "https://arxiv.org/abs/2609.21418",
+    "cat_file": "quant-ph",
+    "cats": [
+      "quant-ph"
+    ],
+    "tier": 1
+  },
+  {
+    "id": "2609.22046",
+    "title": "Persistent Quantum-Enhanced Frequency Sensing with T^{-3/2} Scaling",
+    "authors": "Clayton Z.C. Ho , Hao Wu , Grant D. Mitts , Joshua A. Rabinowitz , Eric R. Hudson",
+    "subjects": "Quantum Physics (quant-ph) ; Atomic Physics (physics.atom-ph)",
+    "abstract": "Quantum sensing uses nonclassical states to improve measurement sensitivity, but the same states that provide metrological gain also decohere more rapidly. This limits the usable interrogation time and, in practice, often precludes improvement in ultimate sensitivity - realized useful quantum advantage has consequently remained rare. Here, we restore persistent quantum advantage by embedding Fock-state enhancement within a quantum heterodyne (Qdyne) protocol, decoupling sensitivity from the decoherence-limited interrogation time {\\tau}. Measurements are acquired at short {\\tau} where the quantum-enhanced gain is optimal, while precision accumulates with the total measurement time. Demonstrated on the motional mode of a trapped 40Ca+ ion, we observe quantum-enhanced precision that persists to measurement times seven orders of magnitude beyond the dephasing limit, scaling as T^{-3/2} with no indication of saturation. Using the n=3 Fock state, we reach a frequency precision of 0.5uHz relative to an 86MHz carrier, achieving a fractional precision ~6x10^{-15}. This represents a quantum-enhanced gain of 7.1(10) dB over the n=0 state, in agreement with Fisher information predictions. This is the first demonstration of Qdyne beyond solid-state spin-defects. Further, by using the quantum harmonic oscillator to perform frequency mixing, we extend operation beyond 1GHz, two orders of magnitude above the ceiling of pulsed dynamical-decoupling implementations. These results recover quantum advantage at the long timescales required to improve ultimate sensitivity, with direct implications for nanoscale NMR and quantum logic spectroscopy.",
+    "kind": "new",
+    "url": "https://arxiv.org/abs/2609.22046",
+    "cat_file": "quant-ph",
+    "cats": [
+      "quant-ph"
+    ],
+    "tier": 1
+  },
+  {
+    "id": "2609.21741",
+    "title": "Floquet physics from quantized light-matter interaction: geometric phases, gauge consistency, and entanglement",
+    "authors": "Beatriz Pérez-González , Sigmund Kohler , Mónica Benito",
+    "subjects": "Quantum Physics (quant-ph) ; Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+    "abstract": "Floquet engineering and cavity quantum electrodynamics represent two complementary descriptions of light-matter interaction, yet their precise connection beyond the small-coupling regime remains subtle. Here, by representing the cavity field in a large-photon-number phase basis, we show that the time-dependent Schrödinger equation of a classically driven system emerges directly from the fully quantized problem, without replacing the field by a classical trajectory or assuming a mean-field decoupling. This establishes a one-to-one correspondence between quasienergies and photon-sector-shifted quantum energies, while providing a direct quantum interpretation of the Floquet mean energy and Anandan phase. Because gauge invariance is exactly preserved at the level of the quantum Hamiltonian, the quantum-to-classical correspondence remains valid beyond perturbative and small-coupling regimes. We further show that light--matter entanglement is encoded in matter--harmonic correlations of the corresponding Floquet mode, thus identifying a semiclassical limit in which Floquet physics emerges without requiring the quantum field itself to approach a coherent classical state.",
+    "kind": "new",
+    "url": "https://arxiv.org/abs/2609.21741",
+    "cat_file": "cond-mat",
+    "cats": [
+      "cond-mat",
+      "quant-ph"
+    ],
+    "tier": 1
+  },
+  {
+    "id": "2609.22023",
+    "title": "Non-Hermitian impurity scattering in graphene: Boltzmann transport and thermoelectric response",
+    "authors": "Juan A. Cañas , Daniel A. Bonilla , A. Martín-Ruiz",
+    "subjects": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall) ; Materials Science (cond-mat.mtrl-sci); Other Condensed Matter (cond-mat.other)",
+    "abstract": "We investigate charge and thermoelectric transport in monolayer graphene containing a dilute distribution of finite-range non-Hermitian scattering centers. The impurities are modeled as circular complex potentials, whose imaginary component describes local carrier loss or gain. By solving the Dirac scattering problem exactly within a partial-wave approach, we obtain the nonunitary scattering matrix and derive the transport and absorption cross sections, which separately characterize momentum relaxation and net carrier exchange with the environment. To connect the microscopic scattering problem with stationary transport, we formulate a semiclassical Boltzmann description in which an external reservoir compensates the equilibrium particle loss or gain. This leads to an effective relaxation time governed by both elastic momentum scattering and non-Hermitian flux exchange. Using the full energy-dependent relaxation time, we evaluate the Onsager coefficients and the resulting electrical conductivity, electronic thermal conductivity, Seebeck coefficient, Lorenz ratio, and electronic thermoelectric figure of merit. We find that weak gain increases the effective carrier lifetime and enhances both charge and heat conductivities, while absorption produces the opposite behavior. More importantly, gain enhances the magnitude of the thermopower and the electronic figure of merit, whereas loss suppresses them. The Lorenz ratio remains close to the Sommerfeld value, with non-Hermiticity mainly modifying its finite-temperature corrections. Our results show that non-Hermitian scattering provides an additional mechanism for controlling the energy dependence of carrier relaxation and, consequently, the thermoelectric response of graphene.",
+    "kind": "new",
+    "url": "https://arxiv.org/abs/2609.22023",
+    "cat_file": "cond-mat",
+    "cats": [
+      "cond-mat"
+    ],
+    "tier": 1
+  },
+  {
+    "id": "2609.21438",
+    "title": "Entanglement-Inducing Quantum Markov Processes",
+    "authors": "J. Fransson , A. P. Sowa",
+    "subjects": "Mathematical Physics (math-ph) ; Quantum Physics (quant-ph)",
+    "abstract": "We introduce a new model for a system of interacting bosons placed in an array of sites. At its core is a nonlinear, nonlocal evolution equation, which we have dubbed the Schrödinger-Dirichlet equation. The construction is closely related to the Bose-Hubbard model and to a specific type of generalized bosons. In contrast to conventional mean-field closures, the resulting nonlinear dynamics need not preserve product structure and can generate entanglement from initially separable states. The relevant methods of analysis are based on harmonic analysis for the multiplicative group of positive rationals.",
+    "kind": "new",
+    "url": "https://arxiv.org/abs/2609.21438",
+    "cat_file": "quant-ph",
+    "cats": [
+      "quant-ph",
+      "math-ph"
+    ],
+    "tier": 1
+  },
+  {
+    "id": "2609.21875",
+    "title": "Uhlmann Geometry of Fixed-Rank Density Matrices: A Fiber-Bundle Approach",
+    "authors": "Xu-Yang Hou , Hao Guo",
+    "subjects": "Quantum Physics (quant-ph)",
+    "abstract": "For full-rank density matrices the state space is contractible, the Uhlmann bundle is topologically trivial, and the holonomy admits no quantized invariants; although the Uhlmann phase is genuinely geometric, this topological poverty has kept it from serving as a robust physical diagnostic of mixed-state matter. Mixed states of fixed rank below the Hilbert-space dimension, however, are ubiquitous: reduced states of subsystems, states in an invariant sector, and states in a decoherence-free subspace all have a support smaller than the Hilbert space that can vary with parameters. Their geometry is far richer: the support carries genuine curvature, non-Abelian holonomy, and Chern topology. We formulate Uhlmann's theory directly on the manifold of rank-$k$ density matrices: minimal purifications make the fixed-rank stratum the base of a principal $U(k)$-bundle whose Uhlmann connection is uniquely determined by a Sylvester equation, and in an eigenframe this connection takes a closed form reducing to the Berry, Wilczek--Zee, and faithful Uhlmann connections at $k=1$, at equal weights, and at $k=N$. The fixed-rank bundle inherits the topology of the Grassmannian, and non-factorizable higher Chern topology requires failure of the global eigenline splitting, which in the present spectral setting requires degeneracy, minimally realized by a rank-2 Yang monopole whose quantized second Chern number links the geometry to the four-dimensional quantum Hall response. Solvable models, from a genuinely non-Abelian holonomy to a decoherence-free Lindblad orbit, illustrate the content: the supporting subspace carries the topology, the spectral weights shape the transport, and the Uhlmann phase provides a direct geometric signature of these mixed-state phase transitions.",
+    "kind": "new",
+    "url": "https://arxiv.org/abs/2609.21875",
+    "cat_file": "quant-ph",
+    "cats": [
+      "quant-ph"
+    ],
+    "tier": 1
+  },
+  {
+    "id": "2609.20951",
+    "title": "Nonlocal Magic Spreading in Many-body Quantum Dynamics: From Chaotic Evolution to Quasi-particle Picture in Integrable Models",
+    "authors": "Sreemayee Aditya , Piotr Sierant , Xhek Turkeshi",
+    "subjects": "Quantum Physics (quant-ph) ; Statistical Mechanics (cond-mat.stat-mech)",
+    "abstract": "Entanglement and magic are resources that reveal complementary aspects of quantum many-body systems. Their interplay is captured by nonlocal magic, the magic that survives arbitrary local changes of basis. Yet their markedly different dynamical behavior leaves open how this irreducible component of magic spreads. Here we connect nonlocal magic to the capacity of entanglement, a tractable quantity measuring fluctuations of the entanglement Hamiltonian. This connection enables analytically controlled predictions across a wide range of many-body dynamics, from chaotic to integrable systems, which we investigate also using large-scale numerical simulations. In chaotic systems, nonlocal magic exhibits a transient buildup, with logarithmic growth in time followed by decay to a size-independent value. For integrable systems, we develop a quasiparticle picture in quantitative agreement with numerics, showing that the same initial growth instead leads to saturation at a value logarithmic in subsystem size. These contrasting behaviors have an operational consequence for entanglement embezzlement: the strongest scramblers embezzle only transiently, whereas free-fermionic dynamics can sustain universal embezzlement in the steady state.",
+    "kind": "new",
+    "url": "https://arxiv.org/abs/2609.20951",
+    "cat_file": "cond-mat",
+    "cats": [
+      "cond-mat",
+      "quant-ph"
+    ],
+    "tier": 1
+  },
+  {
+    "id": "2609.21916",
+    "title": "Asymptotics for Frequency Redundancies in Quantum Machine Learning Models",
+    "authors": "Felix Paul , Bhilahari Jeevanesan , Peter Jung",
+    "subjects": "Quantum Physics (quant-ph)",
+    "abstract": "The redundancy distribution of the frequency spectrum has been shown in the literature to impact the expressivity and trainability of Quantum Fourier Models (QFMs). In this work, we address the question of how this redundancy spectrum is shaped by the choice of eigenvalues of the data re-uploading Hamiltonians, using a simple mathematical formalism based on generating functions. We derive exact and asymptotic redundancy profiles for several structured eigenvalue choices identical for every layer, including arithmetic progressions and single-qubit Pauli encodings, and show that both approach a Gaussian profile as the number of layers grows. We then show that this Gaussian limit is not specific to these constructions but is a generic feature of QFMs built from integer eigenvalues that are identical in every layer. These results can be tied to the central limit theorem for random walks. These results clarify why generic or unstructured encoding choices give rise to a redundancy bias that favours low frequencies, highlighting the importance of well-thought-out encoding strategies when constructing a QFM.",
+    "kind": "new",
+    "url": "https://arxiv.org/abs/2609.21916",
+    "cat_file": "quant-ph",
+    "cats": [
+      "quant-ph"
+    ],
+    "tier": 1
+  },
+  {
+    "id": "2609.21776",
+    "title": "Intrinsic Vectorial Gradiometry via Quantum Control of a Spin-based Sensor",
+    "authors": "Jaime García Oliván , Pablo Acedo , Oliver T. Whaites , Jorge Casanova",
+    "subjects": "Quantum Physics (quant-ph)",
+    "abstract": "Gradiometry provides a versatile alternative to passive environmental shielding in quasi-static magnetometry, effectively suppressing background noise through differential signal extraction. Nevertheless, traditional implementations rely on multi-sensor architectures restricted to spatial gradients, where subtracting signals from independent detectors involves imperfect suppression of common-mode noise and artifacts, limiting their sensitivity. To overcome these limitations, we introduce a quantum control sequence that enables intrinsic temporal and spatial vectorial gradiometry of magnetic fields using a single quantum sensor. Our method provides direct access to first and higher-order derivatives of the magnetic field and extended applicability via auxiliary nuclear spin memory. We showcase this protocol on an ensemble of nitrogen-vacancy (NV) centers in diamond and combine it with mechanical control to realize high-precision differential sensing. Through detailed numerical simulations, we demonstrate the performance of our scheme in two critical DC magnetometry applications: (i) vector magnetic anomaly detection and (ii) non-invasive gradiometry of neuronal action potentials.",
+    "kind": "new",
+    "url": "https://arxiv.org/abs/2609.21776",
+    "cat_file": "quant-ph",
+    "cats": [
+      "quant-ph"
+    ],
+    "tier": 1
+  },
+  {
+    "id": "2609.21355",
+    "title": "Weighted Berry curvature and global geometry of mixed quantum states",
+    "authors": "Dominik Kuczyński , Erik Sjöqvist",
+    "subjects": "Quantum Physics (quant-ph) ; Other Condensed Matter (cond-mat.other)",
+    "abstract": "We examine the geometric interpretation of the quantum geometric tensor proposed in [Phys. Rev. B {\\bf 110}, 035404 (2024)] for mixed quantum states, focusing on its imaginary part, which is proportional to a weighted sum of the Berry curvatures of the eigenstates of the density operator. While the real part naturally decomposes into Fisher--Rao and weighted Fubini--Study contributions, we show that the imaginary part does not, in general, coincide with the curvature of a connection on a globally defined U(1) line bundle whose holonomy yields a mixed-state geometric phase. Using a two-level system as an explicit example, we demonstrate that its surface integral depends on the choice of surface bounded by the same closed path, with ambiguities that are not integer multiples of $2\\pi$.",
+    "kind": "new",
+    "url": "https://arxiv.org/abs/2609.21355",
+    "cat_file": "cond-mat",
+    "cats": [
+      "cond-mat",
+      "quant-ph"
+    ],
+    "tier": 2
+  },
+  {
+    "id": "2609.21669",
+    "title": "Field-free and Sub-ns Magnetization Reversal in Synthetic Anti-ferromagnets using Sequential Spin-Orbit Torque and Spin-Transfer Torque Pulses",
+    "authors": "Subham Das , Naveen Sisodia",
+    "subjects": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+    "abstract": "Single free-layer Magnetic Tunnel Junctions (MTJs) with a perpendicular easy axis driven by spin currents have demonstrated fast, deterministic switching, non-volatility, and low-power memory capabilities when integrated with modern nanoelectronic devices. In this article, we numerically investigate sub-ns and field-free switching characteristics of a p-MTJ with a Synthetic Antiferromagnet (SAF) based free layer structure using sequential sub-ns current pulses of Spin Orbit Torque (SOT) and Spin Transfer Torque (STT). While the SOT pulse applied to one layer decreases the transition time by bringing the coupled layers into an in-plane configuration, the subsequent STT pulse on the system determines the switching direction. Various pulse protocols have been investigated for both SOT and STT current amplitude and pulse widths, while also considering the effect of the Reference Layer (RL). While significant regions of deterministic switching events are observed, limitations in SOT, STT parameters are further investigated in presence of thermal fluctuations.",
+    "kind": "new",
+    "url": "https://arxiv.org/abs/2609.21669",
+    "cat_file": "cond-mat",
+    "cats": [
+      "cond-mat"
+    ],
+    "tier": 1
+  },
+  {
+    "id": "2609.21290",
+    "title": "Efficient MPO Construction for Long-Range Hamiltonians with Periodic Boundary Conditions: Application to Many-Body Dynamics",
+    "authors": "Xin Wang , Bo Xiong",
+    "subjects": "Quantum Gases (cond-mat.quant-gas) ; Strongly Correlated Electrons (cond-mat.str-el)",
+    "abstract": "Matrix product operator (MPO) serves as a fundamental component in tensor network simulations of quantum many-body dynamics. We employ an MPO construction that introduces additional propagation channels to embed both periodic boundary conditions and finite-range couplings directly into an open boundary MPO. We apply this construction within the time-dependent variational principle (TDVP) framework to simulate quench dynamics in a spin-1/2 chain with finite-range interactions, and benchmark the results numerically against the fourth-order Runge-Kutta method, finding excellent agreement for both single-body and two-body observables. The approach offers a practical route for tensor network simulations of many-body dynamics in periodic finite-range systems.",
+    "kind": "new",
+    "url": "https://arxiv.org/abs/2609.21290",
+    "cat_file": "cond-mat",
+    "cats": [
+      "cond-mat"
+    ],
+    "tier": 2
+  },
+  {
+    "id": "2609.21825",
+    "title": "Topological properties and gap structure of the paired state in twisted TMD bilayers within a two-band effective model",
+    "authors": "Palash Saha , Michał Zegrodnik",
+    "subjects": "Superconductivity (cond-mat.supr-con)",
+    "abstract": "We present a theoretical study motivated by the recent experimental results which demonstrate superconductivity emerging from flat topological bands of twisted transition metal dichalcogenide (TMD) bilayers. To capture the non-trivial band topology of the system, we employ an effective two-band Kane-Mele-like model and substitute it with Coulomb repulsion and inter-site pairing interactions treated at the Hartree-Fock mean-field level. Assuming a real-space pairing scenario, we analyze the resulting superconducting gap symmetry and the stability of the paired state as a function of band filling and applied displacement field. Finally, we highlight the interplay between superconductivity and non-trivial topology, detailing how interaction-induced effects and the evolution of the density of states shape the resulting superconducting phase diagram.",
+    "kind": "new",
+    "url": "https://arxiv.org/abs/2609.21825",
+    "cat_file": "cond-mat",
+    "cats": [
+      "cond-mat"
+    ],
+    "tier": 2
+  }
+]

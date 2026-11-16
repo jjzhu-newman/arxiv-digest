@@ -1,0 +1,271 @@
+[
+  {
+    "id": "2609.31474",
+    "title": "Spatiotemporal Non-Hermitian Skin Effect with Floquet-Engineered Ultracold Atoms",
+    "authors": "Weijie Liang, Weiping Zhang, Keye Zhang",
+    "subjects": "Quantum Gases (cond-mat.quant-gas) ; Quantum Physics (quant-ph)",
+    "abstract": "Non-Hermitian skin effect, the accumulation of bulk eigenstates at edges under open boundary conditions, has been observed across classical, quantum, and synthetic platforms. Whether it can be generalized to the genuine time dimension remains open. We propose a spatiotemporal NHSE in the Floquet phase space via Floquet engineering of a ring-trapped ultracold atomic gas. Placing spatial and temporal degrees of freedom on an equal footing, we show that a single parent skin effect projects onto either domain. The spatial projection yields an NHSE with arbitrarily tunable skin locations, eliminating the need for physical open boundaries. The temporal projection gives time-domain nonreciprocity and periodic temporal funneling, consistent with causality. This establishes a unified spatiotemporal paradigm for NHSE and opens a route to non-Hermitian topological physics in time.",
+    "url": "https://arxiv.org/abs/2609.31474",
+    "tags": [
+      "non-Hermitian/open",
+      "Floquet",
+      "topology"
+    ],
+    "score": 12.5,
+    "status": "new",
+    "cats": [
+      "cond-mat",
+      "quant-ph"
+    ],
+    "reason_zh": "把非厄米趋肤效应推广到时空相位空间：Floquet 工程冷原子环阱同时给出可调空间 NHSE 与时间域漏斗——非厄米拓扑 × Floquet 的直接交叉。",
+    "bullets_zh": [
+      "提出时空非厄米趋肤效应（spatiotemporal NHSE）：在 Floquet 相位空间把空间与时间自由度平等对待。",
+      "同一母趋肤效应可投影到空间或时间：空间侧可任意调控趋肤位置、无需物理开边界；时间侧给出与因果相容的周期性时间漏斗。",
+      "平台为环阱超冷原子气体的 Floquet 工程，为“时间中的非厄米拓扑”提供可实验路线。"
+    ],
+    "in_zotero": false
+  },
+  {
+    "id": "2609.30791",
+    "title": "Topological Superconducting Phases in a Strained Altermagnet-Superconductor Heterostructure",
+    "authors": "Keita Yoshizawa, Ryo Okugawa, Takami Tohyama",
+    "subjects": "Superconductivity (cond-mat.supr-con) ; Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+    "abstract": "We investigate topological superconductivity in a heterostructure consisting of a two-dimensional $s$-wave superconductor and a $d$-wave altermagnet with Rashba spin-orbit coupling. In particular, we study the effects of strain and hopping anisotropy on the topological superconducting phases. By calculating the Chern number, we obtain topological phase diagrams as functions of the chemical potential and the strength of the effective magnetic field induced by the magnetic proximity effect. We find that strain-induced lattice distortion allows topological superconducting phases to emerge over a broad parameter region. Our findings suggest that strain that lowers symmetry can serve as a route to realizing topological superconductivity in altermagnet-superconductor heterostructures.",
+    "url": "https://arxiv.org/abs/2609.30791",
+    "tags": [
+      "altermagnetism",
+      "spintronics",
+      "topology"
+    ],
+    "score": 12.5,
+    "status": "new",
+    "cats": [
+      "cond-mat"
+    ],
+    "reason_zh": "应变 d 波交错磁 / s 波超导异质结（含 Rashba SOC）的 Chern 拓扑超导相图——altermagnetism × 拓扑超导的直接交汇。",
+    "bullets_zh": [
+      "二维 s 波超导与带 Rashba 的 d 波交错磁异质结，用 Chern 数扫描化学势与近邻有效磁场。",
+      "应变引起的格点畸变与跳跃各向异性显著拓宽拓扑超导稳定区。",
+      "结论：降低对称性的应变可作为实现交错磁–超导拓扑超导的实用旋钮。"
+    ],
+    "in_zotero": false
+  },
+  {
+    "id": "2609.31239",
+    "title": "Chiral Transfer and Entanglement Generation of Even-Parity Bell States with Engineered Two-Photon Loss",
+    "authors": "Lin Xiao, Jian Li, Mu Zhou, Bin Wei 等",
+    "subjects": "Quantum Physics (quant-ph)",
+    "abstract": "We investigate chiral transfer and dissipative generation of even-parity Bell states in a two-qubit system with coherent two-photon driving and engineered two-photon loss. We find that adiabatic encirclement of a second-order exceptional point induces direction-dependent transfer between the Bell states $|\\Phi^+\\rangle$ and $|\\Phi^-\\rangle$, governed by a time-integrated low-loss branch-selection mechanism. We develop a hybrid-Liouvillian description with a control parameter $q$ that interpolates between conditional no-jump dynamics and unconditional Lindblad evolution, and use it to assess how exceptional-point-induced chirality survives in the presence of quantum jumps. When the same parameter loop is initialized in the separable state $|00\\rangle$, it directly generates strong even-parity entanglement. Together, these results extend dissipative Bell-state control beyond the single-excitation manifold. They further demonstrate that exceptional-point-based protocols can unify chiral state transfer and entanglement generation within a single engineered two-photon platform.",
+    "url": "https://arxiv.org/abs/2609.31239",
+    "tags": [
+      "non-Hermitian/open",
+      "entanglement"
+    ],
+    "score": 8.5,
+    "status": "new",
+    "cats": [
+      "quant-ph"
+    ],
+    "reason_zh": "工程两光子损耗 + 二阶例外点环绕，实现偶宇称 Bell 态手性转移与耗散纠缠生成——非厄米 EP × 开放系统纠缠控制。",
+    "bullets_zh": [
+      "相干两光子驱动与工程两光子损耗下，绝热环绕二阶 EP 可在 |Φ+⟩ 与 |Φ−⟩ 间做方向依赖转移。",
+      "用含控制参量 q 的混合 Liouvillian，检验量子跳跃存在时 EP 手性是否存活。",
+      "同一参数环从可分态 |00⟩ 出发可直接生成强偶宇称纠缠，把手性转移与纠缠制备统一在单一平台。"
+    ],
+    "in_zotero": false
+  },
+  {
+    "id": "2609.31006",
+    "title": "Electrically controlled spin-splitting and asymmetric tunnel magnetoresistance in anti-altermagnets",
+    "authors": "Abhiram Soori",
+    "subjects": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall) ; Materials Science (cond-mat.mtrl-sci)",
+    "abstract": "Anti-altermagnets (AAMs) are a recently identified class of layered magnetic materials where opposite spin-splitting in adjacent layers creates a globally spin-degenerate band structure, rendering conventional spectroscopic detection highly difficult. In this paper, we theoretically demonstrate an all-electrical method to manipulate and probe this hidden magnetic order using a dual-gated transport junction. By applying a perpendicular displacement field, we break the spatial inversion symmetry of the lattice, explicitly lifting the global spin degeneracy. We attach ferromagnetic (FM) leads on either side of the AAM. Using quantum transport calculations, we show that this gate-induced spin-splitting manifests as a strongly asymmetric tunnel magnetoresistance (TMR) as a function of the lead magnetization. We identify specific crystallographic orientations where the TMR retains its symmetry despite the fully split bands, a direct consequence of exact momentum-space compensation. We further reveal that Rashba spin-orbit coupling guarantees robust, highly directional transport asymmetries even in the absence of an explicit chemical potential mismatch between the layers. Our findings establish a clear, electrically tunable framework for exploiting AAMs in next-generation spintronic architectures.",
+    "url": "https://arxiv.org/abs/2609.31006",
+    "tags": [
+      "altermagnetism",
+      "spintronics"
+    ],
+    "score": 9.5,
+    "status": "new",
+    "cats": [
+      "cond-mat"
+    ],
+    "reason_zh": "反交错磁（anti-altermagnet）隐藏层反自旋劈裂的全电学调控与非对称隧道磁阻探测——交错磁家族新成员的输运探针。",
+    "bullets_zh": [
+      "AAM 相邻层自旋劈裂相反导致全局自旋简并，常规谱学难检。",
+      "双栅位移场打破空间反演，显式解除简并；铁磁电极结中门控自旋劈裂表现为随磁化强烈非对称的 TMR。",
+      "特定晶向因动量空间补偿仍保持 TMR 对称；Rashba SOC 在无化学势失配时也能保证方向性输运不对称。"
+    ],
+    "in_zotero": false
+  },
+  {
+    "id": "2609.30311",
+    "title": "Synchronizing Spectral and Interference Criticalities at an Exceptional Point",
+    "authors": "Zeng-Zhao Li, Xiao Xue",
+    "subjects": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall) ; Quantum Physics (quant-ph)",
+    "abstract": "Exceptional points (EPs) are spectral singularities, but whether they can be used to control a distinct criticality of coherent interference remains largely unexplored. Here we show in nonlocal superconducting transport how spectral and interference criticalities can be controllably synchronized. In a minimal superconducting double-quantum-dot system, loss imbalance selectively drives one Bogoliubov sector through an EP. The spectral EP and the CAR-ECT interference criticality form distinct structures in control space whose relative ordering can be continuously tuned. At their synchronization point, the interference boundaries between crossed Andreev reflection (CAR) and elastic cotunneling (ECT) coalesce at the EP and bifurcate beyond it, creating a finite CAR-dominated window. The resulting interference window opens with a square-root critical law, whose exponent also governs the finite-temperature observability scale. Detuning unfolds the two criticalities, while retuning restores their intersection, establishing the synchronization as controlled rather than generic. The bifurcation is directly observable in nonlocal conductance. Our results establish exceptional points as spectral control points for independently defined interference criticalities, opening a route to non-Hermitian control of critical quantum interference.",
+    "url": "https://arxiv.org/abs/2609.30311",
+    "tags": [
+      "non-Hermitian/open"
+    ],
+    "score": 5.5,
+    "status": "new",
+    "cats": [
+      "cond-mat",
+      "quant-ph"
+    ],
+    "reason_zh": "超导双量子点非局域输运中，把谱例外点与 CAR–ECT 干涉临界同步——EP 作为可调控干涉临界性的旋钮。",
+    "bullets_zh": [
+      "损耗失衡选择性驱动一个 Bogoliubov 扇区穿过 EP；谱 EP 与交叉 Andreev / 弹性共隧穿干涉临界在控制空间可相对排序。",
+      "同步点处干涉边界在 EP 汇合并在其后分叉，打开有限 CAR 主导窗口，服从方根临界律。",
+      "分叉可直接见于非局域电导，展示 EP 对相干干涉临界的可控同步而非偶然重合。"
+    ],
+    "in_zotero": false
+  },
+  {
+    "id": "2609.30377",
+    "title": "A Mechanism for the Rényi Hierarchy of Decoherence-Induced Phase Transitions",
+    "authors": "Zhou Yang, Yuri D. Lensky, Chao-Ming Jian",
+    "subjects": "Quantum Physics (quant-ph) ; Disordered Systems and Neural Networks (cond-mat.dis-nn); Statistical Mechanics (cond-mat.stat-mech); Strongly Correlated Electrons (cond-mat.str-el)",
+    "abstract": "Decoherence-induced phase transitions (DIPTs) are associated with singular changes in a quantum system's entanglement structure as the decoherence strength varies. In many cases, their critical strengths depend monotonically on the Rényi index of the entanglement diagnostic, forming a Rényi hierarchy. We identify a general mechanism for this hierarchy based on correlation inequalities in replicated statistical models that describe these DIPTs. We demonstrate it in $\\mathbb{Z}_2$ topological stabilizer codes subject to independent phase-flip decoherence on each qubit and in a decohered rotor model with strong $\\text{U}(1)$ symmetry. When the relevant correlations diagnose the DIPTs, these inequalities imply that the critical decoherence strength is nondecreasing with integer Rényi index $R\\geq2$. We show that this mechanism also applies to a class of models with correlated decoherence.",
+    "url": "https://arxiv.org/abs/2609.30377",
+    "tags": [
+      "entanglement",
+      "topology",
+      "many-body"
+    ],
+    "score": 8.5,
+    "status": "new",
+    "cats": [
+      "cond-mat",
+      "quant-ph"
+    ],
+    "reason_zh": "退相干诱导相变的 Rényi 层级机制：拓扑稳定子码与 U(1) 转子模型中纠缠诊断临界随 Rényi 指标单调——开放系统 × 拓扑纠缠。",
+    "bullets_zh": [
+      "DIPT 常表现为纠缠结构随退相干强度奇异变化，且临界强度随 Rényi 指标形成层级。",
+      "用复制统计模型中的关联不等式给出一般机制；在 Z₂ 拓扑稳定子码相位翻转退相干与强 U(1) 对称退相干转子模型中验证。",
+      "当相关关联诊断 DIPT 时，临界退相干强度对整数 R≥2 非减；机制亦适用于一类关联退相干模型。"
+    ],
+    "in_zotero": false
+  },
+  {
+    "id": "2609.31266",
+    "title": "Locality and filter design for dissipative ground-state preparation",
+    "authors": "Samuel J. Elman",
+    "subjects": "Quantum Physics (quant-ph)",
+    "abstract": "Ground-state preparation is a fundamental challenge in quantum many-body physics, chemistry and materials science. Dissipative state-preparation techniques engineer a Lindbladian coupling to a bath that drives the system to its ground state, needing no initial overlap. Their cost is dominated by the Hamiltonian simulations inside the filtered jump operators, since each jump is a weighted sum of Heisenberg-evolved copies, or branches, of a coupling operator. We reduce this cost by following three simple observations to their logical end. First, on a fixed time grid, linear programming optimises the branch weights, trading the heating response against the circuit cost. Second, Lieb--Robinson bounds let each branch evolve on a patch whose radius grows with its duration. Third, if the dynamics converges quickly and truncation changes the jumps only slightly, the stationary state stays near the ground state even on patches smaller than the light cone. We validate our approach numerically. On a grid of $81$ evolution times, the optimised filter reduces the worst-case heating response, or leakage, more than $116$-fold at equal cost. Across fifteen molecules and six chains, the cost falls by 27 to 56\\% at matched design-grid leakage; at matched cost, the molecular leakage falls by a factor of $2.9$ to $2\\times10^{3}$. Density-matrix simulations show high ground-state fidelity for both filters, and on Ising and Hubbard chains the cheaper filter keeps a ground-state population of at least $0.89$ on patches of three or four sites. The same patches fail on a Heisenberg chain whose truncation error falls more slowly with patch size and whose Lindbladian gap is 12 times smaller than the Ising chain's, pointing to a role for the gap in how far patches can be truncated. At fixed radius the per-branch cost becomes independent of system size, reducing the cost of dissipative state preparation.",
+    "url": "https://arxiv.org/abs/2609.31266",
+    "tags": [
+      "non-Hermitian/open",
+      "many-body"
+    ],
+    "score": 7.5,
+    "status": "new",
+    "cats": [
+      "quant-ph"
+    ],
+    "reason_zh": "耗散基态制备中过滤跳跃算符的局域性与滤波器设计：线性规划 + Lieb–Robinson 降成本——Lindblad 工程实用路线。",
+    "bullets_zh": [
+      "耗散制备靠 Lindbladian 把系统驱向基态，代价主导于过滤跳跃中的哈密顿模拟分支。",
+      "固定时间网格上用线性规划优化分支权重；Lieb–Robinson 使各分支只在随时间增长的补丁上演化。",
+      "81 个演化时间网格上优化滤波使最坏加热响应降逾百倍；跨分子与自旋链数值显示成本显著下降。"
+    ],
+    "in_zotero": false
+  },
+  {
+    "id": "2609.31370",
+    "title": "Adaptive Dissipative State Preparation through Reinforcement Learning",
+    "authors": "Nathan M. Myers, Chenxu Liu, Yulong Dong, Nicholas P. Bauman, Karol Kowalski",
+    "subjects": "Quantum Physics (quant-ph)",
+    "abstract": "Dissipative algorithms approach the problem of ground state preparation by mimicking the natural thermalization of a quantum system in contact with a large, low-temperature thermal environment. The environment can be efficiently simulated by a single ancilla qubit with a variable energy gap that is repeatedly coupled to the system qubits to generate a dissipative channel, and then reset after each interaction. Here we present an adaptive implementation of the dissipative algorithm, RL-Adapt, that uses single-shot reinforcement learning to optimize the selection of ancilla frequency and system-bath interaction operator to maximize energy dissipation without relying on a priori knowledge of the system spectrum. The adaptive implementation results in significantly reduced convergence times and can successfully find the ground state even for non-ideal operator pools that fail to converge using non-adaptive, uniform random operator and ancilla frequency selection.",
+    "url": "https://arxiv.org/abs/2609.31370",
+    "tags": [
+      "non-Hermitian/open",
+      "QML"
+    ],
+    "score": 5.5,
+    "status": "new",
+    "cats": [
+      "quant-ph"
+    ],
+    "reason_zh": "用单次强化学习自适应选择浴频率与系统–浴耦合算符，加速耗散基态制备——开放系统制备 × RL/量子–经典混合优化。",
+    "bullets_zh": [
+      "耗散算法用可变能隙辅助比特反复耦合再重置，模拟低温热浴热化。",
+      "RL-Adapt 无需先验谱知识，在线选辅助频率与相互作用算符以最大化能量耗散。",
+      "收敛时间显著缩短；对非自适应随机选择无法收敛的非理想算符池仍可找到基态。"
+    ],
+    "in_zotero": false
+  },
+  {
+    "id": "2609.31539",
+    "title": "NEXT: Physics-Informed Neuro-Spectral Exponential Time Differencing Architectures",
+    "authors": "Márcio Marques, Leonardo Mendonça, Leonardo M. Moreira, Christian Júnior de Oliveira 等",
+    "subjects": "Machine Learning (cs.LG) ; Numerical Analysis (math.NA)",
+    "abstract": "Physics-Informed Neural Networks (PINNs) build neural representations of time-dependent PDE solutions, naturally incorporating physics knowledge and observational data, which makes them well suited to both forward and inverse PDE problems. PINNs, however, are known to suffer from spectral bias and lack of causality. Neuro-Spectral Architectures (NeuSA), a recently proposed alternative to PINNs, mitigate both issues, but their numerical integration becomes unstable for stiff differential equations arising in many relevant physical problems. This study proposes Neuro-Spectral Exponential Time Differencing Architectures (NEXT), which combines the spectral representation of the PDE solution in NeuSA with high-order exponential integrators. Within this approach, the linear stiff part of the vector field induced by the PDE is integrated exactly through matrix exponentials, while the possibly nonlinear remainder is modeled by a neural network. The effectiveness of NEXT is verified through benchmark experiments on a set of stiff PDEs, in which NEXT is stable and accurate while NeuSA diverges numerically. It is also shown that NEXT can be applied to inverse problems, where the model has to learn unknown parameters or boundary conditions from sparse data. All code used in this work is publicly available at: this https URL .",
+    "url": "https://arxiv.org/abs/2609.31539",
+    "tags": [
+      "PINN/NNQS",
+      "SciML"
+    ],
+    "score": 5,
+    "status": "new",
+    "cats": [
+      "cs.LG"
+    ],
+    "reason_zh": "NEXT：把神经谱架构与高阶指数时间差分结合，稳定求解刚性 PDE——物理信息神经网络对 stiff 动力学的关键升级。",
+    "bullets_zh": [
+      "NeuSA 缓解 PINN 谱偏差与因果问题，但对刚性方程数值积分不稳定。",
+      "NEXT 对矢量场线性刚性部分用矩阵指数精确积分，非线性余项由神经网络建模。",
+      "刚性 PDE 基准上 NEXT 稳定准确而 NeuSA 发散，面向正/反问题的物理信息表示。"
+    ],
+    "in_zotero": false
+  },
+  {
+    "id": "2609.30398",
+    "title": "Optimal noisy sequential multiparameter quantum sensing",
+    "authors": "Andrew Tanggara, Lorcán O Conlon, Alexey V. Gorshkov, Kishor Bharti",
+    "subjects": "Quantum Physics (quant-ph) ; Mathematical Physics (math-ph)",
+    "abstract": "The most general strategy for estimating parameters of a quantum channel is to probe the channel many times sequentially with the help of coherent ancillary systems. However, finding the strategy that minimizes the mean-squared error (MSE) is a notoriously hard problem, requiring optimization over the initial probe state, intermediate evolutions, final measurement, and classical postprocessing. In this work, we study how the minimum attainable MSE can be bounded from below in this setting. We propose a lower bound for the MSE of any physically implementable sequential sensing strategy that applies to estimating parameters of any physical quantum evolution, including quantum channels probed over multiple time steps under temporally correlated noise and general temporally correlated quantum processes. We show that this lower bound can be formulated as a semidefinite program (SDP). Our bound generalizes the Nagaoka-Hayashi lower bound (that applies to parameter estimation tasks with separable measurements) to the regime where the quantum channel can be accessed sequentially multiple times. For regular finite-dimensional single-parameter sequential estimation tasks admitting an optimal strategy, we show that our SDP bound is tight and provide a procedure to obtain a locally optimal strategy from the SDP optimizer. Using our optimization bound, we compute the MSE lower bound and derive new protocols for several other physically motivated problems including error-corrected quantum sensing under an unknown correlated noise model, multiparameter estimation, and estimation with qudit systems.",
+    "url": "https://arxiv.org/abs/2609.30398",
+    "tags": [
+      "sensing"
+    ],
+    "score": 4.5,
+    "status": "new",
+    "cats": [
+      "quant-ph",
+      "math-ph"
+    ],
+    "reason_zh": "含相干辅助的序贯多参数量子传感 MSE 下界，可写成 SDP——把 Nagaoka–Hayashi 界推广到可多次序贯访问的量子信道。",
+    "bullets_zh": [
+      "最一般策略是多次序贯探测信道并借助相干辅助；最优 MSE 需优化初态、中间演化、测量与后处理。",
+      "给出任意物理可实现序贯策略的 MSE 下界，适用于含时关联噪声的一般量子过程。",
+      "下界可表为半定规划，推广可分测量下的 Nagaoka–Hayashi 界到序贯多步设定。"
+    ],
+    "in_zotero": false
+  },
+  {
+    "id": "2609.31616",
+    "title": "A Unified Spin-Fermion Framework for Magnetic Diversity in Chromium Monopnictides",
+    "authors": "Ruoshi Jiang, Bartomeu Monserrat",
+    "subjects": "Strongly Correlated Electrons (cond-mat.str-el) ; Materials Science (cond-mat.mtrl-sci)",
+    "abstract": "Isoelectronic compounds are generally expected to exhibit related electronic, structural, and magnetic behavior. Chromium monopnictides CrX (X= Sb, As, P), however, display a striking evolution from high-temperature altermagnetism in NiAs-type CrSb, through double-helical antiferromagnetism in MnP-type CrAs, to the absence of resolved long-range magnetic order in MnP-type CrP. Here, combining first-principles calculations in the non-collinear Curie-paramagnetic state, structural analysis, magnetic phase-diagram calculations, and exchange-parameter extraction, we establish a unified microscopic framework for this evolution. All three compounds share a formal high-spin $d^5$ configuration, nominally Cr$^{1+}$, coupled to itinerant states of predominantly pnictogen character. From Sb to P, chemical pressure enhances ligand itinerancy and drives the structural evolution from the high-symmetry NiAs lattice to increasingly distorted MnP-type networks. The accompanying reconstruction of competing Cr-Cr exchanges favors A-type antiferromagnetism in CrSb and double-helical order in CrAs, while placing CrP near a frustrated regime with closely competing magnetic tendencies. Our results establish chemical-pressure-driven exchange reconstruction as a general mechanism through which a common spin-fermion electronic structure can generate contrasting magnetic phases in strongly correlated materials.",
+    "url": "https://arxiv.org/abs/2609.31616",
+    "tags": [
+      "altermagnetism",
+      "many-body"
+    ],
+    "score": 8.5,
+    "status": "new",
+    "cats": [
+      "cond-mat"
+    ],
+    "reason_zh": "Cr 单磷族化合物从高温交错磁（CrSb）到双螺旋反铁磁（CrAs）再到近阻挫（CrP）的统一自旋–费米子框架。",
+    "bullets_zh": [
+      "同电子数 CrX（X=Sb,As,P）磁性迥异：NiAs 型 CrSb 高温交错磁，MnP 型 CrAs 双螺旋，CrP 未见明晰长程序。",
+      "非共线居里顺磁第一性原理 + 交换参数提取：三者共享形式高自旋 d⁵（名义 Cr¹⁺）并耦合磷族巡游态。",
+      "从 Sb 到 P 的化学压增强配体巡游并驱动结构演化，重构竞争 Cr–Cr 交换，解释 A 型反铁磁 / 双螺旋 / 近阻挫演化。"
+    ],
+    "in_zotero": false
+  }
+]

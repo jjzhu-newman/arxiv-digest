@@ -1,0 +1,242 @@
+[
+  {
+    "id": "2609.40209",
+    "title": "Designing Strongly Correlated Quantum Phases of Matter with Foundation Neural-Network Quantum States",
+    "authors": "Alessandro Sinibaldi , Luciano Loris Viteritti , Riccardo Rende , Federico Becca , Giuseppe Carleo",
+    "subjects": "Strongly Correlated Electrons (cond-mat.str-el) ; Disordered Systems and Neural Networks (cond-mat.dis-nn)",
+    "abstract": "Designing a material with a desired property amounts to solving an inverse problem: finding the couplings of a microscopic Hamiltonian whose ground state exhibits that property. For strongly correlated quantum systems, solving this problem efficiently remains largely out of reach. To address this challenge, we present a general framework for ab initio inverse design based on Foundation Neural-Network Quantum States, a recent approach in which the ground states of a family of Hamiltonians are encoded in a single variational wave function. Because the ansatz depends explicitly on the couplings, any target property is a differentiable function of them, and the search for the right Hamiltonian reduces to gradient-based optimization in coupling space. We apply this approach to search for nonmagnetic phases of frustrated Heisenberg models on the square lattice with an increasing number of free next-nearest-neighbor couplings, aiming to identify new quantum spin liquid candidates. With a single coupling, the method recovers the known nonmagnetic window of the square $J_1$-$J_2$ Heisenberg model, whereas letting the two diagonal couplings vary independently reveals an extended nonmagnetic region connecting the square-lattice and anisotropic-triangular-lattice regimes. In a search space of eight independent couplings within a $2\\times2$ unit cell, which contains several paradigmatic frustrated spin models, the optimization spontaneously converges to the $J_1$-$J_2$-$\\delta$ Heisenberg model, in which the diagonal couplings alternate between two values on neighboring plaquettes, a model recently proposed in the context of altermagnetism. Finite-size scaling up to $16\\times16$ clusters in this optimal model shows that the ground state has no magnetic, dimer, or plaquette order, establishing it as a new quantum spin liquid candidate, distinct from those previously proposed on the square lattice.",
+    "url": "https://arxiv.org/abs/2609.40209",
+    "status": "new",
+    "score": 13.5,
+    "tags": [
+      "altermagnetism",
+      "PINN/NNQS",
+      "many-body"
+    ],
+    "cats": [
+      "cond-mat"
+    ],
+    "why_zh": "用 Foundation 神经网络量子态对强关联哈密顿量做可微反设计，并落在与交错磁相关的 J₁-J₂-δ 模型上找到新量子自旋液体候选——NNQS × 反设计核心。",
+    "points_zh": "将一族哈密顿量的基态编码进单一变分波函数，使任意目标性质对耦合可微，从而在耦合空间做梯度搜索。在方格子阻挫 Heisenberg 上，单耦合复现 J₁-J₂ 非磁窗口；放开对角耦合后出现连接方格与各向异性三角格的扩展非磁区。八耦合搜索自发收敛到对角耦合在邻接 plaquettes 上交替的 J₁-J₂-δ 模型（近期与 altermagnetism 相关）；有限尺寸标度至 16×16 显示无磁/二聚/plaquette 序，提出新的方格 QSL 候选。",
+    "top_pick": true,
+    "subject_short": "cond-mat.str-el"
+  },
+  {
+    "id": "2609.40002",
+    "title": "Entropy-Driven Altermagnetism from Thermal Magnons",
+    "authors": "Tanaya Halder , Ashis K. Nandy , Anamitra Mukherjee",
+    "subjects": "Strongly Correlated Electrons (cond-mat.str-el)",
+    "abstract": "We identify a route to altermagnetism driven by entropy upon heating and demonstrate it in a minimal square-lattice antiferromagnet. An exchange modulation is entropically favored because the resulting momentum-dependent magnon splitting increases the magnon entropy, thereby lowering the free energy and favoring altermagnetism. We derive an instability criterion for this exchange-modulated state, predict its temperature-driven reentrant behavior, and show that its overlap with Néel order defines a finite-temperature altermagnetic phase. Variational spin-wave theory, spin--lattice Monte Carlo, and cluster diagonalization establish the entropy-driven instability and its coexistence with magnetic order. The resulting state supports a transverse spin conductivity. The mechanism provides a route to thermally induced altermagnetism in compensated magnets coupled to sufficiently soft physical modes.",
+    "url": "https://arxiv.org/abs/2609.40002",
+    "status": "new",
+    "score": 11.5,
+    "tags": [
+      "altermagnetism",
+      "spintronics",
+      "many-body"
+    ],
+    "cats": [
+      "cond-mat"
+    ],
+    "why_zh": "提出加热熵驱动的交错磁不稳定性：动量依赖磁振子劈裂增熵、降自由能——altermagnetism 的热力学新通道。",
+    "points_zh": "在极小方格反铁磁中，交换调制因产生动量依赖磁振子劈裂而提高磁振子熵，从而稳定交错磁相。给出该交换调制态的不稳定性判据与温控重入行为，并与 Néel 序重叠定义有限温交错磁相。变分自旋波、自旋–格子 Monte Carlo 与团簇对角化支持熵驱动机制；所得态具有横向自旋电导，提示与足够软的物理模式耦合时可由热诱导实现交错磁。",
+    "top_pick": true,
+    "subject_short": "cond-mat.str-el"
+  },
+  {
+    "id": "2609.38352",
+    "title": "Interferometric Readout of Momentum-Space Topology in a Programmable Dissipative Photonic Circuit",
+    "authors": "Andrea Cataldo , Emil J. Bergholtz , Daniel Leykam , Jun Gao , Ali W. Elshaari",
+    "subjects": "Quantum Physics (quant-ph) ; Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Optics (physics.optics)",
+    "abstract": "Topology under non-Hermitian dynamics is encoded in the phase of the bulk evolution, yet strong dissipation suppresses the amplitudes carrying it. We resolve this using a programmable photonic integrated circuit that implements such dynamics in synthetic momentum space through unitary dilation, with the phase recovered by phase-shifted interferometry. For the non-Hermitian Su-Schrieffer-Heeger model, the method distinguishes trivial and non-trivial Zak phases and yields a coherence winding $q=\\pm 1$ induced by an exceptional point. Extending to a synthetic torus via a Rice-Mele pump gives the first Chern number $\\mathrm{Ch}_1=0,1$ for trivial and non-trivial cycles, showing a programmable route to momentum-space topology under strongly dissipative non-Hermitian dynamics.",
+    "url": "https://arxiv.org/abs/2609.38352",
+    "status": "new",
+    "score": 8.5,
+    "tags": [
+      "non-Hermitian/open",
+      "topology"
+    ],
+    "cats": [
+      "cond-mat",
+      "quant-ph"
+    ],
+    "why_zh": "可编程耗散光子线路中用干涉读出动量空间拓扑，区分非厄米 SSH 的 Zak 相与例外点诱导的相干绕数——非厄米拓扑 × 实验平台。",
+    "points_zh": "非厄米动力学的拓扑编码在体演化相位中，但强耗散压制携带相位的振幅。作者用可编程光子集成电路经幺正膨胀在合成动量空间实现该动力学，并以相移干涉恢复相位。对非厄米 SSH，方法区分平凡/非平凡 Zak 相，并给出例外点诱导的相干绕数 q=±1；经 Rice–Mele 泵扩展到合成环面，得到平凡/非平凡循环的第一陈数 Ch₁=0,1，展示强耗散下可编程读出动量空间拓扑的路径。",
+    "top_pick": true,
+    "subject_short": "quant-ph"
+  },
+  {
+    "id": "2609.39174",
+    "title": "Spin Birefringence and Spin Polarized Transmission across p-wave Altermagnetic Heterostructure",
+    "authors": "Yong-Mei Zhang , Zhi-Ping Niu",
+    "subjects": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+    "abstract": "This paper investigates electron transport properties across N/AM interface or N/AM/N heterojunction. Based on Hamiltonians in the three regions, general wave functions are proposed and combined linear equations are constructed. Reflection and transmission coefficients as well as spin polarizatioin of the altermagnet heterostructure are obtained. When electron incident from normal metal to altermagnet, it is scattered and split into + branch and _ branch transmitting into altermagnet zone with separate refractive angles. Total internal reflection might happen to + branch. Critical angle of total reflection is determined by incident conditions and properties of AM material. In the heterostructure case, spin-up and spin-down electrons transmitted with same propagation directions but different transmission probabilities. Transmission and polarization periodically change with length of the junction. Exchange field and spin-splitting strength have pronounced effect on spin-polarized transmittance while the effect of spin-orbit coupling is quite small. Optimized system can be found by tuning parameters of the AM material. This study will lay the theoretical groundwork for experimental research on spin-selective outputs and spintronic devices.",
+    "url": "https://arxiv.org/abs/2609.39174",
+    "status": "new",
+    "score": 9.5,
+    "tags": [
+      "altermagnetism",
+      "spintronics"
+    ],
+    "cats": [
+      "cond-mat"
+    ],
+    "why_zh": "正常金属/ p 波交错磁异质结中的自旋双折射与自旋极化透射——altermagnetism 的输运指纹。",
+    "points_zh": "对 N/AM 界面与 N/AM/N 结构造波函数匹配，得到反射/透射系数与自旋极化。电子从正常金属入射到交错磁时分裂为 ± 支并以不同折射角传播，+ 支可出现全内反射，临界角由入射条件与 AM 材料参数决定。异质结中自旋上下电子传播方向相同但透射概率不同，透射与极化随结区长度周期性变化，给出可观测的自旋双折射与极化输运特征。",
+    "top_pick": false,
+    "subject_short": "cond-mat.mes-hall"
+  },
+  {
+    "id": "2609.39817",
+    "title": "Phonon-mediated closing of topological Floquet gaps in graphene: Non-phenomenological analysis",
+    "authors": "Royi Ledermann , Rave Hanoch Saadon , Adam Herling , Ofer Neufeld",
+    "subjects": "Materials Science (cond-mat.mtrl-sci) ; Optics (physics.optics)",
+    "abstract": "Floquet band engineering has been intensively studied for its potential to control material properties via laser driving. In particular, Floquet topological states have been measured on the surface of Bi$_2$Se$_3$. Nonetheless, the original prediction of Floquet topological bands in graphene remains unobserved, with works only measuring non-topological Floquet-Bloch states or indirect features. Here, we theoretically explore graphene irradiated by circular lasers with non-phenomenological electron-phonon (e-ph) coupling. We show that e-ph interactions substantially broaden Floquet bands due to graphene's large zero-point motion, as expected from phenomenological treatments. However, we further find that larger displacement $\\Gamma$ optical phonons reduce Floquet gaps by about half, even in absence of instrumentation broadening, and can also induce additional features like flat bands. These phonons \"enter the gap\" and blur photoemission signatures. Including non-$\\Gamma$ phonons closes the gap and greatly reduces visibility. When these modes couple to reasonably expected instrumentation broadening, the effect is significantly exacerbated. Our results propose an answer to the missing Floquet topological gaps and also lead to clear mitigation strategies: (i) Pre-pumping coherent phonons to counteract blurring, or (ii), transition to a Dirac system with more favorable phonon statistics. Moreover, our analysis proposes that Floquet topological physics is alive in localized regions, such that properties of interest like transport should be accessible. We expect this work to impact experimental analysis and lead to set-ups where graphene Floquet topology might finally be directly observed.",
+    "url": "https://arxiv.org/abs/2609.39817",
+    "status": "new",
+    "score": 7.5,
+    "tags": [
+      "Floquet",
+      "topology"
+    ],
+    "cats": [
+      "cond-mat"
+    ],
+    "why_zh": "非唯象电子–声子耦合下圆偏振激光驱动石墨烯的 Floquet 拓扑能隙被光学声子显著压闭——Floquet × 拓扑为何难观测。",
+    "points_zh": "石墨烯 Floquet 拓扑带仍缺直接观测。计入非唯象 e–ph 后，大零点运动使 Floquet 带显著展宽；更大位移的 Γ 点光学声子即使无仪器展宽也可使 Floquet 能隙约减半，并可诱导额外平带等结构。结果提示声子介导的能隙压闭是石墨烯 Floquet 拓扑难以建立的重要微观原因，超越纯唯象退相干描述。",
+    "top_pick": false,
+    "subject_short": "cond-mat.mtrl-sci"
+  },
+  {
+    "id": "2609.39831",
+    "title": "Dynamic distributed quantum sensing of radio-frequency fields via time-bin entanglement",
+    "authors": "Vedansh Nehra , Richard Birrittella , Benjamin Malia , Nicholas J. Barton , Christopher Tison , James Schneeloch , David Hucul , Benjamin Kyle , Erin Sheridan",
+    "subjects": "Quantum Physics (quant-ph)",
+    "abstract": "We propose a novel framework for discrete-variable (DV) distributed quantum sensing, wherein traditional polarization-based probes are replaced with time-bin entangled qubits. We show that the intrinsic temporal structure of time-bin Bell states can be utilized as a tunable, built-in two-time differential sampling reference for sensing radio-frequency (RF) fields. Unlike existing protocols based on polarization Bell states, which are limited to static measurements, our proposed architecture enables the coherent mapping of dynamic RF phase signals onto static quantum optical phases. By matching the time-bin separation to the RF or intermediate frequency (IF) half-period (antipodal sampling), we theoretically demonstrate that our protocol provides a 6 dB sensitivity enhancement over one-sample static polarization encodings while preserving the 3 dB per-pair entanglement advantage over the separable standard quantum limit benchmark. The performance enhancement is validated with Monte Carlo simulations. This approach provides a solution for RF sensing in DV photonic quantum networks, offering a clear path toward quantum-enhanced and frequency-agile distributed sensor arrays and broader utilization of time-domain quantum probe encodings.",
+    "url": "https://arxiv.org/abs/2609.39831",
+    "status": "new",
+    "score": 7.5,
+    "tags": [
+      "entanglement",
+      "sensing"
+    ],
+    "cats": [
+      "quant-ph"
+    ],
+    "why_zh": "用时间二进制纠缠比特做分布式量子传感，把动态射频相位相干映射为静态光学相位——量子传感/雷达直接相关。",
+    "points_zh": "以时间二进制 Bell 态替代传统偏振探针，利用本征双时间差分采样结构感知射频场。相对静态偏振编码协议，本方案可相干映射动态 RF 相位；将时间二进制间隔匹配 RF/IF 半周期（对跖采样）时，理论给出相对单次静态偏振编码约 6 dB 灵敏度增益，并保留每对纠缠相对 SQL 的 3 dB 优势，面向动态射频场的分布式传感。",
+    "top_pick": false,
+    "subject_short": "quant-ph"
+  },
+  {
+    "id": "2609.38678",
+    "title": "Exponential separation in sensing continuous signals via squeezing",
+    "authors": "Francesco Anna Mele , Nadine Meister , Haimeng Zhao , Senrui Chen , Hsin-Yuan Huang",
+    "subjects": "Quantum Physics (quant-ph)",
+    "abstract": "Quantum sensing traditionally focuses on using quantum resources such as squeezing and entanglement to improve precision for sensing fixed signals. However, in many applications such as gravitational-wave detection and electromagnetic-field sensing, the signal evolves continuously and varies through time. Additionally, the learner is free to prepare, control, and measure the sensor at arbitrary times, possibly chosen adaptively. In this work, we establish exponential separation in sensing time for continuously evolving signals due to the available squeezing. The signals we study are characterized by a pattern size $T$, and we find that a sensor with squeezing at least $\\omega(\\sqrt{\\log T})$ offers a $\\mathrm{poly}(T)$ sensing time, whereas those with squeezing at most $o(\\sqrt{\\log T})$ must use an exponential sensing time in $T$.",
+    "url": "https://arxiv.org/abs/2609.38678",
+    "status": "new",
+    "score": 7.5,
+    "tags": [
+      "entanglement",
+      "sensing"
+    ],
+    "cats": [
+      "quant-ph"
+    ],
+    "why_zh": "对连续演化信号证明压缩度可带来指数级传感时间分离——量子计量资源理论的新结果。",
+    "points_zh": "传统量子传感多针对固定信号；引力波与电磁场等应用中信号连续变化，且可自适应选择制备/控制/测量时刻。作者对特征尺度为 T 的连续信号证明：压缩至少 ω(√log T) 时传感时间为 poly(T)，而压缩至多 o(√log T) 时必须指数级传感时间，确立压缩在连续信号传感中的指数分离。",
+    "top_pick": false,
+    "subject_short": "quant-ph"
+  },
+  {
+    "id": "2609.40174",
+    "title": "Dissipation accelerates quantum and classical simulation of open-system dynamics",
+    "authors": "Armando Angrisani , Ricard Puig , Yanting Teng , Zoë Holmes",
+    "subjects": "Quantum Physics (quant-ph) ; Statistical Mechanics (cond-mat.stat-mech)",
+    "abstract": "Simulating open quantum systems reveals how environmental coupling shapes relaxation, excitation transport, and the dynamics of quantum correlations. On quantum hardware, dissipative channels add operations and might seem to increase cost. However, we show that a broad class of Pauli noise, including depolarization, can ease quantum and classical simulation by exponentially suppressing high-weight components of Heisenberg-evolved observables. For bounded-degree Lindblad dynamics, this permits system-size-independent Trotter steps when estimating local observables. Combining this compression with Richardson extrapolation, we provide classical and quantum error bounds with respect to the 2-norm of the propagated observable. These give high-probability expectation-value guarantees for random input states or random Hamiltonians acting on a fixed state and control (out-of-time-order) correlators. Concretely, we show that expectation values of local observables at time $t$ can be estimated to accuracy $\\varepsilon$ using circuits of maximum depth $O\\!\\left(\\left[1+\\left(t/\\gamma\\right)^{3/2}\\right]\\log^2(1/\\varepsilon)\\right)$, independent of the system size $n$. Classically, we show that sparse Pauli propagation runs in time polynomial in $n$, $t$ and $1/\\varepsilon$ for every fixed $\\gamma>0$, with polynomial degree $O(1/\\gamma)$ in the weak dissipation limit. The gap between our quantum and classical upper bounds leaves room for a substantial polynomial quantum advantage as dissipation weakens, an observation further supported by our numerical results.",
+    "url": "https://arxiv.org/abs/2609.40174",
+    "status": "new",
+    "score": 8.5,
+    "tags": [
+      "non-Hermitian/open",
+      "entanglement"
+    ],
+    "cats": [
+      "cond-mat",
+      "quant-ph"
+    ],
+    "why_zh": "一类 Pauli 噪声（含退极化）可指数压制 Heisenberg 演化可观测量的高权重分量，从而加速开放系统的量子与经典模拟——开放系统 × 可模拟性。",
+    "points_zh": "直觉上耗散通道增加硬件开销，但作者证明广泛的 Pauli 噪声可指数压制高权重算符分量。对有界度 Lindblad 动力学，这允许在量子硬件上更高效的可观测量模拟，并在经典端改善张量网络/截断方案。结果把“噪声有害”翻转为：特定耗散可成为开放系统模拟的计算资源。",
+    "top_pick": false,
+    "subject_short": "quant-ph"
+  },
+  {
+    "id": "2609.38848",
+    "title": "Quantum quenches of scar states in the Affleck-Kennedy-Lieb-Tasaki model via Clifford augmented tensor network simulation",
+    "authors": "Azar C. Nakhl , Ben Harper , Muhammad Usman , Thomas Quella",
+    "subjects": "Strongly Correlated Electrons (cond-mat.str-el) ; Quantum Physics (quant-ph)",
+    "abstract": "Clifford augmented methods have emerged as a powerful technique to simulate quantum circuits and many-body systems by exploiting the stabiliser structure found in said systems, whilst additionally enabling one to readily quantify the non-stabilizerness (i.e.\\ magic) present. In this work, we utilise a qudit Clifford augmented simulation method to probe the presence of magic in the Affleck-Kennedy-Lieb-Tasaki (AKLT) model, finding that its ground state and scar states are highly magical as quantified by their Stabiliser Rényi Entropy (SRE). Nevertheless, owing to its low entanglement structure, these states are still readily expressible as a Clifford augmented Matrix Product State with low bond-dimension and moreover may be time-evolved using the Clifford augmented time-dependent variational principle (TDVP) algorithm. We utilise Clifford augmented TDVP to study the string order dynamics in the scar states of the AKLT model after a quench within the Haldane phase to the anti-ferromagnetic Heisenberg Hamiltonian. We observe that there is a decay of string order following the quench, which is more pronounced with increasing bimagnon number. This finding highlights the sensitivity of string order in the AKLT scar states to symmetry-preserving quenches, even when the initial and final Hamiltonians belong to the same topological phase.",
+    "url": "https://arxiv.org/abs/2609.38848",
+    "status": "new",
+    "score": 13.5,
+    "tags": [
+      "spintronics",
+      "entanglement",
+      "topology",
+      "tensor-net",
+      "many-body"
+    ],
+    "cats": [
+      "cond-mat",
+      "quant-ph"
+    ],
+    "why_zh": "用 qudit Clifford 增强张量网络模拟 AKLT 模型瘢痕态淬灭并量化 magic——纠缠/非稳定子性 × 多体瘢痕。",
+    "points_zh": "Clifford 增强方法利用稳定子结构高效模拟量子线路与多体系统，并便于量化非稳定子性（magic）。作者以 qudit Clifford 增强模拟探测 AKLT 基态与瘢痕态的 magic，发现二者高度 magical；进而研究瘢痕态量子淬灭动力学中 magic 的演化，展示该框架在拓扑/瘢痕多体中的可用性。",
+    "top_pick": false,
+    "subject_short": "cond-mat.str-el"
+  },
+  {
+    "id": "2609.39084",
+    "title": "Engineered Dissipation for Thermal-State Tracking Across Quantum Criticality",
+    "authors": "Saikat Mistry , Dibyajyoti Sahu , Suhas Gangadharaiah",
+    "subjects": "Quantum Physics (quant-ph) ; Statistical Mechanics (cond-mat.stat-mech)",
+    "abstract": "Engineering dissipation has emerged as a powerful strategy for controlling quantum many-body dynamics, complementing purely coherent control for state preparation. However, finite-time driving across a quantum critical point generates nonadiabatic excitations and coherences, and existing dissipation-engineering approaches have largely characterized how a fixed environment modifies critical dynamics rather than actively steering a system toward a prescribed thermal trajectory. Here we develop a Markovian dissipative framework for finite-time thermal-state tracking based on engineered population currents with non-negative transition rates, and apply it to the transverse-field Ising model driven across its quantum critical point. Compared with unitary dynamics and a natural thermal bath, the engineered dynamics strongly suppresses thermal excitation deviations and provides additional control over coherence damping through a free common current $Q_k$, while exhibiting a substantially steeper residual scaling, $\\delta n_{\\mathrm{ex}}^{\\mathrm{th}}\\sim(v/v_{\\mathrm{ch}})^2$, than the Kibble--Zurek behavior recovered for unitary evolution. These results point toward engineered dissipation as a route for controlling thermal-state preparation in driven quantum critical systems.",
+    "url": "https://arxiv.org/abs/2609.39084",
+    "status": "new",
+    "score": 7.5,
+    "tags": [
+      "non-Hermitian/open",
+      "many-body"
+    ],
+    "cats": [
+      "cond-mat",
+      "quant-ph"
+    ],
+    "why_zh": "用主方程框架设计耗散，使系统在穿越量子临界点时跟踪指定热态轨迹——开放系统 × 临界控制。",
+    "points_zh": "有限时间驱动跨越量子临界点会产生非绝热激发与相干；既有耗散工程多刻画固定环境如何改写临界动力学，而非主动导向指定热轨迹。本文发展主方程层面的耗散设计，使系统在临界穿越中跟踪预定热态，补充相干控制，为开放多体中的态制备与临界动力学操控提供可操作路径。",
+    "top_pick": false,
+    "subject_short": "quant-ph"
+  },
+  {
+    "id": "2609.38195",
+    "title": "A Data-Free Physics-Informed Neural Operator for Level-Set Interface Advection",
+    "authors": "Muhammad Akbar Khan",
+    "subjects": "Machine Learning (cs.LG) ; Fluid Dynamics (physics.flu-dyn)",
+    "abstract": "Operators for interfacial problems are trained on reference solutions produced by the solver they are intended to replace. This work develops a data-free physics-informed neural operator for level-set interface advection, in which the interface is the equation's unknown and the operator maps an initial interface to the full spatiotemporal trajectory under a prescribed flow. Training uses only the transport residual and a geometric constraint; no reference solution enters the objective at any point. A spacetime Fourier backbone emits the entire trajectory in one pass, and the initial condition is imposed by construction rather than by penalty, which removes the competition between the anchoring term and the residual that otherwise arises when no solution data are available. Supervised and hybrid operators are trained under an identical architecture, family, budget and test set, and are reported throughout as baselines that quantify what refusing labels costs. On a reversed single vortex the data-free operator reaches 1.614 +/- 0.067% relative L2 error on 100 held-out initial interfaces against 0.369 +/- 0.035% for the supervised baseline, a factor of 4.4; on solid-body rotation the corresponding figures are 3.804 +/- 1.075% and 2.576 +/- 0.159%, a factor of 1.5. The two benchmarks rank the arms differently, and the difference is attributable to the eikonal constraint: the exact solution violates |grad phi| = 1 over 0.3% of the domain under rotation and 86.9% under the vortex. Where the constraint is valid the physics-trained operator conserves enclosed area 2.7 times better than the supervised baseline despite a larger field error, and a hybrid arm using eight reference solutions outperforms a supervised arm using sixteen.",
+    "url": "https://arxiv.org/abs/2609.38195",
+    "status": "new",
+    "score": 8,
+    "tags": [
+      "PINN/NNQS",
+      "SciML"
+    ],
+    "cats": [
+      "cs.LG"
+    ],
+    "why_zh": "无数据物理信息神经算子学习 level-set 界面平流，仅用输运残差与几何约束训练——PINN/神经算子。",
+    "points_zh": "界面问题算子通常依赖待替换求解器的参考解造数。本文构造 data-free 物理信息神经算子：界面为方程未知量，算子将初始界面映射到给定流场下的全时空轨迹；训练仅用输运残差与几何约束，目标中全程不出现参考解。展示纯方程驱动训练对 level-set 界面动力学的可行性，契合物理信息算子学习方向。",
+    "top_pick": false,
+    "subject_short": "cs.LG"
+  }
+]

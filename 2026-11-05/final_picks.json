@@ -1,0 +1,209 @@
+{
+  "date": "2026-11-05",
+  "user_tz": "America/Los_Angeles",
+  "arxiv_listing_date": "Thursday, 5 November 2026",
+  "listing_status": "announced",
+  "categories": [
+    "cond-mat",
+    "quant-ph",
+    "hep-th",
+    "math-ph",
+    "cs.LG",
+    "stat.ML"
+  ],
+  "new_counts": {
+    "cond-mat": 62,
+    "quant-ph": 77,
+    "hep-th": 20,
+    "math-ph": 14,
+    "cs.LG": 110,
+    "stat.ML": 7
+  },
+  "selected_count": 11,
+  "top_picks": [
+    "2611.05471",
+    "2611.06541",
+    "2611.05555"
+  ],
+  "zotero": {
+    "live_available": false,
+    "machine": "DESKTOP-00O6NSD",
+    "cache_file": "zotero_arxiv_ids.txt",
+    "cache_count": 187,
+    "cache_vintage_note": "~10/30 vintage; copied from 2026-11-04",
+    "shortlist_exact_id_overlaps": []
+  },
+  "dedup": {
+    "prior_ids_count": 347,
+    "prior_ids_file": "prior_ids.txt"
+  },
+  "picks": [
+    {
+      "id": "2611.05471",
+      "title": "Noise-Induced Topology in Chiral Quantum Walks",
+      "authors": "Alexandre Chaduteau · Derek K. K. Lee · Frank Schindler 等",
+      "url": "https://arxiv.org/abs/2611.05471",
+      "subjects": "quant-ph",
+      "status": "new",
+      "score": 10.5,
+      "tags": [
+        "non-Hermitian/open",
+        "topology",
+        "many-body"
+      ],
+      "why_zh": "退相干噪声通常抹平干涉输运，却可使手性量子行走的不对称扩散拓扑稳健，并在有限链上给出无漂移型 skin 堆积；多胞元时噪声强度本身可驱动拓扑相变——噪声诱导拓扑 × 非厄米皮肤效应变体。",
+      "summary_zh": "噪声通常破坏依赖干涉的输运。作者发现在有磁通的手性量子行走中，最常见的在位能量涨落（退相干）反而使扩散不对称变为拓扑稳健：密度分布的偏度随时间增长而中心不动；有限链上晚期弛豫模堆积在一端，形成缺乏常规非厄米皮肤效应那种漂移的 skin 效应。多位点单胞时，退相干强度本身即可引发拓扑相变并反转不对称。工作整体把退相干确立为诱导并稳定拓扑输运不对称的机制，而非单纯破坏干涉的噪声源。"
+    },
+    {
+      "id": "2611.06541",
+      "title": "Dynamically Reentrant Skyrmion Phase in Oscillating Magnetic Fields",
+      "authors": "Z.Demir Vatansever · E. Vatansever · A. Vasilopoulos 等",
+      "url": "https://arxiv.org/abs/2611.06541",
+      "subjects": "cond-mat.stat-mech",
+      "status": "new",
+      "score": 12.5,
+      "tags": [
+        "spintronics",
+        "Floquet",
+        "topology",
+        "many-body"
+      ],
+      "why_zh": "周期振荡磁场下二维 DMI 磁体出现无平衡对应的动态再入 skyrmion 相，周期平均拓扑荷反号，且仅存在于系统可跟随驱动的动态响应窗——周期驱动 × 拓扑磁纹理 × 非平衡相。",
+      "summary_zh": "作者用大规模蒙特卡罗研究二维 Dzyaloshinskii–Moriya 磁体在周期振荡磁场下的非平衡响应，发现在有限振幅与偏置窗内、夹在常规 skyrmion 与极化铁磁相之间，出现无平衡对应的动态再入 skyrmion 相。该相源于单周期内 skyrmion 产生与湮灭的失衡，导致周期平均拓扑荷反号；仅在系统能跟随驱动的动态响应区存在，高频驱动下被抑制。工作把周期驱动确立为操纵拓扑磁相的非平衡途径。"
+    },
+    {
+      "id": "2611.05555",
+      "title": "Classification and Signatures of Dissipative Quantum Hall-Superconductor Junctions",
+      "authors": "Evgenii Zheltonozhskii · Barak A. Katzir · Yuval Oreg 等",
+      "url": "https://arxiv.org/abs/2611.05555",
+      "subjects": "cond-mat.mes-hall",
+      "status": "new",
+      "score": 10.5,
+      "tags": [
+        "non-Hermitian/open",
+        "topology",
+        "many-body"
+      ],
+      "why_zh": "用超导体亚能隙耗散解释 FQH–超导结交叉 Andreev 实验中非量子化、温依赖迥异的边缘电导，并给出含 parafermion 零模平台的相图——耗散拓扑结 × 分数霍尔–超导。",
+      "summary_zh": "邻近超导的分数量子霍尔边缘可承载 parafermion 零模。近期 CAR 实验测到小且非量子化的边缘电导，且不同态呈温度无关或降温增强两类行为。作者用超导体亚能隙模的耗散解释这些结果，给出 FQH–超导结相图：对 Jain 态，温度无关的非量子化电导仅在存在整数模时出现；并讨论可区分拓扑相与耗散签名的实验判据。工作把耗散纳入拓扑结分类与读出。"
+    },
+    {
+      "id": "2611.06369",
+      "title": "Kardar--Parisi--Zhang density hydrodynamics in a coherent XXZ--ASEP Lindbladian",
+      "authors": "Yansheng Liu · Daoguang Li · Kaixiang Lu 等",
+      "url": "https://arxiv.org/abs/2611.06369",
+      "subjects": "cond-mat.stat-mech",
+      "status": "new",
+      "score": 8.5,
+      "tags": [
+        "non-Hermitian/open",
+        "entanglement"
+      ],
+      "why_zh": "相干 XXZ 与非对称 Lindblad 跳跃并存时，定态电流仍呈 ASEP 形式，密度可见 Liouvillian 谱与实空间扩散支持 KPZ 标度——开放系统 Liouvillian × 量子相关 × 流体动力学。",
+      "summary_zh": "相干相互作用可产生量子关联而不改变定态密度流。作者研究带非对称 Lindblad 跳跃的 XXZ 链：定态电流具 ASEP 形式，但布居并不自治演化。电流曲率与静态磁化率无需拟合即可固定主导 KPZ 长度与振幅；密度可见 Liouvillian 谱、实空间铺展与傅里叶弛豫在所研究相干耦合下支持 KPZ 标度，定态密度关联与 Prähofer–Spohn 轮廓一致。工作追问量子相干下开放流体动力学是否仍由电流决定。"
+    },
+    {
+      "id": "2611.05856",
+      "title": "Floquet-Volkov spin polarization in spin-degenerate Antiferromagnets",
+      "authors": "Jiyang Fan · Dinghui Wang · Tongshuai Zhu",
+      "url": "https://arxiv.org/abs/2611.05856",
+      "subjects": "cond-mat.mes-hall",
+      "status": "new",
+      "score": 7.5,
+      "tags": [
+        "spintronics",
+        "Floquet"
+      ],
+      "why_zh": "共线反铁磁 Dirac 模型在无自旋轨道耦合时，近共振 Floquet 驱动与 Volkov 出射电子干涉可产生自旋分辨光电子强度差——Floquet × 反铁磁自旋电子学 × 超快光谱。",
+      "summary_zh": "周期驱动经 Floquet–Bloch 态调控固体电子结构，但光电子谱还受与 Volkov 修饰出射电子干涉的影响。作者表明：在无 SOC 的共线反铁磁 Dirac 模型中，面内线偏振泵浦保持 PT 对称、准能量自旋简并，但近共振驱动使导带/价带光子修饰态杂化，产生自旋相关相对相位，经到达同一 Volkov 末态的路径干涉转为不等的自旋分辨光电子强度。工作把 Floquet–Volkov 干涉确立为无 SOC 反铁磁中产生自旋极化光发射的机制。"
+    },
+    {
+      "id": "2611.06163",
+      "title": "Spin swapping mediated by spin-orbital textures in centrosymmetric multiorbital materials",
+      "authors": "Chengyuan Cai · Hanchen Wang · Rui-Chun Xiao 等",
+      "url": "https://arxiv.org/abs/2611.06163",
+      "subjects": "cond-mat.mes-hall",
+      "status": "new",
+      "score": 6.5,
+      "tags": [
+        "spintronics",
+        "entanglement"
+      ],
+      "why_zh": "中心对称多轨道材料中，无自旋能带劈裂时可由自旋–轨道纠缠的轨道纹理介导自旋泵浦的自旋交换（spin swapping），Ge/Si 效率可达约 50%——自旋轨道 × 自旋电子学。",
+      "summary_zh": "传统 spin swapping 归因于自旋轨道散射或自旋能带劈裂。作者提出另一路径：向中心对称多轨道材料自旋泵浦时，即使无自旋能带劈裂，自旋–轨道纠缠的轨道纹理也可把纵向注入自旋转为纵/横向轨道流，再转回自旋扇区，得到相对主自旋流传播与极化方向对换的横向自旋流；Ge、Si 交换效率可达约 50%。受晶体对称约束的四阶张量支配该过程，为无强 SOC 劈裂体系中的自旋交换提供轨道通道。"
+    },
+    {
+      "id": "2611.05529",
+      "title": "Resonantly interacting $2e/3$ anyons: a controlled microscopic theory of anyon superconductivity",
+      "authors": "Qingchen Li · Pavel A. Nosov · Zhaoyu Han 等",
+      "url": "https://arxiv.org/abs/2611.05529",
+      "subjects": "cond-mat.str-el",
+      "status": "new",
+      "score": 5.5,
+      "tags": [
+        "topology",
+        "many-body"
+      ],
+      "why_zh": "由轻掺杂 Laughlin 态几何量子化导出电荷 2e/3 anyon 有效多体哈密顿，并以两体束缚共振组织 anyon 超导电性——拓扑序 × anyon × 微观超导理论。",
+      "summary_zh": "作者建立连接轻掺杂 Laughlin 态电子相互作用与共振相互作用 anyon 气体普适物理的微观 anyon 超导理论。经 Laughlin 准空穴几何量子化，导出稀薄电荷 2e/3 anyon 的有效多体哈密顿（谷结构、色散、统计与短程相互作用）及 anyon–电子观测量映射，把稀薄多体问题压到可由少 anyon 数值固定的少数参数。对三谷 2e/3 anyon 气体，识别长程由 Aharonov–Casher 型理论支配的束缚共振，并类比共振费米/玻色气体组织相关与边缘微扰。"
+    },
+    {
+      "id": "2611.06154",
+      "title": "Statistical mechanics and hierarchy of learnability in quantum codes: From generalized symmetries to non-Abelian topological orders",
+      "authors": "Hiromi Ebisu · Masazumi Honda",
+      "url": "https://arxiv.org/abs/2611.06154",
+      "subjects": "cond-mat.stat-mech",
+      "status": "new",
+      "score": 5.5,
+      "tags": [
+        "topology",
+        "many-body"
+      ],
+      "why_zh": "把拓扑稳定子码上局域弱测量的贝叶斯推断映射到广义对称经典自旋模型，导出分数化激发非局域观测量可学性的严格层级——拓扑序 × 量子信息可学性。",
+      "summary_zh": "局域弱测量为量子码中编码的观测量提供噪声信息。作者将一大类拓扑稳定子码的贝叶斯推断映射到具广义对称的经典自旋模型；当波函数形变与高斯测量强度一致时，复制模型获得扩大对称，由此导出测量记录平均关联的精确恒等式，量化分数化激发相关非局域观测量的可学性，并结合铁磁模型关联不等式建立可学性层级。工作从广义对称延伸到非阿贝尔拓扑序，把测量可学性与拓扑序结构联系起来。"
+    },
+    {
+      "id": "2611.05987",
+      "title": "Quantum Computing for Entanglement Asymmetry and the Quantum Mpemba Effect in Field Theory",
+      "authors": "Keisuke Fujii · Harunobu Fujimura · Masazumi Honda 等",
+      "url": "https://arxiv.org/abs/2611.05987",
+      "subjects": "hep-lat",
+      "status": "cross",
+      "score": 5.5,
+      "tags": [
+        "entanglement",
+        "many-body"
+      ],
+      "why_zh": "给出估计 Rényi 纠缠不对称（子系统对称破缺探针，亦用于量子 Mpemba）的量子测量协议，并在格点 Schwinger 模型上示范——纠缠不对称 × Mpemba × 量子计算。",
+      "summary_zh": "作者构造估计 Rényi 纠缠不对称的量子测量协议：该量刻画子系统层面的对称破缺，并可作为量子 Mpemba 效应探针。协议结合 SWAP 检验与基于随机对称旋转的电荷分辨步骤；固定加性精度 ε 时测量次数标度为 O(ε⁻²) 且不显含总系统尺寸，适合多体与格点量子场论。代表性应用是在格点 Schwinger 模型上研究量子 Mpemba 效应。"
+    },
+    {
+      "id": "2611.05563",
+      "title": "Bypass Transition via the Non-Hermitian Skin Effect",
+      "authors": "Konghao Sun · Haiping Hu",
+      "url": "https://arxiv.org/abs/2611.05563",
+      "subjects": "cond-mat.mes-hall",
+      "status": "new",
+      "score": 5.5,
+      "tags": [
+        "non-Hermitian/open"
+      ],
+      "why_zh": "非厄米皮肤晶格的定向放大与非线性反馈可在静息态仍线性稳定时触发自持周期/混沌运动（bypass 转捩），阈值随定向增益指数下降——非厄米皮肤效应 × 非线性不稳定性。",
+      "summary_zh": "非厄米皮肤晶格可定向放大传播信号。作者表明该放大与非线性反馈共同驱动类似剪切流的 bypass 转捩：有限局域激发可触发自持周期或混沌运动，而静息态仍保持线性稳定。他们发展返回映射理论，预言触发阈值、其随定向增益的标度以及近临界动力学的失稳机制；阈值随增益指数下降。工作把非厄米皮肤效应从线性输运拓展到非线性自持动力学的触发机制。"
+    },
+    {
+      "id": "2611.06668",
+      "title": "Experimental activation of hidden metrological steerability in quantum channels via stochastic filtering",
+      "authors": "H. S. Karthik · J. Bermúdez · D. Montoya 等",
+      "url": "https://arxiv.org/abs/2611.06668",
+      "subjects": "quant-ph",
+      "status": "new",
+      "score": 4.5,
+      "tags": [
+        "sensing"
+      ],
+      "why_zh": "实验上用随机前后滤波在相位协变振幅阻尼信道中重新激活原本消失的计量导向不等式破坏，恢复导向辅助相位估计优势——量子计量 × 导向 × 噪声信道。",
+      "summary_zh": "导向辅助计量允许受信方 Bob 借助不可信方 Alice 的经典通信改进局域相位估计，但噪声会削弱导向性并抑制计量优势。作者实验表明：随机前/后滤波可在起初不破坏计量导向不等式（MSI）的相位协变振幅阻尼信道中重新激活 MSI 破坏，从而恢复隐藏的计量导向性。工作为噪声信道下激活/维持量子计量中的导向资源提供实验路径。"
+    }
+  ]
+}

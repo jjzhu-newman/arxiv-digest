@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-12",
+  "user_tz": "America/Los_Angeles",
+  "arxiv_listing_date": null,
+  "listing_status": "not_yet_announced",
+  "reason_zh": "2026-11-11（周三）为 arXiv 假期（Veterans Day），周三晚间公告顺延；周四新投稿预计美东 20:00 EST（美西约 17:00 PST）才上线。当前 /list/*/new 仍为周三 11/11 清单，与昨日摘要相同。",
+  "next_announcement_et": "2026-11-12 20:00 EST",
+  "next_announcement_pt": "2026-11-12 17:00 PST",
+  "categories_scanned": [
+    "cond-mat",
+    "quant-ph",
+    "hep-th",
+    "math-ph",
+    "cs.LG",
+    "stat.ML"
+  ],
+  "new_counts": {
+    "cond-mat": 73,
+    "quant-ph": 71,
+    "hep-th": 28,
+    "math-ph": 7,
+    "cs.LG": 134,
+    "stat.ML": 11,
+    "note": "counts reflect still-showing Wed 11/11 listings; not Thu 11/12"
+  },
+  "zotero_checked": false,
+  "zotero_note": "machine DESKTOP-00O6NSD offline; skipped — no Thursday picks to check",
+  "in_library": [],
+  "top_picks": [],
+  "selected_count": 0,
+  "picks": [],
+  "prior_digest": "/workspace/arxiv-digest/2026-11-11/report.md",
+  "holiday": "Veterans Day, Wednesday 2026-11-11"
+}

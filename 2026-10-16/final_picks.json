@@ -1,0 +1,302 @@
+{
+  "date": "2026-10-16",
+  "user_tz": "America/Los_Angeles",
+  "arxiv_listing_date": "Friday, 16 October 2026",
+  "arxiv_listing_dates": [
+    "Friday, 16 October 2026"
+  ],
+  "listing_status": "announced",
+  "categories": [
+    "cond-mat",
+    "quant-ph",
+    "hep-th",
+    "math-ph",
+    "cs.LG",
+    "stat.ML"
+  ],
+  "new_counts": {
+    "cond-mat": 78,
+    "quant-ph": 72,
+    "hep-th": 23,
+    "math-ph": 9,
+    "cs.LG": 166,
+    "stat.ML": 22
+  },
+  "holiday_note": null,
+  "dedup_excluded_ids": [
+    "2610.20383",
+    "2610.18967",
+    "2610.19017",
+    "2610.19923",
+    "2610.18965",
+    "2610.19793",
+    "2610.20016",
+    "2610.19261",
+    "2610.18983",
+    "2610.19061",
+    "2610.19770"
+  ],
+  "zotero_checked": false,
+  "zotero_reason": "DESKTOP-00O6NSD offline (connected=false)",
+  "selected_count": 11,
+  "top_picks": [
+    "2610.22348",
+    "2610.21770",
+    "2610.22223"
+  ],
+  "picks": [
+    {
+      "id": "2610.22348",
+      "title": "Parafermions in polarized $ν=2/3$ Fractional Quantum (Anomalous) Hall Heterostructures",
+      "authors": "Steffen Bollmann · Andreas Haller · Thomas L. Schmidt · Jukka I. Väyrynen 等",
+      "subjects": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall) ; Strongly Correlated Electrons (cond-mat.str-el)",
+      "subject_short": "cond-mat.mes-hall",
+      "url": "https://arxiv.org/abs/2610.22348",
+      "status": "new",
+      "score": 10.5,
+      "tags": [
+        "PINN/NNQS",
+        "topology",
+        "many-body"
+      ],
+      "cats": [
+        "cond-mat"
+      ],
+      "top_pick": true,
+      "why_zh": "自旋极化 ν=2/3 分数量子霍尔边态近邻超导：中性偶极扇区被隙开后稳定主导隧穿/配对道，给出 ℤ₃ parafermion 零模——任意子 × 拓扑超导。",
+      "summary_zh": "受二维材料分数陈绝缘体实验迹象推动，作者考察自旋极化 ν=2/3 分数量子霍尔态与超导近邻下边态 ℤ₃ parafermion 零模的实现。与自旋非极化 Halperin 态不同，极化边含反向传播电子与分数准空穴模，隧穿与配对过程竞争激烈。在模重组为电荷与中性扇区（中性扇区为涌现偶极自由度）的不动点附近，用玻色化与重整化群划出参数区：边间偶极相互作用隙开中性扇区，留下一条主导隧穿与一条主导配对。此时边间隧穿与超导配对可同时相关，在拓扑简并基态中钉扎 ℤ₃ parafermion 零模。工作把极化 ν=2/3 边置于分数陈绝缘体/超导异质结语境，给出可与实验对照的稳定窗口。",
+      "in_zotero": null,
+      "zotero_note": "桌面 DESKTOP-00O6NSD 未在线，本次未做 Zotero 核对。",
+      "abstract": "Motivated by recent experimental signatures of fractional Chern insulators in 2D quantum materials, we investigate the realization of $\\mathbb Z_3$ parafermion zero modes (PZMs) on edges of spin-polarized $\\nu=2/3$ fractional quantum Hall states which are proximitized by superconductors. Unlike the spin-unpolarized Halperin state, the polarized $\\nu=2/3$ edge contains counterpropagating electron and fractional quasihole modes, giving rise to a plethora of competing tunneling and pairing processes. We focus on the vicinity of the fixed point where these modes reorganize into decoupled charge and neutral sectors, with the neutral sector describing an emergent dipole degree of freedom. Using bosonization and renormalization group analysis, we lay out the parameter space in which the interedge dipole interactions gap the neutral sector to stabilize one dominant tunneling and one dominant pairing channel resulting in a double sine-Gordon model in the charge sector which supports $\\mathbb{Z}_3$ PZMs at domain walls. We discuss both clean and disordered systems. In clean systems this mechanism requires a certain degree of control of the interaction strength and range. In contrast, disorder can provide a more generic route: While short-ranged, edge-uncorrelated disorder % on the two edges suppresses the simultaneous pinning required for stable parafermion modes, when the disorder on the two edges is sufficiently correlated, as expected for smooth disorder potentials, the parameter regime hosting PZMs increases."
+    },
+    {
+      "id": "2610.21770",
+      "title": "Coexistence of Altermagnetic and Compensated Ferrimagnetic Motifs in a Noncollinear Multiferroic",
+      "authors": "Vikrant Chaudhary · Fu Li · Hui Liu · Mengli Hu 等",
+      "subjects": "Materials Science (cond-mat.mtrl-sci)",
+      "subject_short": "cond-mat.mtrl-sci",
+      "url": "https://arxiv.org/abs/2610.21770",
+      "status": "new",
+      "score": 6.5,
+      "tags": [
+        "altermagnetism"
+      ],
+      "cats": [
+        "cond-mat"
+      ],
+      "top_pick": true,
+      "why_zh": "非共线多铁 boracite Ni₃B₇O₁₃Cl 中交错磁与补偿亚铁磁基元在不同 Ni 亚晶格共存：d 波与 s 波自旋极化分量叠加，并与铁电极化磁电耦合——altermagnetism 材料实空间拼图。",
+      "summary_zh": "共线补偿磁中的非相对论自旋劈裂可分为交错磁（ALM：旋转/镜面对称关联的反向自旋亚晶格，Γ 点劈裂为零）与补偿亚铁磁（CFIM：对称不等价亚晶格，劈裂可贯穿布里渊区含 Γ）。作者表明多铁 boracite Ni₃B₇O₁₃Cl 的共面非共线磁态在不同 Ni 亚晶格上同时承载这两种基元。电子结构与自旋织构呈现与 ALM、CFIM 对应的 d 波样与 s 波样自旋极化分量共存。相反铁电态给出带分辨自旋极化反号，显示磁电耦合，并伴随线性位移电流与圆偏振注入电流的符号反转。",
+      "in_zotero": null,
+      "zotero_note": "桌面 DESKTOP-00O6NSD 未在线，本次未做 Zotero 核对。",
+      "abstract": "Collinear compensated magnets with nonrelativistic spin splitting comprise altermagnets (ALMs), whose rotation- or mirror-related opposite-spin sublattices produce momentum-selective splitting that vanishes at $\\Gamma$, and compensated ferrimagnets (CFIMs), whose symmetry-inequivalent sublattices allow splitting throughout the Brillouin zone, including at $\\Gamma$. Here, we show that the coplanar noncollinear magnetic state of multiferroic boracite Ni$_3$B$_7$O$_{13}$Cl hosts both motifs on distinct Ni sublattices in real space. The electronic structure and spin texture exhibit coexisting $d$-wave-like and $s$-wave-like spin-polarization components associated with the ALM and CFIM motifs, respectively. Opposite ferroelectric states exhibit reversed band-resolved spin polarizations, indicating magnetoelectric coupling, and sign reversals of linear shift and circular injection currents."
+    },
+    {
+      "id": "2610.22223",
+      "title": "Constrained dissipation and the lifetime of quantum many-body scars",
+      "authors": "Weyner Ccuiro · Rosario Fazio · Alessandro Silva",
+      "subjects": "Quantum Physics (quant-ph)",
+      "subject_short": "quant-ph",
+      "url": "https://arxiv.org/abs/2610.22223",
+      "status": "new",
+      "score": 7.5,
+      "tags": [
+        "non-Hermitian/open",
+        "many-body"
+      ],
+      "cats": [
+        "quant-ph"
+      ],
+      "top_pick": true,
+      "why_zh": "PXP 模型在马尔可夫耗散下：局域跃迁算子保哈密顿对称时 Liouvillian 谱出现疤痕塔；γ₊/γ₋ 比决定长时是否由疤痕主导——开放系统 × 多体疤痕。",
+      "summary_zh": "考察马尔可夫耗散下 PXP 模型量子多体疤痕的命运。当局域跃迁算子与哈密顿量共享对称性时，完整 Liouvillian 谱出现一塔与标准量子疤痕类比的态：与 Néel 态大重叠，虚部本征值等间距并由单一频率设定。长时动力学是否由疤痕主导取决于本征值实部，由自旋下→上与上→下弛豫率 γ₊、γ₋ 之比决定。非对称耗散（γ₊>γ₋）下疤痕本征值实部最小，保真度振荡增强，并可由交错跃迁算子进一步稳定；若把耗散子中的全投影换成部分投影破坏对称，耗散疤痕整体消失。",
+      "in_zotero": null,
+      "zotero_note": "桌面 DESKTOP-00O6NSD 未在线，本次未做 Zotero 核对。",
+      "abstract": "We investigate the fate of quantum many-body scars in the PXP model subject to Markovian dissipation. We show that when local jump operators respect the same symmetries of the Hamiltonian the full Liouvillian spectrum displays a tower of states with properties analogous to standard quantum scars: large overlaps with Néel states and equally spaced gaps in the imaginary part of the eigenvalues, set by a single frequency. Whether the long-time dynamics is dominated by scars is determined by the real parts of the eigenvalues, which are set by the ratio between the two relaxation rates $\\gamma_{\\pm}$ describing spin flips down-to-up or up-to-down respectively. For asymmetric dissipation ($\\gamma_+ > \\gamma_-$) the scarred eigenvalues have the smallest real parts: the resulting enhanced fidelity oscillations are further stabilized by staggered jump operators. In contrast, replacing the full projection operator in the dissipators with a partial one breaks the symmetries of the problem and is seen to destroy dissipative scars altogether."
+    },
+    {
+      "id": "2610.21317",
+      "title": "Thermodynamic-limit bootstrap: Solving fractional quantum Hall ground states",
+      "authors": "Qiang Gao · Taige Wang",
+      "subjects": "Strongly Correlated Electrons (cond-mat.str-el) ; Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+      "subject_short": "cond-mat.str-el",
+      "url": "https://arxiv.org/abs/2610.21317",
+      "status": "new",
+      "score": 8.5,
+      "tags": [
+        "entanglement",
+        "topology",
+        "many-body"
+      ],
+      "cats": [
+        "cond-mat"
+      ],
+      "top_pick": false,
+      "why_zh": "量子多体 bootstrap 直接在热力学极限求解分数量子霍尔基态：紧能量下界并复现 Laughlin/Pfaffian 轨道纠缠谱——拓扑序 × 纠缠诊断。",
+      "summary_zh": "强关联基态通常先在有限系统计算再外推热力学极限。作者发展直接在热力学极限求解分数量子霍尔基态的量子多体 bootstrap：给出严格且定量紧的基态能量下界，并识别基态结构与拓扑序。对 Laughlin 与 Pfaffian 母哈密顿量，几乎逐级复现精确对关联函数与低能轨道纠缠谱；对库仑相互作用，严格热力学极限能量界与精确对角化、DMRG 外推一致，局域诊断恢复已确立的 Laughlin 与 Moore–Read 轨道纠缠谱计数及复合费米液体 Friedel 振荡。",
+      "in_zotero": null,
+      "zotero_note": "桌面 DESKTOP-00O6NSD 未在线，本次未做 Zotero 核对。",
+      "abstract": "Strongly interacting ground states are usually computed in finite systems and then extrapolated to the thermodynamic limit (TDL). Here we develop a quantum many-body bootstrap that solves fractional quantum Hall ground states directly in the TDL. The method gives rigorous and quantitatively tight lower bounds on the ground-state energy and identifies the ground-state structure and topological order. For Laughlin and Pfaffian parent Hamiltonians, it reproduces exact pair-correlation functions and low-lying orbital entanglement spectrum (OES) nearly level by level. For Coulomb interactions, the rigorous TDL energy bounds closely match thermodynamic estimates from exact diagonalization and density-matrix renormalization group (DMRG) extrapolations, and the local diagnostics recover established Laughlin and Moore--Read OES counting and Friedel oscillations of the composite Fermi liquid. Beyond these benchmarks, the bootstrap resolves the thermodynamic ground states at $\\nu=1/4$ and $\\nu=12/5$, identifying a composite Fermi liquid and $\\overline{\\mathrm{RR}}_3$ topological order, respectively. The same framework applies equally well to Abelian and non-Abelian, gapped and gapless quantum Hall states. The TDL bootstrap therefore provides a general ground-state solver that determines both the energy and the state directly in the TDL."
+    },
+    {
+      "id": "2610.21310",
+      "title": "Transdimensional Chern insulators in rhombohedral multilayer graphene superlattices",
+      "authors": "Min Li · Xin Lu · Lei Wang · Jianpeng Liu",
+      "subjects": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall) ; Strongly Correlated Electrons (cond-mat.str-el)",
+      "subject_short": "cond-mat.mes-hall",
+      "url": "https://arxiv.org/abs/2610.21310",
+      "status": "new",
+      "score": 8.5,
+      "tags": [
+        "topology",
+        "spin-Hall",
+        "many-body"
+      ],
+      "cats": [
+        "cond-mat"
+      ],
+      "top_pick": false,
+      "why_zh": "菱面体多层石墨烯/hBN 莫尔超晶格中相互作用驱动“超维”轨道铁磁金属演化为 |C|=1 Chern 绝缘体，并可通向分数陈绝缘体——拓扑 × 莫尔。",
+      "summary_zh": "近期菱面体多层石墨烯轻电子掺杂“超维”体制实验显示垂直与面内磁场下反常霍尔磁滞，指向相互作用驱动 Fermi-lune 金属中的超维轨道磁性。作者证明耦合莫尔势后，该超维轨道铁磁金属可在扭角 RMG/hBN 超晶格中演化为量子化 Chern 绝缘体相。无限制 Hartree–Fock 表明相互作用重构隔离出自旋–谷极化 |C|=1 Chern 带，形成同时具面内与面外轨道磁化的“超维 Chern 绝缘体”（TDCI）。最小两带模型揭示非互易速度与面内轨道磁化的联系；集体激发含可软化的电荷/自旋模，面内磁场可硬化密度波模并驱动向 TDCI 转变；|C|=1 带分数填充时基态可为破旋转与镜面对称的分数陈绝缘体。",
+      "in_zotero": null,
+      "zotero_note": "桌面 DESKTOP-00O6NSD 未在线，本次未做 Zotero 核对。",
+      "abstract": "Recent experiments on lightly electron-doped rhombohedral multilayer graphene (RMG) in the \"transdimensional\" regime revealed anomalous Hall hysteresis under both perpendicular and in-plane magnetic fields, pointing to the emergence of transdimensional orbital magnetism in an interaction-driven \"Fermi-lune\" metal. Here we demonstrate that, by coupling to the moiré potential, this transdimensional orbital ferromagnetic metal can evolve into quantized Chern insulator phases in twisted RMG/hBN moiré superlattices. Using unrestricted Hartree-Fock calculations, we find that interaction-driven reconstruction isolates a spin-valley-polarized $|C| = 1$ Chern band, leading to a \"transdimensional Chern insulator\" (TDCI) state exhibiting both in-plane and out-of-plane orbital magnetizations. A minimal two-band model is introduced to describe the unique properties of TDCI, which unveils the intimate connection between non-reciprocal velocity and in-plane orbital magnetization. We further analyze the collective excitations of TDCIs, and identify soft charge and spin modes that may lead to density wave instabilities in certain cases. An in-plane magnetic field can harden the soft density-wave mode and may drive a transition from density-wave state to TDCI. Finally, when the $|C| = 1$ band is fractionally filled, the many-body ground state may be a fractional Chern insulator with broken rotation and mirror symmetries."
+    },
+    {
+      "id": "2610.21416",
+      "title": "Edge state reconstruction in proximitized graphene and its probe using RKKY interaction",
+      "authors": "Seerat Khan · SK Firoz Islam",
+      "subjects": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+      "subject_short": "cond-mat.mes-hall",
+      "url": "https://arxiv.org/abs/2610.21416",
+      "status": "new",
+      "score": 6.5,
+      "tags": [
+        "spintronics",
+        "topology"
+      ],
+      "cats": [
+        "cond-mat"
+      ],
+      "top_pick": false,
+      "why_zh": "近邻 SOC 石墨烯锯齿纳米带边势诱导谷间→谷内边态重构；电荷电导看不见，RKKY 交换可探针——自旋轨道 × RKKY。",
+      "summary_zh": "石墨烯置于衬底时近邻 SOC 破亚晶格对称，产生交错本征 SOC 与 Rashba。锯齿纳米带中交错 SOC 给出亚晶格锁定而非自旋锁定的伪螺旋边态。作者考察仅作用于带边的有限位势：谷间边态重构为纯谷内并同时自旋与谷极化。电荷电导因透射通道数不变而无法捕捉该重构。置于带边的两磁杂质间 RKKY 交换可探针色散移动；强本征与 Rashba SOC 下 RKKY 完全各向异性。边态重构使 RKKY 随杂质间距振荡加快，DM 项幅度差还可区分均匀与交错 SOC 类型。",
+      "in_zotero": null,
+      "zotero_note": "桌面 DESKTOP-00O6NSD 未在线，本次未做 Zotero 核对。",
+      "abstract": "Proximity induced spin-orbit coupling (SOC) in graphene emerges when it is placed on a substrate, breaking sublattice symmetry and giving rise to staggered intrinsic SOC together with Rashba spin-orbit coupling. In zigzag graphene nanoribbons, this staggered SOC produces pseudohelical edge states exhibiting sublattice-locked rather than spin-locked helicity. We investigate the effect of a finite on-site potential, restricted to the edges of the ribbon, on these edge states. We find the inter-valley edge states undergo reconstruction and become purely intra-valley, exhibiting both spin and valley polarization. The charge conductance calculations fail to capture this reconstruction, since the number of transmitted channels remains unchanged. We show that the Ruderman-Kittel-Kasuya-Yosida (RKKY) magnetic exchange interaction, between two magnetic impurities situated on the ribbon edge can be used to probe the shifted band dispersion, for both the uniform and staggered spin-orbit coupling. In the presence of strong intrinsic and Rashba SOC, the RKKY interaction becomes fully anisotropic. Both sublattice staggering and edge potential-induced reconstruction lead to distinct features in the RKKY interaction. We show that the RKKY interaction terms acquire faster oscillations as a function of the spatial separation between two magnetic impurities, in response to the edge state reconstruction, establishing it as an effective probe of the edge states. Additionally, the significant mismatch in the amplitudes of the DM term corresponding to the uniform and staggered SOC, can also act as a probe of the type of SOC."
+    },
+    {
+      "id": "2610.21465",
+      "title": "Periodic conditional measurements on a photonic chip",
+      "authors": "Xuan Chen · Ruo-Yu Yin · Xiao-Wen Shang · Xi-Jun Yuan 等",
+      "subjects": "Quantum Physics (quant-ph)",
+      "subject_short": "quant-ph",
+      "url": "https://arxiv.org/abs/2610.21465",
+      "status": "new",
+      "score": 7.5,
+      "tags": [
+        "Floquet",
+        "topology"
+      ],
+      "cats": [
+        "quant-ph"
+      ],
+      "top_pick": false,
+      "why_zh": "光子芯片上周期条件测量：条件演化算子明/暗模统一描述无探测轨迹终态与探测统计，保护拓扑角态并关联 Floquet 近暗模——受监控动力学 × Floquet。",
+      "summary_zh": "量子测量既提取信息也经反作用重塑演化。作者研究周期条件测量：相干演化被局域测量反复打断。条件演化算子的明模与暗模为无探测轨迹上的后选终态及探测事件统计提供统一谱描述。在三维光子芯片上演示暗模保留与明模选择的按需态工程，可保护拓扑角态并实现激发态搁置。进一步观测有效无限一维晶格上总探测概率的预言转变，并将其微观起源归于 Floquet 近暗模。工作把周期条件测量确立为工程条件量子态与操控事件探测统计的一般框架。",
+      "in_zotero": null,
+      "zotero_note": "桌面 DESKTOP-00O6NSD 未在线，本次未做 Zotero 核对。",
+      "abstract": "Quantum measurements not only extract information but also reshape quantum evolution through measurement backaction. Here, we investigate periodic conditional measurements, in which coherent evolution is repeatedly interrupted by local measurements. We show that the bright and dark modes of the conditional evolution operator provide a unified spectral description of both the post-selected final state along no-detection trajectories and the statistics of detection events. Using a three-dimensional photonic chip, we demonstrate on-demand state engineering through dark-mode preservation and bright-mode selection, enabling the protection of topological corner states and excited-state shelving. We further observe the predicted transition of the total detection probability on an effectively infinite one-dimensional lattice and identify its microscopic origin in Floquet near-dark modes. These results establish periodic conditional measurements as a general framework for engineering conditional quantum states and manipulating event-detection statistics in monitored quantum dynamics."
+    },
+    {
+      "id": "2610.20765",
+      "title": "Standard and Bipolar Rectification in Tilted Periodically-Driven Quantum Systems",
+      "authors": "Joaquín Peñuela-Parra · Juan José Mendoza-Arenas",
+      "subjects": "Quantum Physics (quant-ph) ; Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Statistical Mechanics (cond-mat.stat-mech)",
+      "subject_short": "quant-ph",
+      "url": "https://arxiv.org/abs/2610.20765",
+      "status": "new",
+      "score": 4.5,
+      "tags": [
+        "Floquet"
+      ],
+      "cats": [
+        "cond-mat",
+        "quant-ph"
+      ],
+      "top_pick": false,
+      "why_zh": "倾斜势局域周期驱动下费米系统与热浴耦合：无偏置亦可由 Floquet 共振产生粒子/能量流，并实现标准与双极整流——Floquet × 开放输运。",
+      "summary_zh": "在倾斜势被局域时间周期驱动的费米系统中建立粒子与能量流的整流机制。驱动在热浴间无化学或热偏置时仍可产生电流与能流；Floquet 准能谱回避交叉的共振频率处驱动诱导流增强，Floquet 态充当输运中间通道。引入偏置后，驱动贡献可增强、竞争乃至抵消偏置贡献，用整流系数 ℛ 量化沿/逆倾斜输运不对称。除标准整流外还识别双极整流：无论偏置极性电流只沿倾斜向上；两体制边界可达完美整流（逆偏置流完全压制）。粒子相互作用扩大双极整流参数区并使 ℛ 可增强许多数量级。",
+      "in_zotero": null,
+      "zotero_note": "桌面 DESKTOP-00O6NSD 未在线，本次未做 Zotero 核对。",
+      "abstract": "Developing mechanisms to control transport in correlated quantum systems is essential for advancing quantum circuit technologies. In this work, we establish a rectification mechanism for both particle and energy flow in a fermionic system coupled to external baths, in the presence of a tilted potential modulated locally by a time-periodic drive. The drive generates particle and energy currents even in the absence of chemical or thermal bias between the baths. These drive-induced currents are enhanced at resonant frequencies at which avoided crossings occur in the Floquet quasienergy spectrum, reflecting the role of the Floquet states as intermediate channels for transport. Once a bias between the baths is introduced, the drive-induced current contribution can reinforce, compete with, or even cancel the bias-induced contribution. These effects enable rectification in the non-interacting regime, which we quantify via the rectification coefficient $\\mathcal{R}$. This coefficient measures the asymmetry between transport up the tilt (forward bias) and down the tilt (reverse bias). In addition to standard rectification, where transport is reduced under reverse bias, we identify a regime of bipolar rectification, in which the current flows only up the tilt regardless of the bias polarity. At the boundary between standard and bipolar regimes, the system achieves perfect rectification, corresponding to complete suppression of the reverse-bias current. In the presence of interactions between particles, the parameter region that supports bipolar rectification is enlarged and $\\mathcal{R}$ can be enhanced by many orders of magnitude. Our results establish a rectification mechanism for particle and energy transport that can be experimentally realized in condensed matter and cold atom systems."
+    },
+    {
+      "id": "2610.21155",
+      "title": "Localized states of the non-Hermitian Schr{ö}dinger equation with a complex $1/r^{2}$ potential: from Efimov states to bipolarons",
+      "authors": "Kyoka Tsunoda · Kazuki Yamamoto · Shimpei Endo",
+      "subjects": "Quantum Gases (cond-mat.quant-gas) ; Nuclear Theory (nucl-th); Quantum Physics (quant-ph)",
+      "subject_short": "cond-mat.quant-gas",
+      "url": "https://arxiv.org/abs/2610.21155",
+      "status": "new",
+      "score": 5.5,
+      "tags": [
+        "non-Hermitian/open"
+      ],
+      "cats": [
+        "cond-mat",
+        "quant-ph"
+      ],
+      "top_pick": false,
+      "why_zh": "复 1/r² 势非厄米薛定谔方程：实吸引对应 Efimov，纯虚对应重极化子介质诱导相互作用；离散化伴随例外点——非厄米 × 少体/极化子。",
+      "summary_zh": "复 1/r² 势非厄米薛定谔方程桥接厄米少体与非厄米多体：实吸引描述 Efimov 束缚态，纯虚描述两重极化子大间距处的介质诱导相互作用。作者解析得到局域与连续态，并与数值、WKB 对照。虚部增大时 Efimov 能级获虚部并在复平面逆时针旋转；趋近纯虚势时激发态依次消失，基态平滑连到仅由介质诱导虚相互作用局域的双极化子。有限差分显示每个双极化子必伴随网格尺度振荡的局域伴态，二者在例外点合并；引入有限实部则解除合并，源于纯虚势下离散化方程的对称性。",
+      "in_zotero": null,
+      "zotero_note": "桌面 DESKTOP-00O6NSD 未在线，本次未做 Zotero 核对。",
+      "abstract": "We study the non-Hermitian Schrödinger equation with a complex $1/r^{2}$ potential, which bridges Hermitian few-body and non-Hermitian many-body physics: a real attractive potential describes Efimov bound states, whereas a purely imaginary one describes the medium-induced interaction between two heavy polarons at large separations. We solve this equation analytically, obtaining both the localized and continuum states, and compare the solutions with numerical and WKB results. As the imaginary part of the potential is increased, the energies of the Efimov bound states acquire imaginary parts and rotate counterclockwise in the complex plane. On approaching the purely imaginary potential, the excited states disappear sequentially, while the Efimov ground state is smoothly connected to a bipolaron state localized at short distance. Such a bipolaron is localized solely by the medium-induced imaginary interaction, without any attractive real potential. Solving the equation by finite differences, we find that each bipolaron state is necessarily accompanied by another localized state that oscillates on the scale of the mesh size and hence has no counterpart in the continuum limit. Each such pair coalesces at an exceptional point as the strength of the purely imaginary potential is varied, whereas the coalescence is lifted once a finite real part is introduced. We show that this behavior originates from a symmetry of the discretized Schrödinger equation that holds for any purely imaginary potential."
+    },
+    {
+      "id": "2610.20791",
+      "title": "Sparse-QITE: Discovering Compact Generators for Quantum Imaginary-Time Evolution via Regularization Methods",
+      "authors": "Rafael Gómez-Lurbe · Luca Ion · Alberto Acevedo · Andreu Anglés-Castillo",
+      "subjects": "Quantum Physics (quant-ph)",
+      "subject_short": "quant-ph",
+      "url": "https://arxiv.org/abs/2610.20791",
+      "status": "new",
+      "score": 4.5,
+      "tags": [
+        "QML"
+      ],
+      "cats": [
+        "quant-ph"
+      ],
+      "top_pick": false,
+      "why_zh": "Sparse-QITE：正则化促使量子虚时演化生成元稀疏，电路门数/深度显著下降，并给出稀疏–精度权衡界——QML × 基态制备。",
+      "summary_zh": "量子虚时演化（QITE）系统制备基态，但代价随酉近似局域性 D 快速增长（局域 Pauli 基按 4ᴰ 标度）。作者提出 Sparse-QITE：正则化促使生成元紧凑，减少量子操作并降低门数与深度。导出稀疏化误差严格界，并在一维横场 Ising 与反铁磁 Heisenberg 上基准；方法给出可控稀疏–精度权衡，高精度区仍强压缩。相对标准 QITE，活跃支撑随 D 增长慢得多，若干体制近似饱和；转译后最大域情形门数可降至约 1% 仍保持高精度。另引入自适应与主动发现变体，动态选正则强度并减少需测的 Pauli 期望值。",
+      "in_zotero": null,
+      "zotero_note": "桌面 DESKTOP-00O6NSD 未在线，本次未做 Zotero 核对。",
+      "abstract": "Quantum imaginary-time evolution (QITE) provides a systematic route to ground-state preparation, but its cost grows rapidly with the locality $D$ of the unitary approximation, for which the local Pauli basis scales as $4^D$. We introduce Sparse-QITE, a regularized formulation that promotes compact generators, reducing the number of quantum operations and yielding circuits with fewer gates and lower depth. We derive rigorous bounds on the sparsification error and benchmark the method in one-dimensional transverse-field Ising and antiferromagnetic Heisenberg models. Sparse-QITE exhibits a controllable sparsity--accuracy trade-off while retaining strong compression even in the high-accuracy regime. In scalability experiments with respect to $D$, the active support grows much more slowly than in standard QITE and, in several regimes, approximately saturates over the domain sizes studied. After circuit construction and transpilation, some of the largest-domain cases require only about $1\\%$ of the standard-QITE gate count while maintaining high accuracy. We further introduce adaptive and active-discovery variants: the former selects the regularization strength dynamically during the evolution, while the latter reduces the number of Pauli expectation values that need to be evaluated and, consequently, the measurement requirements. These results establish sparsity-promoting regularization as a route toward more resource-efficient QITE. More broadly, these results suggest that sparsity-promoting regularization may also benefit variational quantum algorithms."
+    },
+    {
+      "id": "2610.22157",
+      "title": "The importance of tensor handling and implementation of physics-informed DeepONets",
+      "authors": "Nahum Banks · Gustavo A.M. de Almeida · Sergio Maldonado",
+      "subjects": "Machine Learning (cs.LG) ; Computational Physics (physics.comp-ph)",
+      "subject_short": "cs.LG",
+      "url": "https://arxiv.org/abs/2610.22157",
+      "status": "new",
+      "score": 5,
+      "tags": [
+        "PINN/NNQS"
+      ],
+      "cats": [
+        "cs.LG"
+      ],
+      "top_pick": false,
+      "why_zh": "物理信息 DeepONet 的张量处理改造：去掉 Branch 在配点上的冗余求值，训练加速最高约 3.75×，使三维问题可在 A100 上训——PINN/算子学习。",
+      "summary_zh": "物理信息神经网络靠强制控制方程减少标注数据需求；物理信息 Deep Operator Networks（PI-DeepONet）进一步学习解算子以便跨问题族快速预测。作者指出高维问题仍受训练算力限制，并提出修改架构：去掉 Branch 网络在配点间处理输入函数的冗余，数学上等价但减小输入张量并减少 Branch 求值次数。分析两种架构复杂度并导出相对配点数与输入函数数的训练时间标度。在 1D/2D/3D 线性对流上精度相当而训练整体更快，二维最高约 3.75×；三维在 A100 上仅改版可训（原版超内存）。",
+      "in_zotero": null,
+      "zotero_note": "桌面 DESKTOP-00O6NSD 未在线，本次未做 Zotero 核对。",
+      "abstract": "Physics-informed neural networks (PINNs) reduce or eliminate the need for large labelled datasets by enforcing governing equations during training. Physics-informed Deep Operator Networks (PI-DeepONets) extend this approach to learning solution operators, enabling rapid prediction across families of problems. Despite these advantages, we show that their application to higher-dimensional problems remains limited by the computational cost of training. To address this issue, we propose a modified PI-DeepONet architecture that reduces this cost by removing redundancy in how the Branch network processes input functions across collocation points. The proposed formulation is mathematically equivalent to the original architecture but reduces input tensor sizes and the number of Branch network evaluations. We analyse the computational complexity of both architectures and derive theoretical scaling laws for training time with respect to the number of collocation points and input functions. The proposed architecture is evaluated on 1D, 2D, and 3D linear advection problems. In all cases, it achieves comparable predictive accuracy to the original PI-DeepONet while consistently reducing training time. In 2D experiments, a maximum speed-up of $3.75\\times$ is observed, with empirical training-time scaling agreeing with the predicted linear dependence on collocation points and input functions. Furthermore, training a 3D model on an NVIDIA A100 GPU is only feasible using the proposed architecture, as the original formulation exceeds memory limits. These results demonstrate that careful consideration of how PI-DeepONets are implemented can yield substantial gains, enhancing the practical performance of PI-DeepONets and enabling their application to otherwise intractable physics-informed learning problems."
+    }
+  ]
+}

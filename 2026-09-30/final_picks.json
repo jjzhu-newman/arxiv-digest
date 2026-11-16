@@ -1,0 +1,214 @@
+[
+  {
+    "id": "2609.36017",
+    "title": "Independent density and coherence skin effects in adaptive fermion circuits",
+    "authors": "Karim Chahine , Markus Siegl , Michael Buchhold",
+    "subjects": "Quantum Physics (quant-ph)",
+    "abstract": "Adaptive circuits use measurements and outcome-conditioned feedback to implement nonreciprocal dynamics without postselection. We show that fermion circuits host independently tunable density and coherence skin effects. The stationary state has an exact density tilt set only by measurement strength and feedback displacement: conditioned-gate details cancel, yielding an exponential one-particle profile and, at any filling, a tilted ensemble of configuration weights. Decaying coherences instead obey, in the bulk, an effective Hatano-Nelson generator controlled by the conditioned gates through a relative occupation phase. Tuning this phase drives a point-gap topological transition and reverses coherence localization at fixed density, allowing density and coherence to localize at opposite edges. We derive both exponents for conditioned $U(2)$ gates and propose a correlator-ratio probe using ensemble-averaged observables.",
+    "url": "https://arxiv.org/abs/2609.36017",
+    "status": "new",
+    "score": 3.5,
+    "tags": [
+      "non-Hermitian/open",
+      "topology"
+    ],
+    "cats": [
+      "quant-ph"
+    ],
+    "why_zh": "自适应费米子线路中密度与相干各自独立的趋肤效应，点隙拓扑可反转相干局域方向——NHSE × 测量反馈开放系统。",
+    "points_zh": "自适应电路用测量与条件反馈实现无需后选择的非互易动力学。定态密度倾斜只由测量强度与反馈位移决定，条件门细节相消；体中衰减相干则服从有效 Hatano–Nelson 生成元，由相对占据相位控制。调节该相位可驱动点隙拓扑转变并在固定密度下反转相干局域边，使密度与相干可局域在相对两端；并给出关联比探测方案。"
+  },
+  {
+    "id": "2609.37523",
+    "title": "Asymptotic Pseudospectra in Dissipative Floquet Quantum Systems: Geometric Structures and Observable Dynamics",
+    "authors": "Yuncheng Xie , Haozhe Shi , Zhuocheng Ma , Weibin Chu , Xin-Gao Gong",
+    "subjects": "Quantum Physics (quant-ph)",
+    "abstract": "In periodically driven open quantum systems, nonnormality renders the Floquet spectrum insufficient as the system approaches the thermodynamic limit, so that pseudospectra are needed to characterize the dynamics accurately. While conventional approaches mainly focus on the local dynamics of isolated pseudospectra, their global connections and the resulting physical consequences for observables have remained largely unexplored. Here, we uncover this collective behavior by classifying the unit disk into distinct domains of exponential, algebraic, and bounded accuracy according to the asymptotic size-scaling laws of pseudospectral residuals, yielding an underlying geometric structure. We demonstrate the physical implications of this structure through two exactly solvable models. First, in a dissipative shift chain, parameter tuning drives geometric transitions that are detectable via spin-wave observables. Second, in a chiral XY model, we use this geometric structure to explain the origin of a measurable phenomenon: two correlation signals exchange their retention order under continuous parameter tuning. Our findings not only establish a new theoretical paradigm for understanding dissipative Floquet quantum systems, but also predict geometry-driven observables for quantum computing experiments.",
+    "url": "https://arxiv.org/abs/2609.37523",
+    "status": "new",
+    "score": 9.5,
+    "tags": [
+      "non-Hermitian/open",
+      "Floquet"
+    ],
+    "cats": [
+      "quant-ph"
+    ],
+    "why_zh": "耗散 Floquet 系统中非正规性使 Floquet 谱在热力学极限不足，需用渐近伪谱刻画可观测量动力学——开放驱动 × 伪谱几何。",
+    "points_zh": "按伪谱残差的尺寸标度律，把单位圆划分为指数、代数与有界精度等区域，揭示伪谱全局连接的几何结构。以耗散位移链与另一可解模型说明：参数调节可驱动可由自旋缠绕等探测的几何转变；伪谱结构直接约束可观测量的长时间行为，超越孤立局部伪谱分析。"
+  },
+  {
+    "id": "2609.36128",
+    "title": "Altermagnetism produces pair emission and absorption from dark excitons and magnons in La$_2$O$_3$Mn$_2$Se$_2$",
+    "authors": "Birender Singh , Xian Xu , Sabrina R. Hatt , Suvodeep Paul , Yu-Mi Wu , Chao-Chun Wei , Violet Williams , Kyung-Mo Kim , Yihao Zhang , Mohamed Shehabeldin , Cameron Grant , April Li , Michael Geiwitz , Xiaoyin Li , Garrett E. Granroth , Feng Liu , Qiong Ma , Benedetta Flebus , Judy J. Cha , Vinod M.",
+    "subjects": "Materials Science (cond-mat.mtrl-sci)",
+    "abstract": "Altermagnets' (AMs) non-relativistic spin splitting enables novel states, spintronic and magneto-optical devices, though their optical signatures remain elusive. Here, we report exciton-magnon emission and absorption: optical sidebands from a spin-forbidden dark exciton, a direct consequence of altermagnetic symmetry. Combined optical spectroscopy and first-principles calculations reveal that La$_2$O$_3$Mn$_2$Se$_2$ is an altermagnetic insulator, hosting a strongly bound, spin-forbidden dark exciton and a higher-energy bright exciton. Photoluminescence (PL) and absorption reveal mirror-image sidebands, Stokes-shifted in emission and anti-Stokes-shifted in absorption, symmetric about the dark exciton, whose energy shifts and spectral shapes match the magnon energy scale and density of states measured independently by inelastic neutron scattering. The PL intensity tracks the full equal-time spin-spin correlator, combining static and dynamical contributions, and rules out alternative processes. This directly couples PL to magnetism, with potential for magneto-optical devices. These results establish exciton-magnon spectroscopy as a new route for optically identifying and exploiting AMs.",
+    "url": "https://arxiv.org/abs/2609.36128",
+    "status": "new",
+    "score": 9.5,
+    "tags": [
+      "altermagnetism",
+      "spintronics"
+    ],
+    "cats": [
+      "cond-mat"
+    ],
+    "why_zh": "在 La₂O₃Mn₂Se₂ 中观测到交错磁对称性导致的暗激子–磁振子成对发射/吸收光学边带——altermagnetism 的直接光学指纹。",
+    "points_zh": "光学光谱与第一性原理表明该材料为交错磁绝缘体，存在强束缚、自旋禁戒暗激子与更高能亮激子。PL 与吸收给出关于暗激子镜像对称的 Stokes/anti-Stokes 边带，能量与形状与中子散射测得的磁振子尺度及态密度一致；PL 强度跟踪等时自旋关联，确立 altermagnetism 驱动的激子–磁振子耦合通道。"
+  },
+  {
+    "id": "2609.37763",
+    "title": "Nonrelativistic and Relativistic Contributions to Spin-Momentum Locking and Spin Photogalvanic Effect in an Altermagnetic Multiferroic",
+    "authors": "Giuseppe Cuono , Subhadeep Bandyopadhyay , Amar Fakhredine , Mathews Benny , Xujia Gong , Paolo Barone , Andrea Droghetti , Carmine Autieri , Silvia Picozzi",
+    "subjects": "Materials Science (cond-mat.mtrl-sci)",
+    "abstract": "Altermagnetic multiferroics provide a platform where non-relativistic spin-momentum locking (SML) coexists with relativistic spin textures, yet disentangling their different origins remains challenging. Here, using first-principles density-functional-theory calculations and symmetry analysis of the multipolar expansion of the spin polarization, we investigate the altermagnetic multiferroic BaCuF4. Its dominant non-relativistic altermagnetic d-wave SML originates primarily from a CuF6 octahedral rotation coupled to the polar distortion and can therefore be reversed by ferroelectric switching. We show that spin-orbit coupling generates additional spin multipoles and, depending on the Neel-vector orientation, induces spin canting and weak ferromagnetism. By exploiting the group-subgroup relations between spin groups and magnetic space groups, we then distinguish non-relativistic altermagnetic, canting-associated, and purely relativistic contributions to the SML. We further show that this hierarchy is encoded in the nonlinear spin-photogalvanic response, whose spin projection selectively probes contributions of different origins. These results establish a direct connection between the microscopic spin texture and nonlinear spin transport in altermagnetic multiferroics.",
+    "url": "https://arxiv.org/abs/2609.37763",
+    "status": "new",
+    "score": 9.5,
+    "tags": [
+      "altermagnetism",
+      "spintronics"
+    ],
+    "cats": [
+      "cond-mat"
+    ],
+    "why_zh": "交错磁多铁 BaCuF₄ 中非相对论自旋动量锁定与相对论自旋织构并存，并可由铁电翻转反转——altermagnetism × 多铁调控。",
+    "points_zh": "DFT 与自旋极化多极展开显示主导的 d 波非相对论 SML 主要来自 CuF₆ 八面体转动与极性畸变耦合，故可被铁电开关反转。SOC 产生额外自旋多极，并随 Néel 矢量取向诱导倾斜与弱铁磁。利用自旋群与磁空间群的群–子群关系区分非相对论与相对论贡献，并讨论自旋光电流效应中的相应通道。"
+  },
+  {
+    "id": "2609.38150",
+    "title": "Neural-quantum-state based downfolding of the three-band Emery model for cuprates and nickelates",
+    "authors": "Hannah Lange , Julius F. A. Tirpitz , Annabelle Bohrdt",
+    "subjects": "Strongly Correlated Electrons (cond-mat.str-el) ; Disordered Systems and Neural Networks (cond-mat.dis-nn); Quantum Gases (cond-mat.quant-gas); Superconductivity (cond-mat.supr-con)",
+    "abstract": "Understanding the physics underlying high-temperature superconductivity in cuprates and, more recently, infinite-layer nickelates has remained a central challenge in condensed-matter physics. We establish neural quantum states (NQS), specifically Hidden Fermion Determinant States (HFDS), as a scalable variational approach to the three-band Emery model of the copper- and nickel-oxide layers in these materials. After benchmarking HFDS against matrix product states on width-two geometries, we study ground states of fully two-dimensional (2D) systems of up to $10\\times10$ unit cells ($300$ sites). We characterize the momentum-space distribution of dopants and find a pronounced electron-hole dichotomy similar to cuprate experiments. We further downfold the three-band model to effective single-band descriptions by constructing interacting Wannier functions. We consider a wide range of parameters -- from the charge-transfer regime relevant to cuprates to the Hubbard-Mott regime of nickelates, as well as systematic scans of the charge-transfer gap that has been demonstrated to impact the critical superconducting temperatures. Across all regimes, the effective model significantly deviates from the usual Fermi-Hubbard model: The typical ratio $U/t$ is enhanced, some parameters experience a significant doping dependence, and sizable terms beyond the conventional Hubbard model are present, most notably a density-assisted hopping $t_n$. Notably, in all effective models, $t_n$ has the largest contribution to particle-hole asymmetry, rather than next-nearest-neighbor hopping contributions. The effective parameters sensitively depend on the charge-transfer energy, doping, and interaction ratios. Our results establish HFDS as an efficient tool for studying the 2D Emery model and demonstrate that single-band descriptions can require interaction terms generated by the underlying multi-band models.",
+    "url": "https://arxiv.org/abs/2609.38150",
+    "status": "new",
+    "score": 9.5,
+    "tags": [
+      "PINN/NNQS",
+      "many-body"
+    ],
+    "cats": [
+      "cond-mat"
+    ],
+    "why_zh": "用 Hidden Fermion Determinant States 把神经网络量子态扩展到三带 Emery 模型，并在二维大体系上下折——NNQS × 铜/镍酸盐多体。",
+    "points_zh": "在宽二几何上相对 MPS 基准后，研究至 10×10 原胞（300 格点）的二维基态。动量空间掺杂分布呈现类似铜酸盐实验的电子–空穴二分性；用相互作用 Wannier 函数把三带模型下折为有效单带描述，并在宽参数范围内检验有效相互作用与关联结构，展示 NQS 对真实多轨道模型的可扩展性。"
+  },
+  {
+    "id": "2609.36004",
+    "title": "Digital Quantum Algorithms for Generating and Utilizing Spin Squeezed States",
+    "authors": "Mingru Yang , Ruby Wei , Chao Yin",
+    "subjects": "Quantum Physics (quant-ph) ; Strongly Correlated Electrons (cond-mat.str-el)",
+    "abstract": "Spin squeezed states (SSSs) are conventionally viewed as analog resources for quantum metrology. Here we develop algorithms to efficiently generate and exploit SSSs on a digital quantum computer. We introduce an adaptive local-circuit protocol that prepares SSSs with squeezing parameter $\\xi$ in depth $\\mathrm{O}\\left(\\log{1/\\xi}\\right)$, yielding an exponential improvement over non-adaptive approaches. We prove that this depth is optimal for permutation symmetric SSSs by deriving a matching lower bound on entanglement entropy. We further leverage the squeezing paradigm to deterministically prepare the Dicke states using asymptotically fewer resources than prior methods. Remarkably, classical simulations of our preparation protocols under realistic noise models predicts a metrological gain of 4.2 dB beyond the standard quantum limit with 55 superconducting qubits in total including ancillae. Our work paves the way for performing quantum metrology on near-term digital quantum devices.",
+    "url": "https://arxiv.org/abs/2609.36004",
+    "status": "new",
+    "score": 9.5,
+    "tags": [
+      "entanglement",
+      "sensing"
+    ],
+    "cats": [
+      "cond-mat",
+      "quant-ph"
+    ],
+    "why_zh": "在数字量子计算机上以对数深度自适应线路制备自旋压缩态，并用于计量——纠缠计量 × 数字量子算法。",
+    "points_zh": "自适应局域线路以深度 O(log 1/ξ) 制备压缩参数 ξ 的自旋压缩态，相对非自适应指数加速；并对置换对称 SSS 用纠缠熵下界证明深度最优。进一步用压缩范式以更少资源确定性制备 Dicke 态。含噪声经典模拟预计在含辅助共 55 个超导量子比特上可获超越标准量子极限约 4.2 dB 的计量增益。"
+  },
+  {
+    "id": "2609.36008",
+    "title": "Entanglement spectrum and magic in higher-dimensional free fermionic systems",
+    "authors": "Beatrice Magni , Daniele Iannotti , Riccardo Travaglino",
+    "subjects": "Quantum Physics (quant-ph) ; Statistical Mechanics (cond-mat.stat-mech)",
+    "abstract": "We study fermionic non-local magic in higher-dimensional free-fermion systems through the lens of the entanglement spectrum. For translationally invariant Gaussian states in strip geometries, dimensional reduction maps the problem to independent lower-dimensional momentum sectors, leading in two dimensions to a multiplicative logarithmic violation of the boundary law analogous to Gioev-Klich-Widom scaling. We further show that the second Rényi fermionic non-local magic is bounded by the capacity of entanglement and introduce an entanglement-temperature deformation that probes the low-energy structure of the entanglement Hamiltonian. Applied to the matter-Majorana sector of the Kitaev model, this response is exponentially suppressed in the Abelian phase and algebraic in the non-Abelian phase, where its ratio with the capacity approaches a universal constant. Out of equilibrium, we extend the quasi-particle description to fermionic non-local magic in higher-dimensional quenches and show that random Gaussian circuits exhibit diffusive spreading in two spatial dimensions.",
+    "url": "https://arxiv.org/abs/2609.36008",
+    "status": "new",
+    "score": 8.5,
+    "tags": [
+      "entanglement",
+      "topology"
+    ],
+    "cats": [
+      "cond-mat",
+      "quant-ph"
+    ],
+    "why_zh": "高维自由费米子非局域 magic 与纠缠谱、纠缠容量的关系，并在 Kitaev 模型 Abelian/非 Abelian 相给出普适响应——纠缠谱 × 拓扑相诊断。",
+    "points_zh": "平移不变高斯态在条带几何下可维数约化为动量扇区；二维出现类似 Gioev–Klich–Widom 的边界律对数修正。证明第二 Rényi 非局域 magic 受纠缠容量上界；纠缠温度形变探测纠缠哈密顿量低能结构。作用于 Kitaev 模型物质–Majorana 扇区：Abelian 相指数抑制、非 Abelian 相代数衰减且与容量之比趋于普适常数。"
+  },
+  {
+    "id": "2609.36216",
+    "title": "Preconditioned Physics-Informed Neural Operator Training",
+    "authors": "Shizheng Wen , Siddhartha Mishra , Marius Zeinhofer",
+    "subjects": "Machine Learning (cs.LG) ; Numerical Analysis (math.NA)",
+    "abstract": "Neural operators are typically trained in a supervised fashion, which requires a dataset to be generated with a classical solver. Training them physics-informed, i.e., purely from the governing equations, removes this large offline cost and allows fresh samples to be drawn at every optimization step, but has so far been limited to simplified problems and trails supervised training in accuracy. The obstacle is the ill-conditioning of physics-informed losses, which differential operators induce and which worsens as the discretization is refined. We therefore propose a preconditioned residual loss function and show mesh-independent conditioning for elliptic problems and greatly improved conditioning for saddle point problems. Realized through geometric and algebraic multigrid, the construction applies to linear and nonlinear equations, steady or time-dependent, on structured and unstructured meshes, is agnostic to the neural operator architecture, and adds no cost at inference. On the Poisson, Allen-Cahn and stationary Stokes equations, the resulting label-free training matches supervised training and is four to twenty-five times more accurate than previous physics-informed operator learning methods.",
+    "url": "https://arxiv.org/abs/2609.36216",
+    "status": "new",
+    "score": 8,
+    "tags": [
+      "PINN/NNQS",
+      "SciML"
+    ],
+    "cats": [
+      "cs.LG"
+    ],
+    "why_zh": "针对物理信息神经算子训练的病态性提出预条件残差损失，使纯方程驱动训练逼近有监督精度——PINN / 神经算子核心改进。",
+    "points_zh": "纯物理信息训练免去经典求解器离线造数，但微分算子导致损失病态并随网格加密恶化。提出预条件残差损失：椭圆问题上条件数网格无关，其他问题上显著改善。数值上把物理信息神经算子精度拉近甚至可比肩有监督训练，扩展可解 PDE 范围。"
+  },
+  {
+    "id": "2609.36901",
+    "title": "Digital Twin Modeling of Quantum Dynamical Systems: Dissipative Quantum Reservoir Computing",
+    "authors": "Abhijit Sen , Bikram Keshari Parida , Shital Chauhan , Mahima Arya , Denys I. Bondar",
+    "subjects": "Quantum Physics (quant-ph) ; Artificial Intelligence (cs.AI)",
+    "abstract": "Modeling the response of driven many-body quantum systems from input--output data is difficult: the dynamics are nonlinear, history dependent, and expensive to simulate as system size grows. A paradigmatic case is High-Harmonic Generation~(HHG), where a strong field drives a medium to emit radiation that is highly sensitive to the drive and encodes long-range temporal correlations. We introduce a dissipative quantum reservoir computing~(DQRC) framework that builds a digital twin of such a system, learning its input--output map directly from data while the reservoir---itself a small open quantum system---stays fixed and only a classical readout is trained. We show that a minimal single-qubit reservoir reproduces the HHG response of a substantially larger Ising spin chain, and on a representative benchmark matches and on several metrics surpasses previously reported temporal convolutional and Kolmogorov--Arnold-network models, while using a simpler, physically realizable system. A single fixed reservoir further generalizes across a broad range of drives, indicating that it learns a shared physical response structure rather than memorizing trajectories. These results establish dissipative quantum reservoirs as compact, physically grounded digital twins for nonlinear, memory-dependent quantum dynamics. Code is available at \\href{ this https URL }{ this https URL }.",
+    "url": "https://arxiv.org/abs/2609.36901",
+    "status": "new",
+    "score": 5.5,
+    "tags": [
+      "QML",
+      "non-Hermitian/open"
+    ],
+    "cats": [
+      "quant-ph"
+    ],
+    "why_zh": "用小型开放量子系统作固定库、仅训练经典读出，为驱动多体（如 HHG）建数字孪生——耗散量子储备池计算 × 开放系统机器学习。",
+    "points_zh": "耗散量子储备池（DQRC）从输入–输出数据学习映射；库本身为小开放量子系统保持固定。最小单比特库即可复现更大 Ising 链的高次谐波响应，并在若干指标上优于时序卷积与 KAN 基线。同一固定库可泛化到宽范围驱动，表明学到了共享动力学特征而非单轨迹拟合。"
+  },
+  {
+    "id": "2609.36016",
+    "title": "Is rapid mixing stable?",
+    "authors": "Jordi A. Montañà-López , Barbara Roos , Sebastian Stengele , Ángela Capel , Rahul Trivedi",
+    "subjects": "Quantum Physics (quant-ph) ; Mathematical Physics (math-ph)",
+    "abstract": "Several physically interesting Lindbladians, such as those describing generic open quantum system models as well as engineered state preparation processes, are often rapidly mixing, that is, they relax to steady states in time scaling polylogarithmically with the system size. Owing to the short mixing times, it is physically expected that local perturbations do not substantially increase the mixing time. In this work we question this expectation and ask whether rapid mixing survives. We provide counterexamples showing that rapid mixing is not stable in general, even when the perturbation does not change the steady state. We also show that arbitrarily weak local Hamiltonian perturbations can destroy rapid mixing. Complementing these results, we develop an array of sufficient conditions which imply stable rapid mixing, including several classes of quasifree fermionic systems, commuting Lindbladians, and local spin systems. We also identify conditions under which modified logarithmic Sobolev inequalities (MLSIs), a stronger form of convergence, lead to stable rapid mixing. As a further implication of our results, we show that rapid mixing does not imply a positive MLSI constant.",
+    "url": "https://arxiv.org/abs/2609.36016",
+    "status": "new",
+    "score": 5.5,
+    "tags": [
+      "non-Hermitian/open"
+    ],
+    "cats": [
+      "quant-ph",
+      "math-ph"
+    ],
+    "why_zh": "质疑“快速混合 Lindbladian 在局域微扰下仍稳定”的直觉，给出反例与充分条件——开放系统弛豫 × 稳定性理论。",
+    "points_zh": "若干物理与工程态制备 Lindbladian 可在系统尺寸的 polylog 时间内弛豫到定态。作者给出反例：即使微扰不改变定态，快速混合也可被破坏；任意弱局域哈密顿微扰亦可摧毁快速混合。同时给出准自由费米子、对易 Lindbladian、局域自旋系统等保证稳定快速混合的充分条件，并讨论修正对数 Sobolev 不等式与稳定混合的联系。"
+  },
+  {
+    "id": "2609.37812",
+    "title": "Correlation-assisted topological and metamagnetic transitions in Rashba-coupled superconductors: $t$-$J$-$U$ model study",
+    "authors": "Tushar Dey , Maciej Fidrysiak , Józef Spałek",
+    "subjects": "Strongly Correlated Electrons (cond-mat.str-el) ; Superconductivity (cond-mat.supr-con)",
+    "abstract": "Unconventional superconductivity commonly emerges in systems characterized by strong electronic correlations, with layered copper-oxides serving as a canonical example. Observation of spin-momentum locking within Bi-family of the cuprates, compatible with the presence of non-negligible Rashba-type spin-orbit coupling (RSOC), calls for an investigation of the joint effects of electronic correlations and RSOC on pairing in copper-oxide and related superconductors. Employing statistically-consistent variational approximation (SGA), we carry out such an analysis by constructing the phase diagram for the case of square-lattice \\textit{t-J-U} model incorporating RSOC. We also investigate the effects of time-reversal-symmetry breaking by Zeeman field, as well as characterize emergent topological superconducting (TSC) states. Chern number $C = \\pm 4$ TSC is found in a broad regime of on-site Coulomb repulsion close to half-filling. The latter is not governed by correlations and emerges also within the weak-coupling Bogoliubov-de Gennes (BdG) scheme. Yet, we identify a distinct $C = \\pm 2$ TSC state that is driven specifically by electronic correlations via a topological transition occurring with no bulk quasiparticle gap closure, and is accompanied by discontinuous metamagnetic and Lifshitz transitions. Moreover, a qualitatively distinct doping evolution of the $d$- and $p$-wave components of the underlying mixed-parity SC order parameter above the metal-to-insulator transition is demonstrated. Our work points toward the relevance of joint correlation and RSOC effects beyond BdG scheme to phase diagrams of RSOC-coupled superconductors.",
+    "url": "https://arxiv.org/abs/2609.37812",
+    "status": "new",
+    "score": 8.5,
+    "tags": [
+      "spintronics",
+      "topology",
+      "many-body"
+    ],
+    "cats": [
+      "cond-mat"
+    ],
+    "why_zh": "在含 Rashba SOC 的正方形 t-J-U 模型中用变分方法给出关联辅助的拓扑与变磁转变相图——自旋轨道 × 非常规超导拓扑。",
+    "points_zh": "铜酸盐等非常规超导常伴随强关联；Bi 系中观测到的自旋动量锁定提示需同时处理关联与 RSOC。采用统计一致变分近似（SGA）构造含 RSOC 的方晶格 t-J-U 相图，分析配对对称性、拓扑性质与磁场/变磁响应，阐明关联如何协助打开或调控拓扑超导窗口。"
+  }
+]

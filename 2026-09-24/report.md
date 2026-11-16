@@ -1,0 +1,107 @@
+# 9/24 arXiv 兴趣摘要（工作日）
+
+扫了今天（美西 9/24，周四）新上线的 `cond-mat`、`quant-ph`、`hep-th`、`math-ph`，以及 `cs.LG` / `stat.ML` 里偏物理信息或量子的条目。新稿量：cond-mat 约 78、quant-ph 约 81（另有交叉与替换未计入主计数）。按兴趣锚点筛了 **11 篇**，全部为今日新投稿（未收替换稿；交叉里有几篇 PINN/拓扑但未挤进终选）。用户机器 DESKTOP-00O6NSD 今日离线，**跳过 Zotero 库去重**，报告中编号未与本地库对照。
+
+**建议先翻这三篇：**
+1. **Non-Hermitian engineering of superfluidity in a Rashba spin-orbit-coupled Fermi gas** —— 非厄米耗散 × Rashba 自旋–轨道 × 超流配对，直接落在你关心的开放系统与自旋轨道操控交叉点。
+2. **Altermagnetism and generalised tensorial properties in the exchange multiplet framework** —— 把 altermagnetism 的时间反演奇张量性质放进交换多极（exchange multiplet）表示论框架，适合连续转动磁序参量做对称分析。
+3. **Bridging two families of non-Hermiticity: from non-reciprocal couplings to an imaginary potential using the Lanczos transformation** —— 用 Lanczos 变换把非互易耦合（皮肤效应）与虚势（PT 等）两类非厄米性做成等谱映射，统一你长期跟的两条非厄米主线。
+
+---
+
+### 1. Non-Hermitian engineering of superfluidity in a Rashba spin-orbit-coupled Fermi gas
+Pingcheng Zhu, Lihong Zhou, Jianxin Zhong · [2609.27723](https://arxiv.org/abs/2609.27723) · cond-mat.quant-gas · new
+
+**为何相关：** 非厄米耗散 × Rashba 自旋–轨道 × 超流配对，直接落在你关心的开放系统与自旋轨道操控交叉点。
+
+要点：二维 Rashba SOC 费米气体加自旋选择性单体损耗，非厄米平均场自洽求解能隙与粒子数方程。适度耗散可显著增强配对能隙，对耗散强度呈非单调依赖，并可作为额外旋钮驱动 BCS–BEC 跨越。准粒子谱出现由一环与三环例外环刻画的两类超流区，其间有例外谱转变；耗散还能在三重态分量引入动量依赖相位扭折。
+
+---
+
+### 2. Altermagnetism and generalised tensorial properties in the exchange multiplet framework
+Paolo G. Radaelli · [2609.28453](https://arxiv.org/abs/2609.28453) · cond-mat.mtrl-sci · new
+
+**为何相关：** 把 altermagnetism 的时间反演奇张量性质放进交换多极（exchange multiplet）表示论框架，适合连续转动磁序参量做对称分析。
+
+要点：基于 Bertaut–Izyumov 交换多极形式，把磁序参量当作连续变量，而非对每个取向单独换磁点群/自旋群。常矩共线结构下，协变条件给出 Landau–Lifshitz 展开中张量交织子的简洁对称约束，并分解共转（无 SOC）与非共转贡献。对任意序参量方向自动恢复磁点群选择定则，同时适用于交错磁与常规反铁磁，便于实验与第一性原理连续扫序参量。
+
+---
+
+### 3. Bridging two families of non-Hermiticity: from non-reciprocal couplings to an imaginary potential using the Lanczos transformation
+Li Ge · [2609.28326](https://arxiv.org/abs/2609.28326) · quant-ph / physics.optics · new
+
+**为何相关：** 用 Lanczos 变换把非互易耦合（皮肤效应）与虚势（PT 等）两类非厄米性做成等谱映射，统一你长期跟的两条非厄米主线。
+
+要点：推广 Hatano–Nelson 模型中空间变化的非互易耦合，可映射到实对称耦合加虚局域势的紧束缚模型 \(H_L\)。即使原哈密顿量已含虚势与例外点，映射仍成立，从而用 \(H_L\) 侧更直观地理解原先在 \(H\) 里难读的例外点。顺带给出一种无需 PT 对称、却仍可构造复势且谱为实的非厄米系统的系统方法。
+
+---
+
+### 4. Dynamic moiré-like band modulation in Dirac materials via multi-beam optical interference
+Evelyn P. Sinaga, Rizky Setiawan, Herri Trilaksana, Lukas P. A. Krisna 等 · [2609.28293](https://arxiv.org/abs/2609.28293) · cond-mat.mes-hall · new
+
+**为何相关：** 纯光学 Floquet 干涉在 Dirac 材料里动态造出类摩尔超晶格与谷分辨拓扑，不需物理转角。
+
+要点：三束圆偏振光干涉给出三角、谷依赖的 Floquet 质量景观，把 Dirac 谱折入迷你布里渊区并驱动谷选择迷你带重构。费米面附近可发生光驱动拓扑相变；五/七光束则给出光学准晶图案，仍保留谷对比特征。用受限表面等离激元场突破衍射极限，可得到空间平均为零的交替手性质量，使两谷能谱简并却带相反迷你带 Chern 数。
+
+---
+
+### 5. Optimal low-rank compression of quantum dynamics
+Hugo Mackay, Donghoon Kim, Tan Van Vu, Tomotaka Kuwahara · [2609.27497](https://arxiv.org/abs/2609.27497) · quant-ph / cond-mat.dis-nn / cond-mat.stat-mech · new
+
+**为何相关：** 给局域量子动力学低秩/张量网络表示定下近最优秩标度，并把静态与驱动情形的纠缠谱结构分开。
+
+要点：短程相互作用下，时间无关演化最优秩满足 \(\log D=\widetilde O(t+\sqrt{\log(1/\epsilon)})\)，精度指数 \(1/2\) 有匹配下界；任意驱动时固定时间标度变为 \(2/3\)。相应动力学纠缠谱在小 \(\alpha\) 呈现不同 Rényi 律 \(\alpha^{-1}\) 与 \(\alpha^{-2}\)。一维静态极限可由显式 MPO 算法构造达到，并推广到 Liouvillian（开放）动力学。
+
+---
+
+### 6. Strain Engineering of the Topological Gap and Tunable Chern Numbers in the 2D Kagome Metal-Organic Framework Eu$_2$(C$_6$H$_4$)$_3$
+Jiaxuan Guo, Simin Nie, Fritz B. Prinz · [2609.27388](https://arxiv.org/abs/2609.27388) · cond-mat.mes-hall / cond-mat.mtrl-sci / cond-mat.str-el · new
+
+**为何相关：** 二维 Kagome 金属–有机铁磁体里用应变放大拓扑能隙、用堆垛/栅压调 Chern 数，是拓扑 × 自旋轨道器件向的新材料平台。
+
+要点：第一性原理显示 Eu\(_2\)(C\(_6\)H\(_4\))\(_3\) 单层为本征 Chern 绝缘体，SOC 能隙 72.7 meV，−8% 双轴应变可扩至 124.7 meV，\(\mathcal{C}=-1\)。局域矩来自半满 Eu \(4f^7\)，能隙开启的 SOC 由杂化进碳 Kagome 带的 Eu \(5d\) 承载。AB 双层铁磁耦合累加给出 \(\mathcal{C}=-2\)；面外电场可在 \(\mathcal{C}=-2,-3,-1\) 间切换边缘通道数。
+
+---
+
+### 7. Measurement-Only Dynamical Phase Transitions in Spin-1 Chains
+Kemal Aziz, Haining Pan, J. H. Pixley · [2609.26941](https://arxiv.org/abs/2609.26941) · quant-ph · new
+
+**为何相关：** 测量诱导（measurement-only）动力学在自旋-1 AKLT 链上分出多种动力学相，连到纠缠/拓扑序在监测电路中的命运。
+
+要点：用强制归一化局域投影（非 Born 抽样）驱动最近邻 AKLT Haldane SPT 态。竞争局域投影子把系统推向三类动力学相：平凡积态、显式二聚化 VBS，以及由两条交织 Haldane 链组成的次近邻 AKLT 态。结合 MPS 与精确态矢量模拟识别连续转变，为测量诱导相变提供可解析的自旋-1 平台。
+
+---
+
+### 8. Analog neutral-atom for in-memory processing in quantum reservoir computing
+Luca Nigro, Gian Luca Giorgi, Enrico Prati, Roberta Zambrini · [2609.28441](https://arxiv.org/abs/2609.28441) · quant-ph / cond-mat.dis-nn · new
+
+**为何相关：** 中性原子阵列上的量子储备计算，强调非幺正耗散动力学对 fading memory 的必要性——开放多体 × QML。
+
+要点：量子储备计算依赖多体富动力学做时序信息处理；中性原子阵列可扩展，但本征时间记忆需精确控制弛豫。论文模拟并经验识别最大化储备计算能力所需的耗散量与动力学区制，以在缺乏可分性时仍强制 fading memory。把模拟开放动力学与量子机器学习硬件路线接到同一设定。
+
+---
+
+### 9. Distilling Datasets into Shallow Circuits for Quantum Machine Learning
+Guang Lin, Qibin Zhao · [2609.28229](https://arxiv.org/abs/2609.28229) · quant-ph · new
+
+**为何相关：** 量子数据集蒸馏把整集直接压成少量浅层加载线路（低秩张量网参数化），对准 QML 训练的制备开销瓶颈。
+
+要点：QDD 让每个合成样本本身就是楼梯型浅层线路，样本与加载线路合一，在显式加载预算下用分布匹配做经典精确梯度优化。MNIST / Fashion-MNIST 上每类仅 10 条线路（约全数据 \(0.0017\times\)）可达接近全数据训练精度，并在匹配预算下优于挑选基线。有限 shot 下用少 \(>100\times\) 累计 shot 达到全数据精度的 95%，并在真实量子硬件上做了验证。
+
+---
+
+### 10. Scalable simulation of non-Markovian quantum transport by stochastic-phase bath reduction
+Zhen Huang, Lin Lin, Pinchen Xie · [2609.28318](https://arxiv.org/abs/2609.28318) · quant-ph / cond-mat.mes-hall / cond-mat.mtrl-sci · new
+
+**为何相关：** 随机相位浴压缩把非马尔可夫量子输运的独立局域浴换成少量共享浴，可扩展开放系统模拟。
+
+要点：Stochastic Phase Algorithm（SPA）用 \(R\) 个共享量子浴加位点依赖随机相位，替代 Holstein 单准粒子模型中每位点一套独立高斯浴。相位平均对任意 \(R\) 复现目标二点浴关联；增大 \(R\) 系统压制高阶跨位点误差，固定时间 trace-norm 误差 \(O(R^{-1})\) 且与系统尺寸无关。可与耦合 Lindblad 谱压缩联用；在 \(100\times100\) 晶格上实现全态矢量量子浴动力学，并复现细菌叶绿素聚集体激子与 rubrene 载流子迁移率基准。
+
+---
+
+### 11. An adaptive weighted extrapolation neural network for dispersive shock waves generated by square-root initial condition of the KdV equation
+Xuan-Jie Wang, Rui Guo, An-Yao Jin, Hua-Ying Ren · [2609.27835](https://arxiv.org/abs/2609.27835) · math-ph · new
+
+**为何相关：** 针对 KdV 色散激波的 PINN 长时外推与奇异初值拟合，是物理信息神经网络在非线性波动上的硬案例。
+
+要点：平方根初值在原点奇异，PINN 初值拟合误差经非线性演化放大，对外推要求极高。提出改进物理引导多阶段网络 IPgMSNN，在第三阶段引入在线微调与加权目标，抑制长时外推误差累积。在正问题、稳定性与参数反演上均能更好捕捉高频波前细节，服务色散非线性系统的深度学习模拟。
