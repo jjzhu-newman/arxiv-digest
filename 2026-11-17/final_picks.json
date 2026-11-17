@@ -1,0 +1,226 @@
+{
+  "date": "2026-11-17",
+  "user_tz": "America/Los_Angeles",
+  "arxiv_listing_date": "Tuesday, 17 November 2026",
+  "listing_status": "announced",
+  "listing_note": "Regular Tuesday listing, covering approximately Mon 14:00–Tue 14:00 ET. Midnight digest could not be produced because official /new and /recent still showed Monday 16 November 2026 (already covered); this list was rebuilt in the morning after the Tuesday announcement was complete.",
+  "categories": [
+    "cond-mat",
+    "quant-ph",
+    "hep-th",
+    "math-ph",
+    "cs.LG",
+    "stat.ML"
+  ],
+  "new_counts": {
+    "cond-mat": 149,
+    "quant-ph": 116,
+    "hep-th": 48,
+    "math-ph": 24,
+    "cs.LG": 252,
+    "stat.ML": 25
+  },
+  "selected_count": 12,
+  "top_picks": [
+    "2611.20235",
+    "2611.18840",
+    "2611.19328"
+  ],
+  "zotero": {
+    "live_available": false,
+    "machine": "DESKTOP-00O6NSD",
+    "cache_file": "zotero_arxiv_ids.txt",
+    "cache_count": 187,
+    "cache_vintage_note": "~10/30 vintage; copied from 2026-11-13",
+    "shortlist_exact_id_overlaps": []
+  },
+  "dedup": {
+    "prior_ids_count": 426,
+    "prior_ids_file": "prior_ids.txt"
+  },
+  "rebuild_note": "Rebuilt from the official Tuesday 17 November 2026 arXiv /new listings after the midnight run found the announcement not yet posted.",
+  "picks": [
+    {
+      "id": "2611.20235",
+      "title": "Optical spin Edelstein response of d-wave altermagnets",
+      "authors": "M. A. Mojarro · R. Carrillo-Bastos · Jesús A. Maytorena",
+      "url": "https://arxiv.org/abs/2611.20235",
+      "subjects": "cond-mat.mes-hall",
+      "status": "new",
+      "score": 12.5,
+      "tags": [
+        "altermagnetism",
+        "spintronics",
+        "topology"
+      ],
+      "why_zh": "在带 Rashba 耦合的二维 $d$ 波交错磁中计算频率域自旋 Edelstein 响应，指出带间纵向/横向响应分别由 Zeeman 量子度规与 Zeeman Berry 曲率支配——交错磁 × 量子几何 × 自旋电子学。",
+      "summary_zh": "交错磁动量依赖的自旋劈裂与补偿磁序，为电学调控自旋极化提供了空间。作者研究带 Rashba 自旋轨道耦合的二维 $d$ 波交错磁，在频率域计算超出带内响应的自旋–速度磁化率，发现带间纵向与横向 Edelstein 响应分别由 Zeeman 量子度规与 Zeeman Berry 曲率支配。态密度在恰为某个负能量处出现对数 van Hove 奇点，该能量以下费米面分裂为四个互不连通的等高线，从而按费米能级位置划分出三个特征区域，Edelstein 磁化率张量随之呈现反映费米面拓扑变化的谱结构。所得自旋磁化强烈依赖于驱动频率与面内电场取向，提示交错磁中电学与光学调控 Edelstein 效应的可能途径。"
+    },
+    {
+      "id": "2611.18840",
+      "title": "Gapless Nature of Spin Liquid in the $S=1/2$ Kagome Heisenberg Antiferromagnet with Neural-Network Quantum States",
+      "authors": "Andreas Raikos · Alessandro Sinibaldi · Riccardo Rende · Giuseppe Carleo · Federico Becca · Luciano Loris Viteritti",
+      "url": "https://arxiv.org/abs/2611.18840",
+      "subjects": "cond-mat.str-el",
+      "status": "new",
+      "score": 7.5,
+      "tags": [
+        "PINN/NNQS",
+        "many-body"
+      ],
+      "why_zh": "用不定预设自旋液体结构的变压器神经网络波函数，直接计算 $S=1/2$ kagome 海森堡反铁磁的三重态能隙，有限尺寸外推支持无隙 $U(1)$ Dirac 自旋液体——神经网络波函数 × 阻挫量子磁体。",
+      "summary_zh": "$S=1/2$ kagome 海森堡反铁磁究竟是有隙 $\\mathbb{Z}_2$ 还是无隙 $U(1)$ Dirac 自旋液体，仍是阻挫磁性的核心问题。作者采用时间反演对称的变压器波函数，不对自旋液体结构作先验假定，在周期边界的二维团簇上做到 768 格点，给出目前最佳之一的变分能量，热力学极限每格点能量估计为 $-0.43873(12)$。磁序参量与三重激发能隙的有限尺寸标度都外推到零，从而为无隙自旋液体（与 $U(1)$ Dirac 图像一致）提供了独立而直接的证据，也显示神经网络量子态能够处理传统数值方法仍感吃力的阻挫磁体基态问题。"
+    },
+    {
+      "id": "2611.19328",
+      "title": "When the Boundary Changes the Bulk: Topological Edge Modes in Dynamical Quantum Phase Transitions",
+      "authors": "N. Sedlmayr · J. Sirker",
+      "url": "https://arxiv.org/abs/2611.19328",
+      "subjects": "cond-mat.stat-mech",
+      "status": "new",
+      "score": 10.5,
+      "tags": [
+        "non-Hermitian/open",
+        "topology",
+        "many-body"
+      ],
+      "why_zh": "指出开放链动力学量子相变中使体量返回率发生有限改变的边缘模，其保护来自非厄米 Loschmidt 矩阵的拓扑，而非初末哈密顿量的拓扑——非厄米拓扑 × 动力学量子相变 × 体边对应。",
+      "summary_zh": "开放链上的动力学量子相变中有一个已知现象：在 DQPT 界定的时间窗口里，Loschmidt 矩阵的指数局域边缘模会使强度返回率发生有限改变；以往把这些模归于初态与末态哈密顿量的拓扑。本文证明，真正提供保护的是非厄米 Loschmidt 矩阵本身的拓扑。特别是在 A 类中，即使两个哈密顿量都拓扑平庸，也可以出现拓扑边缘模。对 A、BDI、AIII 类，这些模由 Toeplitz 算符的 $\\mathbb{Z}$ 指标保护，K-分裂定理给出精确体边对应；D 类则由记录淬灭是否翻转边缘费米子宇称的 $\\mathbb{Z}_2$ 指标保护，体不变量可写成周期与反周期边界 Loschmidt 振幅之比，或计数动量–时间相位涡旋的绕数。文中对四个拓扑类都给出了例子与数值。"
+    },
+    {
+      "id": "2611.19804",
+      "title": "Spectroscopic evidence for unconventional surface magnetism in the Kondo insulator FeSb$_2$",
+      "authors": "Ke-Jun Xu · Erin E. Fleck · Jonathan A. Sobota · Nhat Huy M. Tran · Shuyi Li · Youzhe Chen · Soonsang Huh · Takeshi Kondo · Makoto Hashimoto · Dong-Hui Lu · Zhi-Xun Shen · Dung-Hai Lee · Chunjing Jia · Robert J. Birgeneau",
+      "url": "https://arxiv.org/abs/2611.19804",
+      "subjects": "cond-mat.str-el",
+      "status": "new",
+      "score": 8.5,
+      "tags": [
+        "altermagnetism",
+        "many-body"
+      ],
+      "why_zh": "用 ARPES 在近藤绝缘体 FeSb$_2$ 的 $(010)$ 表面看到各向异性劈裂，并随温度与 Te 掺杂被抑制；作者推测可能对应表面自发的交错磁序——交错磁 × 表面近藤崩溃 × 实验。",
+      "summary_zh": "近藤绝缘体因巡游电子屏蔽局域矩而呈现非磁体；表面巡游电子密度降低，可能发生近藤崩溃并恢复局域矩乃至磁序。FeSb$_2$ 是 $d$-$p$ 电子近藤绝缘体，在去掉近藤屏蔽后，体态被预言可承载 $d$ 波交错磁。作者对 $(010)$ 表面做角分辨光电子能谱，发现表面态存在各向异性劈裂：$k_z$ 方向最大、$k_x$ 方向最小。该劈裂随升温或 Te 掺杂明显被抑制，更像磁序而非 Rashba 效应。结合体态靠近 $d$ 波交错磁以及表面晶体对称性，作者推测观测可能与自发出现的表面交错磁序相符。若得到进一步证实，这种长在非磁绝缘体衬底上的非常规二维磁序，将是一个有潜力的自旋电子学平台。需要强调的是，文中对交错磁的指认仍是基于对称性与体态近邻的推断，而非已经闭合的实验判决。"
+    },
+    {
+      "id": "2611.19574",
+      "title": "Current-driven chiral RKKY interaction in altermagnets",
+      "authors": "Anirban Kundu",
+      "url": "https://arxiv.org/abs/2611.19574",
+      "subjects": "cond-mat.mes-hall",
+      "status": "new",
+      "score": 9.5,
+      "tags": [
+        "altermagnetism",
+        "spintronics"
+      ],
+      "why_zh": "证明在无需自旋轨道耦合的自旋劈裂金属中，电荷流即可在局域自旋之间诱导 Dzyaloshinskii–Moriya 相互作用，并在二维 $d$ 波交错磁中给出闭式 RKKY 修正——交错磁 × 电流驱动手性交换 × 自旋电子学。",
+      "summary_zh": "Dzyaloshinskii–Moriya（DM）相互作用通常要求自旋轨道耦合与破缺的空间反演。作者指出，在没有自旋轨道耦合的自旋劈裂金属中，电荷流就能在局域自旋之间产生 DM 相互作用。他们用带漂移费米海的 Keldysh 格林函数，计算二维 $d$ 波交错磁（另加一套交换劈裂）中两个磁杂质的 RKKY 相互作用。到电流的线性阶，修正是费米面项，全部分量可用 Bessel 函数闭式写出，对两套独立自旋劈裂 $\\beta$ 与 $J_\\perp$ 都成立。诱导的 DM 矢量沿自旋量子化轴（模型中为面外 $\\hat{\\mathbf{z}}$）。远程按 $1/R$ 衰减，比平衡耦合慢一阶；在节点方向（两自旋带简并）的键上消失；对角电流下，沿两条晶轴的键上符号相反。这一 $d$ 波特征随 Néel 矢量与电流同时反转，从而把交错磁与铁磁区分开。电流还会产生对杂质间距为奇的对称耦合。在低密度二维导体中，DM 耦合可达平衡交换的百分之几。"
+    },
+    {
+      "id": "2611.19205",
+      "title": "Fragmentation in Non-Hermitian Many-Body Systems",
+      "authors": "Stefano Longhi",
+      "url": "https://arxiv.org/abs/2611.19205",
+      "subjects": "cond-mat.str-el",
+      "status": "new",
+      "score": 7.5,
+      "tags": [
+        "non-Hermitian/open",
+        "many-body"
+      ],
+      "why_zh": "在带空间随机虚规范场的非厄米费米链中，有限填充下 Pauli 不相容抑制宏观趋肤堆积，导致密度碎片化为亚广延的费米畴，且这种结构可被非厄米动力学选择——非厄米趋肤效应 × 多体碎片化。",
+      "summary_zh": "带空间随机虚规范场的非厄米费米链中，单粒子本征态呈现不规则的趋肤局域：衰减是强烈涨落的亚指数，既不同于常规趋肤堆积，也不同于安德森局域。有限填充时，Pauli 不相容抑制宏观堆积，密度转而碎成高占据与低占据互不连通的区域，形成空间分离的费米畴，其数目 $N_{\\mathrm{FS}}$ 随系统尺寸 $L$ 亚广延增长——这与厄米无序体系形成鲜明对比。作者用精确自由费米子方法表明，碎片化不仅是平衡性质，也会在非厄米演化中动力学地出现；厄米系统中这类结构并不会被动力学选出来。该行为可用随机势中的库仑气体来描述，从而把不规则非厄米趋肤局域与多体态的实空间碎片化直接联系起来。"
+    },
+    {
+      "id": "2611.20327",
+      "title": "Exceptional structure and Lifshitz criticality in a non-Hermitian Kitaev chain",
+      "authors": "Aritra Ghosh · Akash Sinha · Miloslav Znojil",
+      "url": "https://arxiv.org/abs/2611.20327",
+      "subjects": "quant-ph",
+      "status": "new",
+      "score": 7.5,
+      "tags": [
+        "non-Hermitian/open",
+        "many-body"
+      ],
+      "why_zh": "在可精确求解的非厄米 Kitaev 链中，揭示多体能量全部塌缩到零、最大 Jordan 块随格点数二次增长的例外点，以及准厄米区内由宇称交叉累积而成的 Lifshitz 临界——非厄米例外点 × Kitaev 链 × Lifshitz 转变。",
+      "summary_zh": "作者研究无格点间跃迁、配对产生与湮灭振幅不相等的 $N$ 格点非厄米 Kitaev 链，该模型可精确求解。链上存在一个例外点：全部多体能量塌缩到零，最大 Jordan 块随 $N$ 二次增长。他们为相应的 $N$ 维单体问题构造了显式的正定度量，并可提升到全多体哈密顿量，从而证明可以沿参数空间中一条连续的准厄米路径逼近这次例外点塌缩。在另一段参数区，在位能在两个不等的正值之间交替，符号相反的配对振幅会在准厄米区内导致相反费米子宇称的基态发生交叉；这些交叉在热力学极限下累积，给出 Lifshitz 转变，特征包括粒子/空穴口袋的形成、二次临界色散，以及基态能量密度的非解析。该转变与例外点边界保持分离，并且在平衡的实配对下不再存在。"
+    },
+    {
+      "id": "2611.19033",
+      "title": "Control of Non-Markovianity via Channel Exceptional Points in a Driven-Dissipative Kerr-Cat Qubit",
+      "authors": "Tian-Le Yang · Hao-Long Zhang · Pei-Rong Han · Zhen-Biao Yang · Shi-Biao Zheng",
+      "url": "https://arxiv.org/abs/2611.19033",
+      "subjects": "quant-ph",
+      "status": "new",
+      "score": 5.5,
+      "tags": [
+        "non-Hermitian/open"
+      ],
+      "why_zh": "在驱动耗散 Kerr-cat 量子比特中直接在量子信道层面定义例外点，并用插值信道给出马尔可夫/非马尔可夫相图——例外点 × 开放系统信道 × Kerr-cat。",
+      "summary_zh": "开放系统的例外点通常在 Liouvillian 层面定义，因而依赖表示，还常常需要辅助自由度。作者在驱动耗散 Kerr-cat 量子比特中直接在量子信道层面讨论例外点：耗散在两个基态之间引起双向跳跃。对两条马尔可夫信道做插值时，若端点分跨谱相边界则出现单个例外点，同一相内甚至可以出现双例外点。这些插值例外点勾画出马尔可夫–非马尔可夫相图：参数平面被划分为已认证的非马尔可夫与马尔可夫区域，区域边界会使信道在两种性格之间切换；三个谱判据对每个区域给出认证。随着演化时间推进，这些区域会漂移、分裂并部分收缩，切换也变得更敏感。工作把例外点从生成元层面下放到可操作的量子信道，建立了一种不依赖具体表示、可用于连续变量、离散变量及混合系统的记忆效应分类与切换框架。"
+    },
+    {
+      "id": "2611.20434",
+      "title": "Quantum geometric spectroscopy with Schrödinger cat states",
+      "authors": "Shohei Imai · Marcelo F. Ciappina",
+      "url": "https://arxiv.org/abs/2611.20434",
+      "subjects": "quant-ph",
+      "status": "new",
+      "score": 8.5,
+      "tags": [
+        "entanglement",
+        "topology",
+        "many-body"
+      ],
+      "why_zh": "把薛定谔猫光的分支间退相干读成物质的动力学量子几何，并给出量子几何张量在光与物质之间的分配律，从而用光学读出量子度规与 Berry 曲率——量子几何 × 猫态光谱 × 纠缠见证。",
+      "summary_zh": "作者提出一种光谱方案：如同光学吸收读出物质的能级结构，这里用薛定谔猫光的量子退相干来读出物质的量子几何。猫态探针是两个相干态的叠加，出射光的分支间相干编码了两条分支分别驱动的物质态之间的重叠。当两分支电磁场只相差一个无穷小量时，分支退相干由刻画物质态流形上无穷小位移的动力学量子几何给出。对平衡物质的频率选择 kitten 探针，他们进一步建立量子几何张量在光与物质之间的分配律，从而可通过例如出射 Husimi 函数中恒星零点的变亮，光学读出物质的量子度规与 Berry 曲率。对处于纯态的非平衡物质，短脉冲猫探针还可以通过瞬态量子度规给出多体纠缠的时间分辨见证，并可用出射光的零差测量提取。工作把通常被视为信息损失的猫态退相干，转变成关于物质态几何与涨落的信息载体。"
+    },
+    {
+      "id": "2611.19790",
+      "title": "Compact Projected Pfaffian States for Rydberg-Blockaded Quantum Spin Systems",
+      "authors": "Ryui Kaneko",
+      "url": "https://arxiv.org/abs/2611.19790",
+      "subjects": "cond-mat.str-el",
+      "status": "new",
+      "score": 7.5,
+      "tags": [
+        "PINN/NNQS",
+        "many-body"
+      ],
+      "why_zh": "用 Gutzwiller 与 Rydberg 阻塞投影的紧凑 Pfaffian 变分态描述非可积 PXP 模型基态，一维 $O(N)$ 参数波函数即可把 V-score 做到 $10^{-9}$——变分蒙特卡洛 × 阻塞约束自旋体系。",
+      "summary_zh": "作者表明，一种紧凑的投影 Pfaffian 试探态能有效描述非可积 PXP 模型的基态。变分波函数是对一般费米配对态分别施加 Gutzwiller 与 Rydberg 阻塞投影，每个允许组态的振幅由选中配对矩阵的 Pfaffian 给出。PXP 模型一个已知无阻挫变形的精确阻塞投影乘积态落在该变分流形内，为纯 PXP 基态的变分蒙特卡洛优化提供了物理上合理的初态。一维 $N$ 格点上，优化全部对称性允许的配对，$O(N)$ 参数的波函数就能在指数大的阻塞约束希尔伯特空间中给出近乎精确的基态，归一化能量方差（V-score）约 $10^{-9}$。方格子上，同一振幅结构的 $O(N)$ 参数波函数在精确对角化可及的团簇上相对能量误差低于 $0.2\\%$，磁化也与已有基准一致。这说明同一套投影 Pfaffian 构造可以用于一、二维的阻塞约束体系。"
+    },
+    {
+      "id": "2611.21332",
+      "title": "Experimentally relevant witness for non-Markovianity in discrete time crystals",
+      "authors": "Rahul Ghosh · Victor Mukherjee · Yonatan Dubi",
+      "url": "https://arxiv.org/abs/2611.21332",
+      "subjects": "quant-ph",
+      "status": "new",
+      "score": 4.5,
+      "tags": [
+        "Floquet"
+      ],
+      "why_zh": "证明有限记忆时间的库会使离散时间晶体的 Floquet 谱出现按 $e^{-T/\\tau_m}$ 收缩的幺正副本，从而用时间晶体信号衰减直接读出库关联时间——Floquet/时间晶体 × 非马尔可夫开放系统。",
+      "summary_zh": "离散时间晶体几乎总是在 Born–Markov（无记忆环境）近似下分析。作者证明，有限关联时间 $\\tau_m$ 的库会在 DTC 的频闪动力学上留下简洁而精确的印记，并可作为实验上可操作的非马尔可夫性见证。通过对后马尔可夫主方程的分析，他们证明 Floquet 谱分裂为普通马尔可夫谱，加上按 $e^{-T/\\tau_m}$ 均匀收缩的纯幺正 Floquet 谱副本（$T$ 为驱动周期）。于是，一旦 $\\tau_m$ 超过 DTC 的马尔可夫寿命，时间晶体信号的衰减率就不再依赖任何系统参数；测到的衰减、尤其是它对可调系统参数的不敏感，直接读出库的关联时间。在此阈值以下动力学已经非马尔可夫，但记忆仍藏在衰减里而不显。作者在两个结构完全不同的 DTC 中验证了这一点：一个是带非相干泵浦的集体长程模型，一个是带退相干、无无序的 Ising 链；单一估计量即可恢复 $\\tau_m$。时间晶体由此见证了它自身环境的非马尔可夫性。"
+    },
+    {
+      "id": "2611.18848",
+      "title": "Flexible ground-state search algorithm on hybrid Clifford-tensor network manifolds",
+      "authors": "Hari Timsina · Antonio Francesco Mello · Meghadeepa Adhikary · Marcello Dalmonte · Mario Collura",
+      "url": "https://arxiv.org/abs/2611.18848",
+      "subjects": "cond-mat.stat-mech",
+      "status": "new",
+      "score": 7.5,
+      "tags": [
+        "entanglement",
+        "tensor-net",
+        "many-body"
+      ],
+      "why_zh": "把稳化子/Clifford 变换直接嵌入 DMRG，以能量而非纠缠为优化目标，在局域相互作用的环与环面 Ising 模型上显著降低所需键维——张量网络 × Clifford 电路 × 多体基态。",
+      "summary_zh": "张量网络在高纠缠区——周期边界、长程相互作用或更高维——所需键维很快使计算变得不可行。已有方法用 Clifford 幺正尽量降低基态纠缠，但本质上仍限于用局域两比特操作把纠缠“蒸馏”掉。本文把稳化子形式直接嵌入传统 DMRG，优化 Clifford 变换的目标改为降低能量。作者在固定键维下与标准 DMRG 对比，基准包括环上的 Ising 模型（含长程相互作用）以及环面上的 Ising 模型。对局域相互作用模型，他们看到系统的改进，二维中键维降幅可高达约 40 倍。算法可在标准 DMRG 代码中实现，为把可模拟体积推到目前难以达到的尺度提供了一条实际路径。"
+    }
+  ]
+}
