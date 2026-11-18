@@ -1,0 +1,225 @@
+{
+  "date": "2026-11-18",
+  "user_tz": "America/Los_Angeles",
+  "arxiv_listing_date": "Wednesday, 18 November 2026",
+  "listing_status": "announced",
+  "listing_note": "Regular Wednesday listing, covering approximately Tue 14:00–Wed 14:00 ET.",
+  "categories": [
+    "cond-mat",
+    "quant-ph",
+    "hep-th",
+    "math-ph",
+    "cs.LG",
+    "stat.ML"
+  ],
+  "new_counts": {
+    "cond-mat": 95,
+    "quant-ph": 91,
+    "hep-th": 31,
+    "math-ph": 14,
+    "cs.LG": 107,
+    "stat.ML": 5
+  },
+  "selected_count": 12,
+  "top_picks": [
+    "2611.22750",
+    "2611.21745",
+    "2611.23132"
+  ],
+  "zotero": {
+    "live_available": false,
+    "machine": "DESKTOP-00O6NSD",
+    "cache_file": "zotero_arxiv_ids.txt",
+    "cache_count": 187,
+    "cache_vintage_note": "~10/30 vintage; copied from 2026-11-13",
+    "shortlist_exact_id_overlaps": []
+  },
+  "dedup": {
+    "prior_ids_count": 438,
+    "prior_ids_file": "prior_ids.txt"
+  },
+  "picks": [
+    {
+      "id": "2611.22750",
+      "title": "Altermagnetism-induced magneto-optical effects",
+      "authors": "Jun Ōiké · Robert Peters · Koki Shinada",
+      "url": "https://arxiv.org/abs/2611.22750",
+      "subjects": "cond-mat.mtrl-sci",
+      "status": "new",
+      "score": 9.5,
+      "tags": [
+        "altermagnetism",
+        "spintronics"
+      ],
+      "why_zh": "指出交错磁通常缺乏产生常规磁光效应的磁偶极序，并建立由磁八极矩经空间色散产生的八极矩磁光效应——交错磁 × 自旋电子学 × 光学探测。",
+      "summary_zh": "交错磁净磁化为零却破缺时间反演，本可承载时间反演奇数响应，但常规磁光效应多来自铁磁的磁偶极序，在交错磁中往往缺席。作者引入经空间色散产生的八极矩磁光效应：即便在共线磁体中也不必然要求自旋轨道耦合，并能在常规磁光被对称性禁止的反铁磁中、无需外磁场出现。适用对象包括 $d$ 波交错磁（如 RuO$_2$、KV$_2$Se$_2$O）、部分 $g$/$i$ 波交错磁（如 CrSb），以及 MnTe$_2$、焦绿石铱酸盐 all-in-all-out 等非共面反铁磁。数值给出可见光波段、100 nm 样品上微弧度量级的法拉第旋转，且在相反磁畴之间变号，提示可用于畴成像；该效应还与 $f$-求和规则相联系，从而有可能从光学测量定量估计自旋磁八极矩。"
+    },
+    {
+      "id": "2611.21745",
+      "title": "Tunable Topological Charge Order in Magnetic Moiré Systems",
+      "authors": "Conor Smith · Yubo Yang · Shiwei Zhang · Miguel A. Morales",
+      "url": "https://arxiv.org/abs/2611.21745",
+      "subjects": "cond-mat.str-el",
+      "status": "new",
+      "score": 10.5,
+      "tags": [
+        "PINN/NNQS",
+        "topology",
+        "many-body"
+      ],
+      "why_zh": "用神经网络量子态并配合若干方法改进，计算磁场下过渡金属硫族化合物摩尔超晶格在朗道填充 $\\nu_B=1$ 的基态相图，给出分子电荷序与量子化霍尔响应共存的扩展区间——神经网络波函数 × 拓扑物态。",
+      "summary_zh": "强磁场下的二维电子既可形成不可压缩的量子霍尔液体，也可结晶成有序电荷图案，两者看似互不相容；过渡金属硫族化合物双层摩尔超晶格为这一竞争提供了可调平台。作者在每个摩尔原胞三个电子、填充 $\\nu_B=1$ 的设定下作变分计算：深三角形势极限下，电子形成拓扑平庸的三电子“维格纳分子晶体”；随着势阱变浅，分子电荷序仍然保持，同时出现量子化霍尔响应。在蜂窝点，每个原胞有两个简并极小，阱被单占或双占，双占据提供一个涌现的 Ising 自由度；从中等相互作用开始，陈绝缘体中的短程双占据关联随相互作用增强，最终破缺子晶格对称性，形成双占据之间的 Néel 电荷密度波。该拓扑分子区间对应目前实验可及的转角与磁场；文中的方法改进也为磁场下关联电子问题提供了可扩展的计算框架。"
+    },
+    {
+      "id": "2611.23132",
+      "title": "Non-equilibrium topological order from Floquet anyon proliferation in the toric code",
+      "authors": "Francesco Petiziol",
+      "url": "https://arxiv.org/abs/2611.23132",
+      "subjects": "quant-ph",
+      "status": "new",
+      "score": 12.5,
+      "tags": [
+        "entanglement",
+        "Floquet",
+        "topology",
+        "many-body"
+      ],
+      "why_zh": "分析 Floquet 淬灭在 Kitaev toric code 中相干产生并传播费米子型 $f$ 任意子后的长时间纠缠结构，提出一种本征混合态拓扑序的 Floquet 类似物——Floquet × 非平衡拓扑序 × 纠缠。",
+      "summary_zh": "驱动使长时间态离开纯态拓扑序，但仍保持长程纠缠。作为分析工具，作者把纠缠熵与对数负性分解为含拓扑项的基态贡献，以及由被驱动准粒子给出的贡献。当 $f$ 任意子做非相互作用动力学时，这一分解可借助自由费米子数值，并把所提议的长时间有序态与 $f$ 任意子平衡到周期 Gibbs 系综相联系。若驱动使 $f$ 扇区进入 Floquet 本征态热化，结果提示一种相反于通常看法的情景：对 $f$ 扇区的 Floquet 加热反而可能稳定真正的非平衡拓扑相，而不是破坏序。"
+    },
+    {
+      "id": "2611.22125",
+      "title": "Exceptional-point Sensing with Quantum Advantage",
+      "authors": "Chuming Wang · Xinyao Guo · Dezhi Zhang · Mingchen Liu · Yifei Li · Haixing Miao · Yiqiu Ma",
+      "url": "https://arxiv.org/abs/2611.22125",
+      "subjects": "quant-ph",
+      "status": "new",
+      "score": 5.5,
+      "tags": [
+        "non-Hermitian/open"
+      ],
+      "why_zh": "针对增益–损耗平衡二聚体中例外点等量放大信号与噪声、因而无法获得量子优势的已知禁戒，在粒子–空穴 Nambu 空间中构造受保护的非厄米传感方案——例外点 × 量子传感 × 非厄米动力学。",
+      "summary_zh": "例外点传感器利用奇异非厄米动力学增强对微扰的响应，但最近对耦合到独立、相位不敏感库的增益–损耗平衡二聚体给出了 no-go：例外点敏感度会把信号与库噪声同等放大。作者转而在粒子–空穴 Nambu 空间中设计非厄米动力学：单个共用库作用在构成无量子力学子系统（quantum-mechanics-free subsystem）的模式上，增强的响应不再引入额外噪声。他们展示了弱信号传感与静态参数估计中的量子计量优势，并在固定例外点漂移下连续插值算符基，说明库噪声如何在受保护极限处消失。工作给出了一条通过库工程实现带真正量子优势的例外点传感的路径。"
+    },
+    {
+      "id": "2611.22336",
+      "title": "Complex mobility edges from competing localization channels in non-Hermitian quasicrystals",
+      "authors": "Bing Shao · Weiwei Zhu · Longwen Zhou",
+      "url": "https://arxiv.org/abs/2611.22336",
+      "subjects": "cond-mat.mes-hall",
+      "status": "new",
+      "score": 5.5,
+      "tags": [
+        "non-Hermitian/open"
+      ],
+      "why_zh": "在同时包含非对称跃迁与复在位势的非厄米准周期链中，用两个相互竞争的局域化通道解释复平面上的迁移率边——非厄米局域化 × 准晶。",
+      "summary_zh": "非厄米局域化转变常伴随多条迁移率边，但其物理起源往往含混。作者把 Ganeshan–Pixley–Das Sarma 模型推广到同时具有非对称跃迁与复在位势的情形，从而覆盖一大类非厄米准周期链。精确解给出两种能量依赖的局域化贡献，对应不同的 Lyapunov 增长标度，二者的竞争决定迁移率边的结构。他们用 Avila 全局理论得到精确 Lyapunov 指数，在复能量平面上给出两条通道的阈值，并建立选择规则，用以把物理迁移率边与被抑制的解析候选区分开。主导局域化的通道可以随能量切换，从而产生具有非厄米起源的复迁移率边；非互易跃迁还会移动阈值并改变体态能量图案。数值谱与有限尺寸局域化诊断支持这一统一框架。"
+    },
+    {
+      "id": "2611.22192",
+      "title": "Symmetry-selected entanglement death at Floquet resonances of parametrically coupled qubits",
+      "authors": "Kamran Akbari · Stephen Hughes",
+      "url": "https://arxiv.org/abs/2611.22192",
+      "subjects": "quant-ph",
+      "status": "new",
+      "score": 12.5,
+      "tags": [
+        "non-Hermitian/open",
+        "entanglement",
+        "Floquet"
+      ],
+      "why_zh": "在参数调制耦合、各自耗散的双比特中，发现只有对称性选中的 Floquet 共振才会造成周期内全程的纠缠猝死——Floquet × 开放系统 × 纠缠。",
+      "summary_zh": "周期性调制比特–比特耦合是工程量子相互作用的常用手段，但强调制也会把耗散通道重组为 Floquet 梳。作者考虑两个全同、强耦合比特，横向耦合被非谐调制，每个比特接到自己的库。调制把周期平均哈密顿量的基态 concurrence 从 0.45 提高到 0.8 以上，但稳态 concurrence 几乎仍停在未驱动值，只在对称性选出的 Floquet 共振处发生纠缠猝死：在一段有限调制深度内，concurrence 在驱动周期的所有时刻都为零。宇称与交换对称把 Floquet 谱分成偶扇区（多光子共振处反交叉）与可精确求解的奇扇区（分支交叉）；所有耗散通道都连接两个扇区，因此只有隙大于阻尼的偶扇区反交叉会导致纠缠猝死，邻近的奇扇区交叉则不改变 concurrence。比较不含时与 Floquet 主方程、以及是否做久期近似后，耗散器所取的基可以把纠缠改变达 0.2（欧姆库）或 0.5（平坦库）；打破宇称的横向场会解除这一选择规则。"
+    },
+    {
+      "id": "2611.22029",
+      "title": "Exact Dynamic Scaling of Quantum Jump Statistics in Monitored Many-Body Systems",
+      "authors": "Kazuki Yamamoto · Taiki Ishiyama · Toranosuke Matsubara · Kazuya Fujimoto · Tomohiro Sasamoto · Ryusuke Hamazaki",
+      "url": "https://arxiv.org/abs/2611.22029",
+      "subjects": "cond-mat.stat-mech",
+      "status": "new",
+      "score": 10.5,
+      "tags": [
+        "non-Hermitian/open",
+        "entanglement",
+        "many-body"
+      ],
+      "why_zh": "指出监测多体系统中子系统内量子跃迁数的涨落服从新的动力学标度，并在自由费米子上给出 Liouvillian 自关联的精确有限尺寸解——开放/监测系统 × 测量诱导多体物理。",
+      "summary_zh": "测量诱导的纠缠转变等现象通常需要昂贵的后选择才能在实验中观察；量子跃迁统计提供了一条无需后选择的替代路径。本文发现，子系统内量子跃迁数的涨落呈现出新的动力学标度：时间尺度是扩散型的，并且对系统尺寸呈超泊松、且依赖于子系统大小的反常标度。对连续监测下的自由费米子，作者由 Liouvillian 自关联函数的精确有限尺寸解确定了标度指数与标度函数；在测量强度很大的极限下，相互作用费米子也遵循同一套指数与函数。工作为用实验友好、无需后选择的观测量来分类测量诱导的非平衡多体普适类提供了一个框架。"
+    },
+    {
+      "id": "2611.23065",
+      "title": "Quasi-long-range order in the quantum XY model on Sierpiński gaskets",
+      "authors": "Robert Canyellas · Jannes van Poppelen · Annica M. Black-Schaffer · Mikhail I. Katsnelson · Andrey A. Bagrov",
+      "url": "https://arxiv.org/abs/2611.23065",
+      "subjects": "cond-mat.supr-con",
+      "status": "new",
+      "score": 5.5,
+      "tags": [
+        "PINN/NNQS"
+      ],
+      "why_zh": "用视觉变压器神经网络波函数加变分蒙特卡罗，在远超精确对角化的分形格子上计算 $S=1/2$ XY 铁磁的基态关联，发现量子相位涨落仍留下准长程序——神经网络波函数 × 分形上的超导相位相干。",
+      "summary_zh": "有限分支分形上的经典 XY 模型没有有限温相变，因为涡旋能量随体系增大仍保持有界；这一点说的是无限垫片与热涡旋，而真实分形结构本就是有限的，且 $T=0$ 时相位还要与自身的量子涨落竞争。作者把 $S=1/2$ XY 铁磁当作每岛至多一个库珀对的约瑟夫森网络的相位部分，分别放在三角形与蜂窝 Sierpiński 垫片上。用视觉变压器神经网络波函数、以变分蒙特卡罗优化，做到第 5 代（三角形 366 格点、蜂窝 609 格点）。横向两点关联按幂律衰减，$C_{xy}(r)\\sim r^{-\\eta}$，指数 $\\eta\\simeq 0.12$–$0.32$，且与沿图距离、沿分形边界或在嵌入平面上量度无关。因此在基态中，量子相位涨落并未破坏准长程序。文中还讨论了这对有限垫片在低温但非零温度下超导响应的含义。"
+    },
+    {
+      "id": "2611.22875",
+      "title": "Engineering third order absorbing exceptional points in multi-drive cavity magnonics for enhanced sensing",
+      "authors": "R. D. McKenzie · R. L. Stamps",
+      "url": "https://arxiv.org/abs/2611.22875",
+      "subjects": "cond-mat.mtrl-sci",
+      "status": "new",
+      "score": 8.5,
+      "tags": [
+        "non-Hermitian/open",
+        "spintronics"
+      ],
+      "why_zh": "在双腔、双 YIG 球的多驱动腔磁子系统中，用偶极耦合与驱动相对振幅/相位调到三阶吸收例外点，用于增强传感——例外点 × 腔磁子学 × 传感。",
+      "summary_zh": "所考虑的四模式腔磁子系统由两个耦合谐振腔组成，每个腔中有一颗钇铁石榴石（YIG）球，且各有两个输入–输出端口，从而可以施加多路驱动。作者表明，在控制两颗 YIG 球之间偶极耦合强度的同时，调节各驱动的相对振幅与相位，可以把系统调到三阶吸收例外点。与共振例外点不同，吸收例外点可以避免本征基的坍缩，因此有望用于高灵敏度探测；该平台的可调参数也较多，实验上较为灵活。"
+    },
+    {
+      "id": "2611.21999",
+      "title": "Transient Synchronization and Entanglement through Shared Dissipation in Circuit QED",
+      "authors": "Areeda Ayoub · Eric R. Bittner",
+      "url": "https://arxiv.org/abs/2611.21999",
+      "subjects": "quant-ph",
+      "status": "new",
+      "score": 8.5,
+      "tags": [
+        "non-Hermitian/open",
+        "entanglement"
+      ],
+      "why_zh": "两个谐振腔经直流偏置 SQUID 耦合到同一个有耗辅助模，由此同时得到例外点、瞬态同步，以及由局域压缩转化而来的瞬态纠缠——开放系统 × 纠缠 × 电路量子电动力学。",
+      "summary_zh": "绝热消除后得到集体阻尼与关联噪声，重叠度 $\\xi$ 的大小由磁通偏置调节、符号追随耦合的相对符号；完整三模动力学验证了这一约化描述。失谐腔在例外点之上会把平均振幅锁定到同一频率；共振时，不等的集体衰减导致瞬态同步（同相或反相取决于耦合相对符号），同步时间由集体衰减劈裂与初始平均振幅解析给出。对初态可分的压缩态，同一弛豫过程会把局域压缩转化为对数负性所刻画的瞬态纠缠，文中给出了出现纠缠的压缩阈值以及纠缠消失的时刻。热噪声会抑制纠缠，但在固定参数下并不改变平均振幅的同步时间。以实际电路参数估计，这些效应出现在数百纳秒内，并可通过输出场测量观测。"
+    },
+    {
+      "id": "2611.22810",
+      "title": "Depth-Dependent Collapse and Warm-Start Limits of a Symmetry-Preserving VQE for the J$_1$--J$_2$ Heisenberg Ring",
+      "authors": "Soumyadip Sahoo · Sahinur Reja",
+      "url": "https://arxiv.org/abs/2611.22810",
+      "subjects": "quant-ph",
+      "status": "new",
+      "score": 4.5,
+      "tags": [
+        "QML"
+      ],
+      "why_zh": "在阻挫 $S=1/2$ $J_1$–$J_2$ 海森堡环上检验对称性保持的变分量子本征求解器，发现增加电路深度并不保证逼近基态——量子机器学习 × 阻挫量子磁体。",
+      "summary_zh": "增加变分电路深度通常被期望能改进 VQE，但这一预期可能失败，而且消除失败也并不等于得到精确基态。作者采用 SingleExcitationMinus 门构成的对称性保持 ansatz、从 Néel 态出发，在 $N=10$、$12$ 的阻挫环上计算。随机初始化时，保真度、能量误差、半链熵与总自旋在中等深度处突然变化（$N=10$ 约 $L\\approx 9$，$N=12$ 为 $L=10$–$12$），呈现改善–变差–再恢复的双下降状曲线。电路族是嵌套的、梯度保持有限，因此这是优化失败，而不是表达能力丧失或贫瘠高原。把已优化的浅层线路再接恒等层的链式热启动可以去掉坍塌，并在多数阻挫取值下近乎单调地改进能量与保真度。但在 $N=10$ 的 $J_2/J_1\\approx 0.60$，以及 $N=12$ 的 $0.60$–$1.00$ 区间，热启动会停在保真度约 $0.50$–$0.58$，尽管能量误差已经很小、总自旋也留在 $S=0$ 扇区。因此，去掉深度上的非单调性并不等于到达基态；低能量与单态特征并不足够，保真度、熵与总自旋需要同时被满足。"
+    },
+    {
+      "id": "2611.22500",
+      "title": "Landscape index and its boundary correspondence in inhomogeneous chiral systems",
+      "authors": "Guo-Jian Qiao · Zhi-Lei Zhang · C. P. Sun",
+      "url": "https://arxiv.org/abs/2611.22500",
+      "subjects": "cond-mat.mes-hall",
+      "status": "new",
+      "score": 8.5,
+      "tags": [
+        "topology",
+        "spin-Hall",
+        "many-body"
+      ],
+      "why_zh": "从手性系统零能空间动力学所对应的二次型景观几何出发，定义实空间拓扑指数，并在不必要求渐近均匀体区的非均匀界面上给出体边对应——拓扑体边对应 × 量子反常霍尔 / Kitaev 型系统。",
+      "summary_zh": "该景观指数在保持衰减与增长空间解之间均匀指数分离的连续形变下不变，并在均匀极限下回到连续绕数。穿过非均匀界面时，两侧指数之差等于受保护的净手性零模计数，并不要求两侧存在渐近均匀的体区。对满足解析界限的所有剖面，景观构造给出哈密顿量参数及其空间梯度的界限，从而决定指数而无需指定剖面的细节形状。维度约化把景观指数及其边界对应推广到更高维：所得界限保证任意横向余维的有效 Kitaev 型系统中存在受保护的径向零模，并标出周期调制量子反常霍尔系统中支持手性边缘态的参数与动量区域。对所考虑的准周期界面，尽管两侧调制持续存在，指数差仍保证一条受保护的手性分支，并与数值计算相符。"
+    }
+  ]
+}
