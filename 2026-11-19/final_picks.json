@@ -1,0 +1,222 @@
+{
+  "date": "2026-11-19",
+  "user_tz": "America/Los_Angeles",
+  "arxiv_listing_date": "Thursday, 19 November 2026",
+  "listing_status": "announced",
+  "listing_note": "Regular Thursday listing, covering approximately Wed 14:00–Thu 14:00 ET.",
+  "categories": [
+    "cond-mat",
+    "quant-ph",
+    "hep-th",
+    "math-ph",
+    "cs.LG",
+    "stat.ML"
+  ],
+  "new_counts": {
+    "cond-mat": 72,
+    "quant-ph": 85,
+    "hep-th": 24,
+    "math-ph": 7,
+    "cs.LG": 118,
+    "stat.ML": 14
+  },
+  "selected_count": 12,
+  "top_picks": [
+    "2611.24045",
+    "2611.23989",
+    "2611.23992"
+  ],
+  "zotero": {
+    "live_available": false,
+    "machine": "DESKTOP-00O6NSD",
+    "cache_file": "zotero_arxiv_ids.txt",
+    "cache_count": 187,
+    "cache_vintage_note": "~10/30 vintage; copied from 2026-11-13",
+    "shortlist_exact_id_overlaps": []
+  },
+  "dedup": {
+    "prior_ids_count": 450,
+    "prior_ids_file": "prior_ids.txt"
+  },
+  "picks": [
+    {
+      "id": "2611.24045",
+      "title": "Two-Color Coherent Control of the Spin Photovoltaic Effect in Centrosymmetric Crystals",
+      "authors": "Songmin Liu · Pan Zhou · Lizhong Sun",
+      "url": "https://arxiv.org/abs/2611.24045",
+      "subjects": "cond-mat.mtrl-sci",
+      "status": "new",
+      "score": 9.5,
+      "tags": [
+        "altermagnetism",
+        "spintronics"
+      ],
+      "why_zh": "证明相干双色光可通过反演偶的三阶直流响应，在中心对称晶体（含共线交错磁）中产生并单独调控自旋光电流——交错磁 × 自旋电子学 × 光控输运。",
+      "summary_zh": "空间反演禁止中心对称晶体中常规电偶极二阶体电荷/自旋光伏响应。作者指出，频率为 $\\omega$ 与 $2\\omega$ 的相位相干双色场可通过反演偶的三阶直流响应产生对称性选择的电荷与自旋光电流；偏振方向与相对相位直接控制电流方向，并能分离出电荷电流为零、自旋电流仍有限的纯自旋通道。对中心对称磁点群与共线反铁磁自旋点群的系统分析表明，适当双色驱动下这类纯自旋通道在相当广泛的体系中被允许，且相对光学相位同时调控响应的大小与符号。他们在反演堆叠双层 2H-MoS$_2$（强自旋轨道）与中心对称共线交错磁（弱自旋轨道）上的计算给出共振增强、相位可调的自旋光电流，从而把双色光的偏振与相位确立为中心对称材料中自旋输运的主动控制参量。"
+    },
+    {
+      "id": "2611.23989",
+      "title": "Topological Origin of Directional Amplification in Arbitrary-Dimensional Non-Hermitian Lattices",
+      "authors": "Zhenxiang Wu · Linfeng Zhang · Haitan Xu",
+      "url": "https://arxiv.org/abs/2611.23989",
+      "subjects": "quant-ph",
+      "status": "new",
+      "score": 8.5,
+      "tags": [
+        "non-Hermitian/open",
+        "topology"
+      ],
+      "why_zh": "用响应生成函数奇点的对数像（amoeba）给出任意维非厄米格子中定向放大的维数无关拓扑判据——非厄米拓扑 × 定向放大。",
+      "summary_zh": "增益、损耗与非互易耦合的组合可在非厄米格子中产生指数增长的定向放大，可用于信号处理与精密测量，但其是否具有任意维的普适拓扑起源仍不清楚。作者以响应生成函数奇点的对数像——amoeba——为中心，建立与维数无关的框架：对数参数空间中 amoeba 的补集分成若干连通分支，各带离散拓扑标记。渐近响应由伸向负无穷的那个分支决定：若对数空间原点落在该分支之外且不在其边界上，则必存在某些方向上的指数放大；否则任何方向都没有定向放大。这一判据为任意维非厄米格子的响应分类提供了一般的拓扑标准。"
+    },
+    {
+      "id": "2611.23992",
+      "title": "Light-Induced Odd-Parity h-Wave Magnetism in Penrose Quasicrystals",
+      "authors": "Yiming Li · Huaqing Huang",
+      "url": "https://arxiv.org/abs/2611.23992",
+      "subjects": "cond-mat.mtrl-sci",
+      "status": "new",
+      "score": 7.5,
+      "tags": [
+        "spintronics",
+        "Floquet"
+      ],
+      "why_zh": "证明圆偏振光可在无需自旋轨道耦合的共线反铁磁 Penrose 准晶中诱导奇宇称 $h$ 波磁性，并把这一劈裂与光诱导手性跃迁相联系——Floquet × 非常规磁性。",
+      "summary_zh": "非晶体学转动对称提供了超越周期晶体约束的非常规自旋劈裂途径。作者表明，圆偏振光可通过虚的两步过程产生手性跃迁，再与交错交换耦合，从而在未驱动时自旋简并的共线反铁磁 Penrose 准晶中举起自旋简并，且无需自旋轨道耦合。准晶自旋群对称强制奇宇称自旋劈裂，并选出 $h$ 波作为主导角谐波；解析的有效准能带理论把劈裂与局域跃迁路径的几何相联系，并预言切换光的螺旋性会使劈裂反号。动量分辨谱计算给出特征性的交替自旋衬度，作者提议用自旋分辨时间分辨角分辨光电子谱作为实验探针。工作把准晶序确立为把 Floquet 工程延伸到晶体学对称之外的一条途径。"
+    },
+    {
+      "id": "2611.24013",
+      "title": "Topological Quantum Reservoir Computing",
+      "authors": "Zhi-Lei Zhang · Lianxiang Cui · C. P. Sun · Kohei Nakajima · Kazuyuki Aihara",
+      "url": "https://arxiv.org/abs/2611.24013",
+      "subjects": "quant-ph",
+      "status": "new",
+      "score": 9.5,
+      "tags": [
+        "QML",
+        "topology",
+        "many-body"
+      ],
+      "why_zh": "在一维 Kitaev 链上用受保护的 Majorana 边缘模做存储、用体动力学做信息处理，提出拓扑量子储备计算——量子机器学习 × 拓扑/Majorana。",
+      "summary_zh": "在受保护逻辑比特上扩展通用量子计算与实施量子机器学习仍然困难。作者提出拓扑量子储备计算：用受保护自由度存储信息，同时用宿主体系的本征动力学做处理。以一维 Kitaev 链为例，长寿命 Majorana 边缘模与快速体响应在同一多体系统中承担互补功能；他们分析了访问受保护记忆的权衡，并说明匹配的接口可实现可编程写入，而相互作用则使信息从体自主汇聚到边缘。这些机制改善了需要长期保留时序信息的任务表现，从而把拓扑确立为量子储备计算的新资源，并为近邻量子计算与量子机器学习提供一条路径。"
+    },
+    {
+      "id": "2611.24053",
+      "title": "Odd-Even Effects on Liouvillian Spectra and Relaxation Dynamics in Boundary-Driven Spin Chains",
+      "authors": "Zhen-Yu Zheng · Shu Chen",
+      "url": "https://arxiv.org/abs/2611.24053",
+      "subjects": "quant-ph",
+      "status": "new",
+      "score": 8.5,
+      "tags": [
+        "non-Hermitian/open",
+        "topology"
+      ],
+      "why_zh": "在边界驱动 XY 与 cluster 链中，指出链长奇偶性通过体 Majorana 路径与边界跃迁算符的耦合，决定 Liouvillian 是否存在无衰荡模——开放系统 × Liouvillian 谱。",
+      "summary_zh": "在体耦合与边界耗散规则固定时，链长的奇偶性决定是否存在不衰减的振荡模，从而使奇、偶尺寸链条呈现定性不同的动力学。机制来自体 Majorana 路径与边界跃迁算符的耦合：孤立路径支持无阻尼模，其偶数个 Majorana 算符的乘积张成由偶算符构成的不衰减子空间，对应 Liouvillian 的非零纯虚本征值，并在乘积态制备后对键关联或磁化给出持久贡献。该机制可推广到固定边界耗散规则下偶程 cluster 相互作用；持久模的存在与频率不依赖于正的边界耗散率大小。结果揭示了链长宇称如何控制持久动力学的出现。"
+    },
+    {
+      "id": "2611.23604",
+      "title": "Uniformly Convergent Perturbation Theory for Open Quantum Systems at, near, and away from Exceptional Points",
+      "authors": "Pedro Linck",
+      "url": "https://arxiv.org/abs/2611.23604",
+      "subjects": "quant-ph",
+      "status": "new",
+      "score": 5.5,
+      "tags": [
+        "non-Hermitian/open"
+      ],
+      "why_zh": "针对 Liouvillian 例外点附近谱微扰论病态、但有限维开放系统可观测量动力学仍正则的问题，用无需对角化的 Dyson 展开给出一致时间误差估计——例外点 × 开放系统微扰论。",
+      "summary_zh": "在 Liouvillian 例外点附近，谱微扰论会病态，但有限维开放系统的可观测量动力学对微扰仍然正则。作者用无需对角化微扰生成元的 Dyson 展开，分析例外点上、附近与远离处微扰修正的标度、稳定性与收敛性。他们给出标度律：非外围 Jordan 块会提高乘在衰减指数上的时间多项式次数（作为共振，这对任何生成元都存在），并量化这一超额。进一步，对任何弛豫的有限维 Lindbladian，他们建立由参量 $q=|\\varepsilon|R$ 控制的一致时间误差估计；当把聚结本征值留在同一谱簇中时，界的所有常数在穿过例外点时保持连续。估计可经拉普拉斯变换延伸到频域，并适用于含时微扰；他们在带 Liouvillian 例外点的驱动二能级系统中做了检验，包括打破其对称性的微扰。"
+    },
+    {
+      "id": "2611.24346",
+      "title": "Spin dynamics in disordered systems with generic spin-momentum couplings: A matrix-rational formulation",
+      "authors": "Masataka Kakoi",
+      "url": "https://arxiv.org/abs/2611.24346",
+      "subjects": "cond-mat.mes-hall",
+      "status": "new",
+      "score": 6.5,
+      "tags": [
+        "altermagnetism"
+      ],
+      "why_zh": "为各向异性、非线性自旋–动量耦合的无序赝自旋体系建立不依赖低频或弱耦合展开的矩阵有理近似，并应用于 $d$ 波交错磁与 Rashba 耦合——交错磁 × 自旋动力学。",
+      "summary_zh": "作者从 Diffuson 出发，引入其频率依赖的矩阵值有理近似，把极点方程改写为二次本征值问题，从而构造无序平均密度矩阵的实时演化，而不做低频或弱耦合展开。该框架被用于带 Rashba 与线性/三次 Dresselhaus 耦合的二维电子气、$d$ 波交错磁加 Rashba 耦合，以及三维双 Weyl 模型。与直接数值模拟的比较表明，在相当宽的耦合强度范围内——并延伸到扩散区之外——淬火后的自旋动力学与自旋弛豫时间都有定量符合。矩阵有理表述为超快自旋动力学与长时间弛豫提供了统一描述。"
+    },
+    {
+      "id": "2611.23971",
+      "title": "Quantum Mpemba effect in a driven-dissipative atom-waveguide coupled system",
+      "authors": "Hao-Kai Chi · H. H. Jen",
+      "url": "https://arxiv.org/abs/2611.23971",
+      "subjects": "quant-ph",
+      "status": "new",
+      "score": 5.5,
+      "tags": [
+        "non-Hermitian/open"
+      ],
+      "why_zh": "在弱驱动、与一维手性波导耦合的原子阵列中，揭示边缘增强、方向性衰减导致的皮肤增强，以及界面诱导的量子 Mpemba 效应——开放系统 × 集体耗散 / 非厄米皮肤效应。",
+      "summary_zh": "量子 Mpemba 效应指更强扰动的量子系统反而比弱扰动者更快弛豫到定态。作者从定态出发，把单个原子重置到基态，考察后续弛豫：猝灭靠近阵列边界的原子会通过增强与超辐射模的耦合以及向波导的直接光子发射，加快初期弛豫，形成边缘增强的 QME；强方向性衰减还会使超辐射模在偏好边界附近空间积累，进一步给出皮肤增强的 QME。较晚阶段的弛豫则越来越由主要局域在阵列体中的长寿命亚辐射模主导。把两个不同间距的原子阵列耦合后，他们还展示了界面诱导的 QME：猝灭界面附近的原子使系统早期弛豫更慢，却因对超辐射与亚辐射模的参与都弱，而在晚期更快接近定态。结果说明集体衰减模的空间结构与方向性耗散如何共同支配反常量子弛豫，并为波导 QED 中加速制备定态提供可能途径。"
+    },
+    {
+      "id": "2611.24592",
+      "title": "Gutzwiller Quantum-Classical Embedding for Dynamics Simulations of Correlated Electron Systems",
+      "authors": "Joshua Aftergood · Daniele Guerci · Jacob Brunton · Feng Zhang · Thomas Iadecola · Peter P. Orth · Cai-Zhuang Wang · Nicola Lanatà · Yong-Xin Yao",
+      "url": "https://arxiv.org/abs/2611.24592",
+      "subjects": "quant-ph",
+      "status": "new",
+      "score": 6.5,
+      "tags": [
+        "QML",
+        "many-body"
+      ],
+      "why_zh": "提出含时 Gutzwiller 量子–经典嵌入（t-GQCE），把关联电子格子动力学映射到经典准粒子格子与在量子处理器上演化的有限嵌入模型——量子算法 × 关联电子动力学。",
+      "summary_zh": "关联电子体系的实时动力学需要长时间、非微扰地处理局域关联，这对经典方法是挑战。在含时光子 Gutzwiller 近似下，t-GQCE 把格子动力学映射到经典传播的非相互作用准粒子格子，以及在量子处理器上传播的有限相互作用嵌入模型，二者只交换嵌入哈密顿量参量与单粒子密度矩阵，且对量子动力学求解器保持不可知。作者用自适应变分量子动力学模拟 Bethe 格子 Hubbard 模型的相互作用淬火：无幽灵轨道时嵌入问题退化为单比特，并在 IBM 硬件上用含辅助比特的两比特线路演示；引入更多幽灵轨道后，t-GQCE 抑制了常规 Gutzwiller 近似的人工无阻尼振荡，并在弱、强淬火下接近非平衡动力学平均场结果。态矢量模拟（每自旋 2/4/6 个幽灵轨道，即 8/12/16 比特）给出与嵌入态保真度损失低于 $5\\times10^{-4}$ 的自适应线路；在离子阱噪声模型与 Quantinuum H2 模拟器上，压缩、旋转轨道基测量与噪声缓解把单粒子密度矩阵与双占据的误差降到约 $0.01$。"
+    },
+    {
+      "id": "2611.24911",
+      "title": "A Nonsecular Quantum Master Equation with Detailed Balance and Second-order Error Bound",
+      "authors": "Ji-Hui Pei · Jin-Fu Chen",
+      "url": "https://arxiv.org/abs/2611.24911",
+      "subjects": "quant-ph",
+      "status": "new",
+      "score": 7.5,
+      "tags": [
+        "non-Hermitian/open",
+        "many-body"
+      ],
+      "why_zh": "构造同时满足时间反演 KMS 细致平衡、并具有时间一致二阶误差界的非久期量子主方程，面向密谱多体开放系统——开放系统 × 量子主方程。",
+      "summary_zh": "有效的开放系统理论应保留微观可逆性带来的细致平衡，并在整个弛豫过程中保持精度；在多体密谱中，即便弱耦合也可能使久期近似失效，二者难以兼得。作者构造满足时间反演 Kubo–Martin–Schwinger（TR-KMS）细致平衡的非久期主方程：在适当条件下，证明预言与精确约化密度矩阵之差具有时间一致的 $O(\\lambda^2)$ 界（$\\lambda$ 为系统–浴耦合）。做法是补全 Redfield 生成元，在强加细致平衡的同时使其耗散与相干系数在共振处匹配；TR-KMS 细致平衡与共振匹配相容，而不含时间反演的对应物则不相容。在两个耦合振子的精确微观动力学基准中，该方程在久期与非久期区都保持 $O(\\lambda^2)$ 精度，并优于所比较的已有细致平衡方程。"
+    },
+    {
+      "id": "2611.24134",
+      "title": "Non-Abelian Hall Effects of Flavor-Waves in $\\mathbb{CP}^{2}$ Skyrmions",
+      "authors": "Carlos Saji · Eduardo Saavedra · Alvaro S. Nunez · Roberto E. Troncoso",
+      "url": "https://arxiv.org/abs/2611.24134",
+      "subjects": "cond-mat.mes-hall",
+      "status": "new",
+      "score": 8.5,
+      "tags": [
+        "spintronics",
+        "topology",
+        "many-body"
+      ],
+      "why_zh": "在二维三角格子自旋-1 磁体中分析孤立与晶体 $\\mathbb{CP}^{2}$ 斯格明子的味波集体激发，得到带非零陈数的集体模与热霍尔响应——拓扑 × 斯格明子 / 多极激发。",
+      "summary_zh": "在 $\\mathrm{SU}(3)$ 相干态框架下，磁偶极与四极矩的涨落由两个耦合的玻色味描述；在均匀自旋极化态中它们分别对应单自旋翻转与双自旋翻转，而非均匀 $\\mathbb{CP}^{2}$ 织构会混合二者的特征。作者建立相应的玻色 Bogoliubov–de Gennes 问题，并考察支配味波传播的矩阵值规范联络。对孤立斯格明子，谱中含局域模，散射动力学呈现横向偏转并伴随同位旋进动；对数值弛豫得到的斯格明子晶体，集体模带具有非零陈数，并给出相应的热霍尔响应。这些结果说明射影磁织构如何把多极激发与非阿贝尔输运及拓扑能带现象耦合起来。"
+    },
+    {
+      "id": "2611.23409",
+      "title": "Analytical Interacting Tight-binding Model for Fractional Chern Insulators",
+      "authors": "Lexu Zhao · Jayden S. Chang · Awwab A. Azam · Jiabin Yu",
+      "url": "https://arxiv.org/abs/2611.23409",
+      "subjects": "cond-mat.str-el",
+      "status": "new",
+      "score": 5.5,
+      "tags": [
+        "topology",
+        "many-body"
+      ],
+      "why_zh": "构造跃迁与相互作用都在实空间指数局域的两带紧束缚模型，使 $1/3$ 填充的基态在任意有限格子上精确为分数陈绝缘体，且准空穴态可解析给出——拓扑物态 × 分数陈绝缘体。",
+      "summary_zh": "模型为二维两带、含两体相互作用、且不依赖磁格子平移；跃迁与相互作用在实空间均呈高斯衰减，相互作用由相对距离正幂次除跃迁振幅所构造的成对湮灭算符给出。无需任何能带投影，在 $1/3$ 填充下，对任意有限格子尺寸以及任意周期/扭转边界条件，基态都精确是分数陈绝缘体（因而有非零能隙）。这些 FCI 基态类似于连续统陈理想能带中 Laughlin 类状态的离散化版本，但不要求连续统中必要的在位旋量结构。解析还表明：在保持电子数不变的前提下增加一个原胞后，任意有限尺寸、任意准空穴位置上的任意子单准空穴态都是完整哈密顿量的零能基态，类似于 Haldane $V_1$ 赝势下的 Laughlin 准空穴。数值证据提示，当相互作用远小于单粒子能隙时，$1/3$ 填充 FCI 在热力学极限中可能保持非零能隙。"
+    }
+  ]
+}
