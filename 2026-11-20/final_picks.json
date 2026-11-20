@@ -1,0 +1,220 @@
+{
+  "date": "2026-11-20",
+  "user_tz": "America/Los_Angeles",
+  "arxiv_listing_date": "Friday, 20 November 2026",
+  "listing_status": "announced",
+  "listing_note": "Regular Friday listing, covering approximately Thu 14:00–Fri 14:00 ET.",
+  "categories": [
+    "cond-mat",
+    "quant-ph",
+    "hep-th",
+    "math-ph",
+    "cs.LG",
+    "stat.ML"
+  ],
+  "new_counts": {
+    "cond-mat": 90,
+    "quant-ph": 78,
+    "hep-th": 36,
+    "math-ph": 10,
+    "cs.LG": 119,
+    "stat.ML": 14
+  },
+  "selected_count": 12,
+  "top_picks": [
+    "2611.25284",
+    "2611.26005",
+    "2611.25572"
+  ],
+  "zotero": {
+    "live_available": false,
+    "cache_count": 187,
+    "cache_vintage_note": "~10/30 vintage",
+    "shortlist_exact_id_overlaps": []
+  },
+  "dedup": {
+    "prior_ids_count": 462,
+    "prior_ids_file": "prior_ids.txt"
+  },
+  "picks": [
+    {
+      "id": "2611.25284",
+      "title": "Altermagnetic magnon splitting in hematite: from bulk g-wave to planar i-wave",
+      "authors": "Tobias Dannegger · Julian A. Beisch · Levente Rózsa · László Szunyogh · Ulrich Nowak",
+      "url": "https://arxiv.org/abs/2611.25284",
+      "subjects": "cond-mat.mtrl-sci",
+      "status": "new",
+      "score": 9.5,
+      "tags": [
+        "altermagnetism",
+        "spintronics"
+      ],
+      "why_zh": "对赤铁矿做全相对论第一性原理磁振子计算，指出 $k_z=0$ 平面上存在大的交错磁劈裂，并说明三角交错磁可同时具有体 $g$ 波与平面 $i$ 波成分——交错磁 × 自旋电子学 × 磁振子。",
+      "summary_zh": "赤铁矿既有共线反铁磁相也有弱铁磁相，且是 $g$ 波交错磁候选。作者定量计算各向异性与交错磁磁振子能带劈裂及寿命。偶极相互作用会给出可观的非交错磁劈裂，并使相反手性磁振子杂化，从而在 $\\Gamma$ 点附近及节面附近显著降低自旋期望值，即便在共线面外相中也是如此。频率与寿命在 $k_z=0$ 平面上都有大的交错磁劈裂，这是赤铁矿的特征，并非 $g$ 波交错磁的普遍预期。与六角 $g$ 波原型 MnTe（有四个对称保护节面）对比：赤铁矿的第四个节面并不完全由对称固定；作者给出该曲面的隐式解析表达式，并说明它来自转动与平移对称的组合，从而在布里渊区边界过渡为 $i$ 波对称。这表明仅靠点群对称不足以刻画劈裂函数的全部对称决定行为。"
+    },
+    {
+      "id": "2611.26005",
+      "title": "Flat bands and bound states in the continuum in non-Hermitian pseudospin lattices",
+      "authors": "X. Y. Chen · C. H. Zhang",
+      "url": "https://arxiv.org/abs/2611.26005",
+      "subjects": "quant-ph",
+      "status": "new",
+      "score": 5.5,
+      "tags": [
+        "non-Hermitian/open"
+      ],
+      "why_zh": "在一类赝自旋形式的一维非厄米格子中，说明本征零能平带的紧束缚局域态可因非厄米谱压缩而嵌入连续谱，成为连续谱中的束缚态——非厄米 × 平带/BIC。",
+      "summary_zh": "平带支持紧束缚局域态（CLS），而 BIC 的能量嵌入扩展态连续谱却仍保持空间局域。作者研究 Bloch 哈密顿量为 $H(k)=d(k)\\mathbf{S}$ 的一维非厄米格子：整数赝自旋时本征存在零能平带及其 CLS。当有效赝自旋场的横向分量为实、纵向分量为纯虚时，增大非厄米性会把色散带向本征零能平带压缩，使其在有限参量区间内谱重叠，从而 CLS 嵌入色散连续谱成为 BIC。沿增益–损耗方向再加动量依赖的厄米分量，通常会消除这种谱重叠但不破坏 CLS。该机制可推广到整数赝自旋-$n$ 体系，从而把本征平带局域与 BIC 形成通过非厄米谱重构联系起来。"
+    },
+    {
+      "id": "2611.25572",
+      "title": "Algorithmic Quantum Sensing",
+      "authors": "Ishaan Kannan · Aditi Venkatesh · Jordan Cotler",
+      "url": "https://arxiv.org/abs/2611.25572",
+      "subjects": "quant-ph",
+      "status": "new",
+      "score": 9.5,
+      "tags": [
+        "sensing"
+      ],
+      "why_zh": "把时变场传感表述为算法问题，提出优于动力学解耦的脉冲协议，并引入耦合量子处理器的量子计算光谱学，证明可超越海森堡极限且在噪声下仍保持优势——量子传感 × 量子算法。",
+      "summary_zh": "作者先给出随机、匹配与汇集三种光谱脉冲协议，在多种任务上优于动力学解耦，并在常规自旋/量子比特平台上达到线性与非线性交流传感的最优灵敏度，只需改脉冲序列。进一步提出量子计算光谱学（QCS）：把传感器与量子处理器耦合，用“量子计算频率梳”把任意经典信号相干地转成量子预言机，再用一族算法在叠加中提取信号信息；现有平台只需一个存储辅助比特即可实现若干变体。他们证明量子力学的终极极限在多项式意义上超出海森堡极限，且 QCS 可以达到；达到这一新极限需要量子计算，从而把常规传感与量子计算传感从根本上分开。QCS 在恒定强度传感器退极化下对宽带信号仍保持超海森堡标度，而任何缺少量子计算的协议都被证明只能回到标准量子极限。工作还给出当噪声与信号对齐时，交流计量中首个渐近、超二次的量子优势，并说明 Lindblad span 条件不适用于宽带量子传感。"
+    },
+    {
+      "id": "2611.26587",
+      "title": "High-Accuracy Neural-Network Quantum States via Randomized Real-Time Dynamics",
+      "authors": "John M. Martyn · Rod Rofougaran · Samuel Stein · Di Luo",
+      "url": "https://arxiv.org/abs/2611.26587",
+      "subjects": "quant-ph",
+      "status": "new",
+      "score": 7.5,
+      "tags": [
+        "PINN/NNQS",
+        "many-body"
+      ],
+      "why_zh": "针对神经网络波函数中能量二次收敛、其他可观测量仅线性收敛的落差，用随机实时演化平均把任意基态可观测量的误差压到最高二次——神经网络波函数 × 多体。",
+      "summary_zh": "神经网络量子态在能量最小化时，能量随波函数误差二次收敛，但其他可观测量通常只线性收敛，限制了物理预报精度。作者提出动力学平均：对实时演化后的态（或可观测量）做平均来估计期望值。借助量子信息论证，他们证明任意基态可观测量的误差可被抑制到最高二次，从而与能量的快速收敛对齐。这一精度提升既不要求进一步降能量，也不增加模型复杂度，而是利用随机化对量子态的效应。他们在非可积自旋模型上演示了更快收敛与显著更小的可观测量误差。"
+    },
+    {
+      "id": "2611.26604",
+      "title": "Scalable Simulation of Strongly Correlated Fermions with Neural Gaussian Tensor Networks",
+      "authors": "Runze Chi · Ao Chen · Garnet Kin-Lic Chan",
+      "url": "https://arxiv.org/abs/2611.26604",
+      "subjects": "cond-mat.str-el",
+      "status": "new",
+      "score": 7.5,
+      "tags": [
+        "PINN/NNQS",
+        "tensor-net",
+        "many-body"
+      ],
+      "why_zh": "把神经网络与高斯投影纠缠对态结合，给出二维格子上精确收缩代价为 $O(N^{3/2})$ 的架构，并在大尺寸 Hubbard 模型上取得最先进变分能量——神经网络波函数 × 张量网络。",
+      "summary_zh": "准确模拟强关联电子仍是计算物理的核心难题。作者引入神经网络高斯投影纠缠对态（NN-GPEPS），利用高斯态的局域纠缠子空间，使架构更契合现代神经网络，并在二维格子上把精确收缩代价降到 $O(N^{3/2})$。对 $U/t=8$、空穴掺杂 $1/8$ 的 Hubbard 模型，他们在至多 1024 格点的大格子上得到最先进变分能量。结果展示了把神经网络与高斯张量网络衔接起来模拟强关联费米子的一条准确路径。"
+    },
+    {
+      "id": "2611.25546",
+      "title": "Scattering Circular Dichroism from Spatially Modulated Anisotropic Magnetic Dipoles in BiFeO$_3$",
+      "authors": "Y. Ishii · N. Sasabe · T. Honda · S. Kawachi · T. Ito · A. Sumiyoshiya · H. Nomura · T. Nakamura · T. Arima · Y. Yamasaki",
+      "url": "https://arxiv.org/abs/2611.25546",
+      "subjects": "cond-mat.mtrl-sci",
+      "status": "new",
+      "score": 9.5,
+      "tags": [
+        "altermagnetism",
+        "spin-Hall"
+      ],
+      "why_zh": "在多铁 BiFeO$_3$ 的反铁磁自旋摆线中观测到共振软 X 射线散射圆二色，并把它归因于空间调制的铁性各向异性磁偶极——破时间反演反铁磁 / 交错磁 × 隐蔽多极织构。",
+      "summary_zh": "破时间反演的反铁磁（含交错磁）可呈现反常霍尔与磁光等铁磁式响应，其表征是铁性时间反演奇多极。其中各向异性磁偶极（AMD）与磁化同对称，即使自旋抵消也可以有铁性分量；以往主要在原胞周期磁结构中被识别，长波长织构中的空间调制 AMD 仍少有探索。作者对多铁 BiFeO$_3$ 的反铁磁自旋摆线做共振软 X 射线小角散射，观测到显著的散射圆二色，这无法由已知的摆线结构及 Dzyaloshinskii–Moriya 相互作用诱导的正弦自旋结构解释。他们表明 FeO$_6$ 八面体的交错转动在自旋反平行排列下仍给出铁性 AMD 分量；局域磁对称随摆线相位变化，这些 AMD 被空间调制，并与正弦自旋分量干涉而产生二色。工作说明长波长反铁磁织构可以承载空间调制的 AMD。"
+    },
+    {
+      "id": "2611.25015",
+      "title": "Umklapp-enhanced high-$T_c$ topological superconductivity mediated by magnons in $p$-wave magnets",
+      "authors": "Kristoffer Leraand · Asle Sudbø",
+      "url": "https://arxiv.org/abs/2611.25015",
+      "subjects": "cond-mat.supr-con",
+      "status": "new",
+      "score": 6.5,
+      "tags": [
+        "spintronics",
+        "topology"
+      ],
+      "why_zh": "在 $p$ 波磁体微观模型中，表明磁振子交换可诱导节点拓扑超导，且当费米面靠近磁布里渊区边界时 Umklapp 过程显著提高 $T_c$，边态出现 Majorana 平带——非常规磁性 × 拓扑超导。",
+      "summary_zh": "作者求解与局域自旋交换耦合的巡游电子弱耦合多带能隙方程，得到节点 $p$ 波能隙；当费米面趋近磁布里渊区边界时，$T_c$ 急剧上升。此时小约化动量的磁振子可以把电子散射到区界两侧的费米面片段；这类 Umklapp 过程增强配对，是因为磁原胞内不同格点对电子–磁振子顶点的贡献，比起相近约化动量的普通散射，相互抵消更弱。动量分辨绕数预言：在对称保持的边界上，若体节点投影到不同动量，将出现零能 Majorana 平带。"
+    },
+    {
+      "id": "2611.26327",
+      "title": "Quantum Metric Control of Topological Superconductivity and Incommensurate Charge Density Wave in an Interacting Lieb-Kitaev Chain Model",
+      "authors": "Jiale Xuan · Grant Z. X. Yang · K. T. Law · Xiao Yan Xu",
+      "url": "https://arxiv.org/abs/2611.26327",
+      "subjects": "cond-mat.str-el",
+      "status": "new",
+      "score": 9.5,
+      "tags": [
+        "topology",
+        "many-body"
+      ],
+      "why_zh": "在近乎带 Lieb–Kitaev 链中同时调节相互作用与量子度量，得到拓扑超导、非公度与公度电荷密度波，并说明 Majorana 零模还继承由量子度量控制的更长几何衰减长度——量子几何 × 拓扑超导。",
+      "summary_zh": "非相互作用 Lieb–Kitaev 体系中的 Majorana 零模有两种衰减：普通 BdG 长度，以及由量子度量控制的更长几何长度。作者在近乎带、有相互作用的无自旋 Lieb–Kitaev 链中同时调节相互作用强度与量子度量，识别出拓扑超导（TSC）、非公度电荷密度波（ICDW）与公度 CDW 三相。在 TSC 相内，增大相互作用会增强量子度量长度（QML）；在 ICDW 相中，量子度量调制相互作用以产生有效化学势，并导致非公度到公度的不连续转变。这些结论由低能有效理论与密度矩阵重整化群共同验证。"
+    },
+    {
+      "id": "2611.25048",
+      "title": "A Basis-Dependent Kernel for Learning Quantum Phases of Matter",
+      "authors": "Clemens Lindner · Vinícius Mohr · Adrián Pérez-Salinas",
+      "url": "https://arxiv.org/abs/2611.25048",
+      "subjects": "quant-ph",
+      "status": "new",
+      "score": 6.5,
+      "tags": [
+        "QML",
+        "many-body"
+      ],
+      "why_zh": "提出基于物理基底中逆参与比的核方法，用于学习量子物态，即使两态正交也能捕捉有物理意义的相似性，并在有限温度下比保真度核更稳健——量子机器学习 × 物态识别。",
+      "summary_zh": "数据驱动的物态识别常通过保真度等比较量子态，并在比较发生突变处定位相变。作者引入逆参与比（IPR）核，用物理上有动机的基底中的 IPR 来学习量子物态；与保真度核不同，即使两态正交，IPR 核仍能识别有物理意义的相似性。方法在横场伊辛与海森堡 XXZ 模型基态上得到检验；对横场伊辛的 Gibbs 态，在保真度核的相位信号已经退化的一段非零温度区间内，IPR 核仍保留与物态相关的结构。更一般地，结果表明量子核更受益于针对问题物理的特征映射，而非追求最大表达能力。"
+    },
+    {
+      "id": "2611.25633",
+      "title": "Interaction-driven phase transition between bosonic Moore-Read and Laughlin states in a multiple flat-band model",
+      "authors": "Licheng Wang · Jia-Yuan Wu · Dong-Hao Guan · Ai-Lei He · Yuan Zhou",
+      "url": "https://arxiv.org/abs/2611.25633",
+      "subjects": "cond-mat.str-el",
+      "status": "new",
+      "score": 8.5,
+      "tags": [
+        "entanglement",
+        "topology",
+        "many-body"
+      ],
+      "why_zh": "在多近乎带 Kekulé 格子中，于固定填充下给出由相互作用驱动的非阿贝尔 Moore–Read 与阿贝尔 Laughlin 类拓扑序之间的相变——分数陈绝缘体 × 拓扑序竞争。",
+      "summary_zh": "多近乎带格子为分数陈绝缘体及不同拓扑序的竞争提供了额外自由度。作者构造六格点 Kekulé 模型，两个低能近乎带的陈数分别为 $1$ 与 $0$。在每个原胞一个玻色子（格点填充 $1/6$）时，弱两体排斥偏向主要占据最低带的 Moore–Read 态，更强排斥则偏向两条较低带都有显著占据的 Laughlin 类态。他们用实空间与能带投影精确对角化，辅以无限密度矩阵重整化群，通过低能谱、粒子纠缠谱与多体陈数识别这两态。结果为在多层系统之外研究不同拓扑序之间的量子相变提供了另一平台。"
+    },
+    {
+      "id": "2611.25207",
+      "title": "Tunable source of entangled microwaves by nonlinear scattering of magnons",
+      "authors": "Marco Brühlmann · Carlos Gonzalez-Ballestero",
+      "url": "https://arxiv.org/abs/2611.25207",
+      "subjects": "quant-ph",
+      "status": "new",
+      "score": 6.5,
+      "tags": [
+        "spintronics",
+        "entanglement"
+      ],
+      "why_zh": "利用铁磁自旋波的本征三磁振子非线性，经自发参量下转换产生纠缠磁振子对，并分别耦合到独立微波传输线，得到频率差可由偏置场方向在数 GHz 内调节的传播微波纠缠——自旋电子学 × 量子纠缠。",
+      "summary_zh": "作者提出用铁磁磁振子的本征非线性，在空间分离的传输线中制备传播微波纠缠态。驱动磁振子模可在低温下通过三磁振子过程的自发参量下转换产生纠缠磁振子对；薄膜中的各向异性磁振子性质给出严格相位匹配，从而只有一对确定模被放大，并分别耦合到独立微波传输线，以现有实验参量即可得到非简并传播微波纠缠。两路纠缠微波的频率差可通过改变偏置磁场方向在数 GHz 范围内动态调节；材料与几何优化还可进一步提高纠缠量等指标。工作表明传播磁振子的量子态可以仅由其非线性动力学产生。"
+    },
+    {
+      "id": "2611.26497",
+      "title": "Optimal Error corrected Hamiltonian estimation with nuisance parameters",
+      "authors": "Zhiyao Hu · Haidong Yuan · Liang Jiang · Zain H. Saleem",
+      "url": "https://arxiv.org/abs/2611.26497",
+      "subjects": "quant-ph",
+      "status": "new",
+      "score": 4.5,
+      "tags": [
+        "sensing"
+      ],
+      "why_zh": "在同时存在未知冗余参量与马尔可夫噪声时，给出哈密顿参量估计达到海森堡标度的充要条件，并说明冗余参量不必（一般也不应）被局域消除——量子传感 × 量子纠错。",
+      "summary_zh": "现实量子传感往往同时受到噪声与未知冗余参量影响；既有纠错思路常试图把冗余响应与环境噪声一并局域抑制。作者指出二者施加的约束本质不同：要达到海森堡标度，马尔可夫噪声必须由量子纠错局域抑制，但冗余参量不必、一般也不应被局域消除，而应通过最优相干控制，在整个传感演化中把它们的累积效应与目标信号分开。因此，即使目标信号在瞬时与冗余参量方向对齐，海森堡标度仍可能保持，这与对齐马尔可夫噪声的情形形成鲜明对比。他们给出含时哈密顿编码、同时存在冗余参量与马尔可夫噪声时的一般框架，导出海森堡标度的充要条件、精确最优精度，并构造达到该精度的协议，从而显著扩大了可达到海森堡标度的参量区域。"
+    }
+  ]
+}
