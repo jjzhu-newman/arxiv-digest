@@ -1,0 +1,219 @@
+{
+  "date": "2026-11-24",
+  "user_tz": "America/Los_Angeles",
+  "arxiv_listing_date": "Tuesday, 24 November 2026",
+  "listing_status": "announced",
+  "listing_note": "Regular Tuesday listing, covering approximately Mon 14:00-Tue 14:00 ET. Rebuilt from the live Tuesday arXiv listings because the midnight digest still saw Monday listings.",
+  "categories": [
+    "cond-mat",
+    "quant-ph",
+    "hep-th",
+    "math-ph",
+    "cs.LG",
+    "stat.ML"
+  ],
+  "new_counts": {
+    "cond-mat": 143,
+    "quant-ph": 110,
+    "hep-th": 35,
+    "math-ph": 30,
+    "cs.LG": 220,
+    "stat.ML": 26
+  },
+  "selected_count": 12,
+  "top_picks": [
+    "2611.29976",
+    "2611.30996",
+    "2611.30441"
+  ],
+  "zotero": {
+    "live_available": false,
+    "cache_count": 187,
+    "cache_vintage_note": "~10/30 vintage",
+    "shortlist_exact_id_overlaps": []
+  },
+  "dedup": {
+    "prior_ids_count": 499
+  },
+  "rebuilt_from_arxiv": true,
+  "picks": [
+    {
+      "id": "2611.29976",
+      "title": "Pseudo-Altermagnetism in Non-Hermitian Systems",
+      "authors": "Chang-Yin Ji, Runze Li, Zhi-Ming Yu, Yugui Yao",
+      "url": "https://arxiv.org/abs/2611.29976",
+      "subjects": "Optics (physics.optics) ; Materials Science (cond-mat.mtrl-sci)",
+      "status": "cross",
+      "score": 11.5,
+      "tags": [
+        "non-Hermitian/open",
+        "altermagnetism"
+      ],
+      "why_zh": "用增益/损耗扮演交错磁自旋，在 $C_{4z}\\mathcal{T}$ 非厄米体系中给出动量依赖的增益损耗分布，以及可动但不可消除的厄米谱线与含奇异点的节点网络——非厄米 $\\times$ 交错磁。",
+      "summary_zh": "定义伪交错磁：增益损耗作为赝自旋，由满足 $O\\mathbf{k}\\neq\\mathbf{k}$ 的反幺正对称保护。二维 $C_{4z}\\mathcal{T}$ 下，孤立带有可动不可消除的厄米谱线，成对带形成交点多为奇异点的节点网络，并在非厄米光子晶体中演示方向依赖放大。"
+    },
+    {
+      "id": "2611.30996",
+      "title": "Self-consistent Floquet theory of steady-state ordering in driven open systems",
+      "authors": "Srinjoy Ghosh, Babak Seradjeh (IUB), Arijit Kundu",
+      "url": "https://arxiv.org/abs/2611.30996",
+      "subjects": "Strongly Correlated Electrons (cond-mat.str-el) ; Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+      "status": "new",
+      "score": 11.5,
+      "tags": [
+        "non-Hermitian/open",
+        "Floquet",
+        "many-body"
+      ],
+      "why_zh": "在弱库耦合下建立驱动开放系统的自洽 Floquet 有序理论，展示动力学嵌套、共振磁滞，以及磁滞分支具有不同 Floquet 拓扑——Floquet $\\times$ 开放系统。",
+      "summary_zh": "弱库耦合下把准能量占据与 micromotion 写入自洽平均场。方格子 Hubbard 中，驱动可在 $A_*$ 恢复动力学嵌套；Floquet 共振在间隙方程中造成凹口与磁滞，且不同分支具有不同 Floquet 绕组。离开半满后出现竞争非公度有序的切换。"
+    },
+    {
+      "id": "2611.30441",
+      "title": "Liouvillian Quasiparticle Spectroscopy",
+      "authors": "Kai Li, Masahito Ueda",
+      "url": "https://arxiv.org/abs/2611.30441",
+      "subjects": "Quantum Physics (quant-ph) ; Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Quantum Gases (cond-mat.quant-gas)",
+      "status": "new",
+      "score": 7.5,
+      "tags": [
+        "non-Hermitian/open",
+        "many-body"
+      ],
+      "why_zh": "引入相干与不相干 Liouvillian 准粒子及相应谱学协议，用以探测趋肤效应的谱缠绕和不同 $U(1)$ 对称破缺中的 Goldstone 模——开放量子多体。",
+      "summary_zh": "相干/不相干准粒子分别对应作用于密度矩阵一侧或两侧的微扰，并用辅助能级的相干耦合或耗散脉冲测量复能量。趋肤效应模型中二者可反向传播；弱 $U(1)$ 与强到弱 $U(1)$ 破缺分别在相干、不相干谱中给出无能隙 Goldstone 模。"
+    },
+    {
+      "id": "2611.30649",
+      "title": "Coupled Altermagnetic and Valley Physics in Monolayer VBiSe$_3$",
+      "authors": "Divyanshi Tyagi, Saswata Bhattacharya",
+      "url": "https://arxiv.org/abs/2611.30649",
+      "subjects": "Materials Science (cond-mat.mtrl-sci)",
+      "status": "new",
+      "score": 9.5,
+      "tags": [
+        "altermagnetism",
+        "topology"
+      ],
+      "why_zh": "单层 VBiSe$_3$ 的 Néel 态呈 $i$ 波交错磁劈裂，SOC 给出约 $112.2$ meV 的 $K/K'$ 谷劈裂，并在 $-1\\%$ 应变下进入准半谷金属——交错磁 $\\times$ 谷物理。",
+      "summary_zh": "单层 VBiSe$_3$ 以 Néel 反铁磁为基态，无 SOC 时呈 $i$ 波交错磁劈裂；SOC 给出约 $112.2$ meV 谷劈裂及同号不等的 Berry 曲率。$-1\\%$ 双轴压缩导致准半谷金属：电子在 $K'$ 极化，空穴在 $\\Gamma$。"
+    },
+    {
+      "id": "2611.30865",
+      "title": "Altermagnetism of MnSiN2 and MnGeN2 in a wurtzite-based crystal structure",
+      "authors": "Ilteris K. Turan, Jonathan Agrinya, Walter R. L. Lambrecht",
+      "url": "https://arxiv.org/abs/2611.30865",
+      "subjects": "Materials Science (cond-mat.mtrl-sci) ; Other Condensed Matter (cond-mat.other)",
+      "status": "new",
+      "score": 9.5,
+      "tags": [
+        "altermagnetism",
+        "spintronics"
+      ],
+      "why_zh": "纤锌矿衍生 MnSiN$_2$、MnGeN$_2$ 属于交错磁，最低能构型与中子衍射一致，并给出价带劈裂、手性磁振子与激子光学——交错磁材料。",
+      "summary_zh": "对称分析与 DFT/QSGW 确认 MnSiN$_2$、MnGeN$_2$ 为交错磁，最低能自旋群 $Pna'2_1'$ 与中子衍射一致。间接隙约 $4.4$/$3.2$ eV，价带低对称方向劈裂约 $0.1$ eV；并报告自旋波、手性磁振子与 BSE 激子。"
+    },
+    {
+      "id": "2611.28504",
+      "title": "Interstitial Magnetoelectricity in Altermagnetic Electrides",
+      "authors": "Yue Li, Shibo Fang, Jianhua Wang, Qiang Li, Weizhen Meng, Haiyu Meng, Xiong-Xiong Xue, Jianfeng Wang, Yi Du, Jing Lu, Yee Sin Ang",
+      "url": "https://arxiv.org/abs/2611.28504",
+      "subjects": "Materials Science (cond-mat.mtrl-sci) ; Computational Physics (physics.comp-ph)",
+      "status": "new",
+      "score": 8.5,
+      "tags": [
+        "altermagnetism",
+        "many-body"
+      ],
+      "why_zh": "单层交错磁电子化合物 Zr$_2$N 中，出平面电场打破间隙阴离子电子的磁补偿，实现可电控的磁电响应与自旋输运——交错磁 $\\times$ 自旋电子学。",
+      "summary_zh": "Zr$_2$N 单层中，出平面电场打破两处间隙阴离子电子的补偿，诱发净磁化并由交错磁转为亚铁磁。劈裂满足给定的场反演加九十度转动关系，积分劈裂近似随场线性变化，自旋电导率可电控。"
+    },
+    {
+      "id": "2611.30747",
+      "title": "Dephasing-Powered Autonomous Quantum Engine with Time-Crystalline Work Cycles",
+      "authors": "Zhen-huan Yang, Dan-Bo Zhang",
+      "url": "https://arxiv.org/abs/2611.30747",
+      "subjects": "Quantum Physics (quant-ph)",
+      "status": "new",
+      "score": 9.5,
+      "tags": [
+        "non-Hermitian/open",
+        "Floquet"
+      ],
+      "why_zh": "局域退相位为相互作用自旋系综供能，无需外周期驱动即可自组织出时间晶体式做功循环，负载阻尼可恢复稳定轨道——开放系统 $\\times$ 时间晶体。",
+      "summary_zh": "退相位向相互作用自旋系综注能，经 LC 腔向负载输出。弱耦合下空载耗散时间晶体可在加载后存活；强耦合下负载阻尼可恢复联合周期轨道。周期态效率约 $3.02\\%$，不间断运行时间随自旋数迅速增长。"
+    },
+    {
+      "id": "2611.30811",
+      "title": "Noise-Immune Attractors in Stochastically Driven Non-Hermitian Systems",
+      "authors": "Hanieh Najafzadeh, Radmehr Jafari, Abdollah Langari",
+      "url": "https://arxiv.org/abs/2611.30811",
+      "subjects": "Quantum Physics (quant-ph) ; Statistical Mechanics (cond-mat.stat-mech)",
+      "status": "new",
+      "score": 7.5,
+      "tags": [
+        "non-Hermitian/open",
+        "many-body"
+      ],
+      "why_zh": "随机驱动的非厄米体系可由 $T$ 对称破缺的 Liouvillian 吸引子形成噪声免疫平台，并在 Kitaev 与 SSH 模型中区分真正免疫与仅有 Krein 守恒的情形——非厄米动力学稳健性。",
+      "summary_zh": "为带高斯涨落的非厄米系统导出噪声主方程，用 Liouvillian 吸引子解释缺陷平台。Kitaev 模型给出与噪声无关的绝对平台；SSH 模型中 Krein 守恒不足，平台高度与噪声强度平方成正比。抗噪声由谱隙与模态对齐决定。"
+    },
+    {
+      "id": "2611.29463",
+      "title": "Scaling of phase rigidity without eigenstate coalescence",
+      "authors": "Shang-En Xie, Li-Mei Chen, Yao Zhou, Peng Ye",
+      "url": "https://arxiv.org/abs/2611.29463",
+      "subjects": "Quantum Physics (quant-ph) ; Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+      "status": "new",
+      "score": 5.5,
+      "tags": [
+        "non-Hermitian/open"
+      ],
+      "why_zh": "即使没有本征态合并，非厄米趋肤效应也能给出相位刚度的指数、$N^{-2}$ 趋于常数、以及 $N^{-1/2}$ 三类截然不同的有限尺寸标度——非厄米趋肤效应。",
+      "summary_zh": "普通皮肤效应下相位刚度随 $N$ 指数衰减；无标度皮肤效应以 $N^{-2}$ 修正趋于非零常数；代数皮肤效应按 $N^{-1/2}$ 趋于零。这些标度不要求本征态在奇异点合并。"
+    },
+    {
+      "id": "2611.28797",
+      "title": "Floquet-Induced Valley Polarization and Topological Phases in Twisted Bilayer Graphene Heterostructures",
+      "authors": "A. Belayadi, I. A. Assi, A. Johansson, C. I. Osuala, H. Bahlouli, Udo Schwingenschlögl, J. P. F. LeBlanc, A. Abbout",
+      "url": "https://arxiv.org/abs/2611.28797",
+      "subjects": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+      "status": "new",
+      "score": 7.5,
+      "tags": [
+        "Floquet",
+        "topology"
+      ],
+      "why_zh": "圆偏光驱动的扭转双层石墨烯异质结在反演破缺下出现单谷 Dirac 相、$C=-2/-1/0$ 相变与谷极化畴壁，并可做自旋--谷过滤——Floquet $\\times$ 谷/拓扑。",
+      "summary_zh": "圆偏光、出平面电场与类 SiC 衬底共同作用，使 tBLG 一个谷保持线性 Dirac、另一谷打开。拓扑相包括 $C=-2,-1,0$，结处出现谷极化畴壁；邻近铁磁可实现自旋--谷过滤。"
+    },
+    {
+      "id": "2611.30175",
+      "title": "Observable-Level Expressivity in Fixed-Readout Quantum Neural Networks",
+      "authors": "Iqra Bashir, Yuanfeng Wang, Mingda Huang, Keren Li, Qi Qin",
+      "url": "https://arxiv.org/abs/2611.30175",
+      "subjects": "Quantum Physics (quant-ph)",
+      "status": "new",
+      "score": 4.5,
+      "tags": [
+        "QML"
+      ],
+      "why_zh": "在固定读出的量子神经网络中，按幺正、混幺正与 CPTP 资源划分可达有效可观测量，并给出严格分离与闭式损失地板——量子机器学习。",
+      "summary_zh": "固定读出 QNN 的可达有效可观测量按资源分为固定谱轨道、主序凸包与算符区间，包含关系严格。振幅阻尼型可观测量是混幺正层的局域见证，对应损失地板 $4\\gamma^2/3$、$\\gamma^2$ 与 $0$。"
+    },
+    {
+      "id": "2611.28801",
+      "title": "Quantum Metrology With Quantum Limit Cycles",
+      "authors": "Zhi-Hao Liu, Xiangyu Niu, Keren Li, Ran Liu, Xiao-Dong Yang, Jun Li",
+      "url": "https://arxiv.org/abs/2611.28801",
+      "subjects": "Quantum Physics (quant-ph)",
+      "status": "new",
+      "score": 4.5,
+      "tags": [
+        "sensing"
+      ],
+      "why_zh": "在集体自旋中用非线性阻尼构造极限环计量协议，精度逼近 Heisenberg 标度；压缩只改善短时，长时间由相位扩散主导——量子计量。",
+      "summary_zh": "在集体衰减协议中加入非线性阻尼，形成极限环计量。半经典相位扩散理论与数值相符，精度随系统尺寸逼近 Heisenberg 标度；压缩提升短时表现，但不改变由相位扩散决定的长时间标度。"
+    }
+  ]
+}
