@@ -1,0 +1,223 @@
+{
+  "date": "2026-11-26",
+  "user_tz": "America/Los_Angeles",
+  "arxiv_listing_date": "Thursday, 26 November 2026",
+  "listing_status": "announced",
+  "listing_note": "Regular Thursday listing, announced Wednesday 20:00 ET, covering approximately Tue 14:00-Wed 14:00 ET. Thanksgiving (Thu 26 Nov) has no announcement; submissions from Wed 14:00 ET 25 Nov through Fri 14:00 ET 27 Nov are deferred to 20:00 ET Sun 29 Nov.",
+  "categories": [
+    "cond-mat",
+    "quant-ph",
+    "hep-th",
+    "math-ph",
+    "cs.LG",
+    "stat.ML"
+  ],
+  "new_counts": {
+    "cond-mat": 86,
+    "quant-ph": 84,
+    "hep-th": 39,
+    "math-ph": 18,
+    "cs.LG": 143,
+    "stat.ML": 14
+  },
+  "selected_count": 12,
+  "top_picks": [
+    "2611.33294",
+    "2611.34916",
+    "2611.33328"
+  ],
+  "zotero": {
+    "live_available": false,
+    "cache_count": 187,
+    "cache_vintage_note": "~10/30 vintage",
+    "shortlist_exact_id_overlaps": []
+  },
+  "dedup": {
+    "prior_ids_count": 523
+  },
+  "picks": [
+    {
+      "id": "2611.33294",
+      "title": "Spin superfluid transport of magnons in altermagnetic insulators",
+      "authors": "Dele Li, Meng-Han Zhang, Dao-Xin Yao",
+      "url": "https://arxiv.org/abs/2611.33294",
+      "subjects": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+      "status": "new",
+      "score": 17.5,
+      "tags": [
+        "altermagnetism",
+        "spintronics"
+      ],
+      "why_zh": "在交错磁绝缘体中讨论由易面奈尔序相位承载的自旋超流，指出手性劈裂磁振子色散带来的动量空间各向异性，并建议用自旋霍尔磁电阻与自旋塞贝克效应测量衰变长度——交错磁自旋输运。",
+      "summary_zh": "在 Lieb 与反 Lieb 格子上，易面各向异性提供 $U(1)$ 平台，非相对论性自旋劈裂带来 $B_{1g}$ 对称的子晶格交替交换不平衡。连续理论与 Landau-Lifshitz-Gilbert 模拟表明，临界稳定边界上 Goldstone 模变为二次色散；轴向相位梯度会把相位通道的谱权重转移到带隙模，对角方向的流则没有这些特征。自旋超流因手性劈裂磁振子色散而具有动量空间各向异性，强磁场或升温会抑制相位相干。计入界面热磁振子后，临界自旋流随注入角变化，体现交错磁晶场效应；衰变长度与界面自旋混合电导成比例，可用自旋霍尔磁电阻和自旋塞贝克效应测量。作者认为 $\\mathrm{La_2O_3FeMnSe_2}$ 等交错磁绝缘体是低耗散自旋输运的候选平台。"
+    },
+    {
+      "id": "2611.34916",
+      "title": "Complementary mechanisms of critical quantum metrology",
+      "authors": "Nikita Leppenen, Shaked Levy, Ephraim Shahmoon",
+      "url": "https://arxiv.org/abs/2611.34916",
+      "subjects": "Quantum Physics (quant-ph)",
+      "status": "new",
+      "score": 9.5,
+      "tags": [
+        "sensing",
+        "non-Hermitian/open"
+      ],
+      "why_zh": "指出临界计量既可以靠增强响应，也可以靠压低量子噪声；两种机制在相干辐射自旋态上给出相同的 $N^{-2/3}$ 误差，优于标准量子极限——量子传感/计量。",
+      "summary_zh": "传统临界计量利用相变附近对系统参数的增强敏感度。本文在相干辐射自旋态（CRSS，即集体降低算符具有复本征值 $r e^{-i\\varphi}$ 的渐近本征态）上展示互补机制：在临界点 $r=1$ 的二阶转变附近，估计 $r$ 受益于增强敏感度（尽管噪声增大），估计 $\\varphi$ 则受益于被压低的量子噪声而非增强响应。两者误差同为 $\\sim N^{-2/3}$，优于标准量子极限 $N^{-1/2}$；对 $\\varphi$ 而言，这是对临界系统内禀相位的量子增强计量，而不是外加干涉相位编码。结果在耗散（超辐射）与哈密顿（Ising）两类实现中都成立，并与腔 QED、离子阱中的快速制备相关。"
+    },
+    {
+      "id": "2611.33328",
+      "title": "Chiral Domain-Wall Modes in Topological Adaptive Quantum Dynamics",
+      "authors": "Asadullah Bhuiyan, Haining Pan, Chao-Ming Jian",
+      "url": "https://arxiv.org/abs/2611.33328",
+      "subjects": "Quantum Physics (quant-ph) ; Disordered Systems and Neural Networks (cond-mat.dis-nn); Statistical Mechanics (cond-mat.stat-mech); Strongly Correlated Electrons (cond-mat.str-el)",
+      "status": "new",
+      "score": 8.5,
+      "tags": [
+        "entanglement",
+        "topology",
+        "many-body"
+      ],
+      "why_zh": "在 2+1 维电荷守恒的自由费米子自适应电路中，拓扑不同动力学相的时空畴壁上出现受保护的手性模，其长期纠缠与关联接近 1+1 维手性自由费米共形场——测量驱动动力学 $\\times$ 拓扑。",
+      "summary_zh": "由幺正演化与测量共同驱动的量子动力学相，其拓扑后果仍不如纠缠与对称性那样清楚。作者用自适应电路把畴壁两侧分别导向陈绝缘体与平庸绝缘体。虽然电路并不指定特定壁态，每条壁上仍出现 $1+1$ 维手性动力学拓扑畴壁模（DTDM）。在各条量子轨迹的长时间极限，纠缠与电荷方差呈对数标度、密度关联代数衰减，竟与 $1+1$ 维手性自由费米共形场的基态一致；这与纯 $1+1$ 维、有限测量率下仅有面积律纠缠的自由费米子动力学形成对照。手性 DTDM 还表现出缓慢纯化：从最大混合态出发熵代数衰减、Lyapunov 间隙趋于零，而各畴本身在 $\\mathcal{O}(1)$ 时间尺度纯化。结果表明自适应动力学的拓扑相可以在反复塌缩与 Born 随机性下保护时空畴壁上的手性模。"
+    },
+    {
+      "id": "2611.34513",
+      "title": "Magnetic Reconfiguration Controls Spin Splitting and Spin-Orbit-Coupled Responses in Compensated Magnets",
+      "authors": "Yongqian Zhu, Lu Liu, Xiaobing Chen, Tong Zou, Yuntian Liu, Zehao Ji, Qihang Liu",
+      "url": "https://arxiv.org/abs/2611.34513",
+      "subjects": "Materials Science (cond-mat.mtrl-sci)",
+      "status": "new",
+      "score": 12.5,
+      "tags": [
+        "altermagnetism",
+        "spintronics",
+        "spin-Hall"
+      ],
+      "why_zh": "指出在近简并能的磁构型之间做局域磁矩的选择性翻转，即可在补偿磁体中大幅改写非相对论性自旋劈裂与自旋轨道耦合响应，并把交错磁构型转成补偿亚铁磁后激活一阶反常霍尔——交错磁/补偿磁体对称性调控。",
+      "summary_zh": "自旋简并反铁磁、交错磁与补偿亚铁磁都可通过磁重构（晶格不变、选择性翻转局域磁矩）改变能带与输运。近简并能的不同磁构型可以给出定性不同的自旋劈裂与反常霍尔。紧束缚模型、定向自旋空间群与第一性原理计算表明，把交错磁构型转为补偿亚铁磁会激活交错在位势对自旋劈裂的贡献，补充交错磁的各向异性跃迁机制，并解除对称性强制的简并。补偿亚铁磁对称性允许自旋轨道耦合的一阶反常霍尔，而相应交错磁态往往是更高阶或受取向限制的。作者在 MAGNDATA 中找到 12 个补偿亚铁磁候选，并以 $\\mathrm{Mn_2Mo_3O_8}$ 演示，还从共线反铁磁（如 $\\mathrm{MnGeO_3}$、$\\mathrm{Co_2Mo_3O_8}$）设计出同类态。"
+    },
+    {
+      "id": "2611.33544",
+      "title": "Machine-Learning Spin-Fermion Models for Strongly Disordered Magnets: Sb-Doped MnTe",
+      "authors": "Do Hoon Kiem, Parul R. Raghuvanshi, David S. Parker, Lucas Lindsay, Valentino R. Cooper, Tom Berlijn",
+      "url": "https://arxiv.org/abs/2611.33544",
+      "subjects": "Materials Science (cond-mat.mtrl-sci) ; Disordered Systems and Neural Networks (cond-mat.dis-nn); Strongly Correlated Electrons (cond-mat.str-el)",
+      "status": "new",
+      "score": 11.5,
+      "tags": [
+        "altermagnetism",
+        "spintronics",
+        "many-body"
+      ],
+      "why_zh": "用机器学习把第一性原理计算重正化为无序自旋–费米子模型，从而在大超胞中处理 Sb 掺杂 MnTe，并给出交错磁可维持到约 25% Sb 的结论——机器学习哈密顿量 $\\times$ 交错磁。",
+      "summary_zh": "多数交错磁是绝缘体，掺杂可导致金属性，但化学与磁无序很难直接用第一性原理处理。本文把第一性原理结果学习、重正化到无序自旋–费米子模型上，能复现磁与电子结构，并预言大无序超胞中数以百万计的不等价长程交换。应用于 Sb 掺杂 MnTe 时，交错磁性大约可维持到 25% Sb，并指出无序展宽是控制自旋选择性的新因素。这为强无序材料中“重正化 + 机器学习哈密顿量”提供了一条路径。"
+    },
+    {
+      "id": "2611.34076",
+      "title": "Quantum Geometric Origin of Néel-Order-Driven Magneto-Optical Response in MnTe",
+      "authors": "Suman Rooj, M. S. Mrudul, Daegeun Jo, Peter M. Oppeneer",
+      "url": "https://arxiv.org/abs/2611.34076",
+      "subjects": "Materials Science (cond-mat.mtrl-sci)",
+      "status": "new",
+      "score": 9.5,
+      "tags": [
+        "altermagnetism",
+        "topology"
+      ],
+      "why_zh": "在交错磁 MnTe 中表明奈尔序的对称性通过量子度规与贝里曲率分别印到磁光响应上，给出表征奈尔矢量取向的二回与三回光学特征——交错磁 $\\times$ 量子几何。",
+      "summary_zh": "补偿磁序的磁光探测一直不容易。第一性原理计算结合朗道对称性分析表明，量子度规导致二回光学各向异性，其对角与对称非对角分量构成与二次奈尔序不变量相关的 $E_{2g}$ 双重态，成为奈尔矢量取向的 Voigt 特征；贝里曲率则给出由三次 $A_{2g}$ 不变量支配的三回霍尔响应。霍尔电导与面外弱铁磁矩虽有相同对称性与角依赖，但把后者约束为零后光学霍尔几乎不变，说明该霍尔响应直接来自补偿奈尔序而非净磁化。"
+    },
+    {
+      "id": "2611.34665",
+      "title": "Transverse Shifts Driven by Geometric Orbital Torque in Altermagnets",
+      "authors": "Runze Li, Yugui Yao, Zhi-Ming Yu",
+      "url": "https://arxiv.org/abs/2611.34665",
+      "subjects": "Materials Science (cond-mat.mtrl-sci)",
+      "status": "new",
+      "score": 9.5,
+      "tags": [
+        "altermagnetism",
+        "spintronics"
+      ],
+      "why_zh": "提出不依赖自旋轨道耦合、仅由费米面各向异性产生的几何轨道力矩，可在全反射中造成横向位移，并在交错磁中给出本征的空间自旋分离——交错磁自旋分离/探测。",
+      "summary_zh": "界面反射中的反常横向位移通常被归于自旋轨道耦合或其赝自旋对应物。本文指出，全反射时波包以倏逝波穿入各向异性透射介质，绕界面法向的转动对称性被打破，轨道力矩在驻留时间内积累角冲量，从而产生横向空间位移。在无自旋轨道耦合的交错磁中，该力矩对自旋为奇，两条自旋通道被折向入射面两侧，形成本征空间自旋分离；位移还继承交错磁自旋劈裂的角对称性，并在全反射阈值附近显著增强，可作为交错磁序的直接探针。"
+    },
+    {
+      "id": "2611.34780",
+      "title": "Emergent Chern metal in strongly correlated moiré bilayers",
+      "authors": "Kaushal Kumar Kesharpu, Evgenii A. Kochetov",
+      "url": "https://arxiv.org/abs/2611.34780",
+      "subjects": "Strongly Correlated Electrons (cond-mat.str-el) ; Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Materials Science (cond-mat.mtrl-sci)",
+      "status": "new",
+      "score": 13.5,
+      "tags": [
+        "topology",
+        "spin-Hall",
+        "many-body"
+      ],
+      "why_zh": "在强关联莫尔 TMD 双层的自旋–电荷分离背景下，指出间接能隙大多被不对称能带扭曲关闭，从而在广阔参数区稳定陈数为 $\\pm 1$ 的拓扑陈金属，并给出非量子化反常霍尔与有限纵向电导——关联拓扑物态。",
+      "summary_zh": "有效低能哈密顿量描述在非共面自旋子背景中运动的无自旋 holon。不对称能带扭曲使全局间接能隙在大部分参数空间关闭，真正的拓扑绝缘体只出现在精细调控的临界轨迹上；但局域直接能隙仍然存在，从而稳定广阔的陈金属区（$C=\\pm 1$）。该相给出可观的非量子化反常霍尔，同时保持有限纵向电导，为莫尔系统中耗散性反常霍尔态提供了纯电子的强耦合机制。"
+    },
+    {
+      "id": "2611.34883",
+      "title": "Transition Path Sampling for Rare Events in Non-Markovian Open Quantum Systems",
+      "authors": "Ritesh Pant, Kai Müller, Tarun Gera, Doran I. G. B. Raccah",
+      "url": "https://arxiv.org/abs/2611.34883",
+      "subjects": "Quantum Physics (quant-ph) ; Statistical Mechanics (cond-mat.stat-mech); Chemical Physics (physics.chem-ph); Optics (physics.optics)",
+      "status": "new",
+      "score": 5.5,
+      "tags": [
+        "non-Hermitian/open"
+      ],
+      "why_zh": "把跃迁路径抽样推广到非马尔可夫量子态扩散，从而可处理高斯浴下强耦合、非马尔可夫开放系统中的稀有跃迁——开放量子系统方法。",
+      "summary_zh": "许多开放系统的动力学由稀有跃迁支配，但已有量子 TPS 多限于马尔可夫、微扰描述。本文针对高斯浴精确的非马尔可夫量子态扩散建立 TPS，使方法进入非马尔可夫与强耦合区间。在非平衡开放 Dicke 模型的正常态–超辐射隧穿中，可计算低至 $10^{-8}$ 的概率，以及暴力采样难以达到的速率。"
+    },
+    {
+      "id": "2611.34066",
+      "title": "A Path Integral Method with Far-Field Expansion for Open Quantum Dynamics",
+      "authors": "Zhenning Cai",
+      "url": "https://arxiv.org/abs/2611.34066",
+      "subjects": "Quantum Physics (quant-ph)",
+      "status": "new",
+      "score": 5.5,
+      "tags": [
+        "non-Hermitian/open"
+      ],
+      "why_zh": "在 QuAPI 与 Dyson 级数快速重求和之间建立联系，提出带远场展开的路径积分方法，以更低存储处理更长浴记忆的开放量子动力学——开放量子系统数值方法。",
+      "summary_zh": "PIFFE 把 QuAPI 与浴影响远场的泰勒展开结合，只对 $r$ 步以内的相互作用保留指数形式。固定末时刻下误差为 $O(\\Delta t^2)$，且没有随机或张量压缩误差。自旋–玻色模型测试表明，即使 $r$ 较小，PIFFE 也比 FRODS 更接近 QuAPI，而存储明显少于 QuAPI，从而允许更长的浴记忆和多能级系统模拟。截断浴记忆并限制辅助自由度可进一步降低存储与计算量。"
+    },
+    {
+      "id": "2611.34755",
+      "title": "Fewer Parameters, Longer Runtimes: The Wall-Clock Cost of Hybrid Quantum Physics-Informed Neural Networks",
+      "authors": "Leyan Lyu, Shabnam Jabeen",
+      "url": "https://arxiv.org/abs/2611.34755",
+      "subjects": "Quantum Physics (quant-ph) ; Computational Physics (physics.comp-ph)",
+      "status": "new",
+      "score": 5.5,
+      "tags": [
+        "PINN/NNQS",
+        "QML"
+      ],
+      "why_zh": "在一维扩散基准上系统计时，表明杂化量子–经典物理信息神经网络虽然参数更少，但各阶段墙钟时间仍比经典 PINN 慢一个数量级以上——量子 PINN 的实际代价。",
+      "summary_zh": "杂化 QCPINN 常因可训练参数更少而被视为更高效，但参数量并不等于墙钟成本。作者在 CPU 上模拟量子线路，对经典 PINN、四种不同比特数与线路深度的杂化配置，以及共享杂化经典层的尺寸对照网络，分别计时前向、输入一/二阶梯度与 PDE 损失对参数的梯度。杂化模型前向比经典 PINN 慢 14–56 倍，PDE 损失参数梯度慢 10–97 倍；即便对比尺寸匹配的经典对照，仍慢 9–85 倍。运行时间随比特数近似指数增长、随线路深度近似线性增长；量子线路本身最多只占杂化模型参数的 2.5%，参数更少主要来自更小的经典层。结论是：更少参数并不意味着更低成本。"
+    },
+    {
+      "id": "2611.34880",
+      "title": "Spin Loop Currents and Bulk-Edge Structure in Correlated Topological States of WSe$_2$/MoTe$_2$ Bilayers",
+      "authors": "Po-Jui Chen, Kevin P. Lucht, Andreas Gleis, Andrew J. Millis, J. H. Pixley, Daniele Guerci",
+      "url": "https://arxiv.org/abs/2611.34880",
+      "subjects": "Strongly Correlated Electrons (cond-mat.str-el)",
+      "status": "new",
+      "score": 8.5,
+      "tags": [
+        "spintronics",
+        "topology",
+        "many-body"
+      ],
+      "why_zh": "在 AB 堆叠 $\\mathrm{WSe_2/MoTe_2}$ 中表明，层间非局域相互作用可通过由 Ising 自旋轨道耦合与关联共同产生的自旋环流，驱动拓扑近藤半金属与拓扑近藤绝缘体之间的转变，并影响边缘电导——关联拓扑 $\\times$ 自旋轨道。",
+      "summary_zh": "理论包含价涨落、局域与延展 Hubbard 作用，以及 $\\mathrm{MoTe_2}$ 层载流子之间的非局域相互作用。在 parton 平均场下，$\\mathrm{MoTe_2}$ 载流子的非局域相互作用可在填充 $\\nu=2$ 处驱动拓扑近藤半金属与拓扑近藤绝缘体之间的转变，作者将其归因于 Ising 自旋轨道耦合与非局域关联共同产生的自旋环流。该环流还会影响边缘输运，使两点电导在某些偏压下取量子化值。"
+    }
+  ]
+}
